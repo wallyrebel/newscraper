@@ -54,6 +54,7 @@ class PostItem:
     pub_dt_iso: str
     author: str
     summary: str
+    content_html: str
     image_url: str
 
     def as_state(self) -> dict[str, str]:
@@ -65,6 +66,7 @@ class PostItem:
             "pub_dt_iso": self.pub_dt_iso,
             "author": self.author,
             "summary": self.summary,
+            "content_html": self.content_html,
             "image_url": self.image_url,
         }
 
@@ -78,6 +80,7 @@ class PostItem:
             pub_dt_iso=str(data.get("pub_dt_iso", "")).strip(),
             author=str(data.get("author", "")).strip(),
             summary=str(data.get("summary", "")).strip(),
+            content_html=str(data.get("content_html", "")).strip(),
             image_url=str(data.get("image_url", "")).strip(),
         )
 
@@ -146,6 +149,13 @@ def looks_like_post_url(url: str) -> bool:
     if "/category/" in f"/{path}/":
         return False
     if path.startswith("page/") or path.endswith("/page"):
+        return False
+    # Reject date archive pages such as /2026/02/18.
+    if re.fullmatch(r"\d{4}", path):
+        return False
+    if re.fullmatch(r"\d{4}/\d{2}", path):
+        return False
+    if re.fullmatch(r"\d{4}/\d{2}/\d{2}", path):
         return False
     if any(path.startswith(prefix) for prefix in ("tag/", "author/", "wp-", "feed")):
         return False
@@ -317,21 +327,55 @@ def extract_featured_image(soup: BeautifulSoup, page_url: str) -> str:
     return ""
 
 
-def extract_summary(soup: BeautifulSoup) -> str:
-    for selector in [
-        "article .entry-content p",
-        ".post-content p",
-        ".entry-content p",
-        "article p",
-    ]:
-        paragraphs = soup.select(selector)
-        for p_tag in paragraphs:
-            text = " ".join(p_tag.get_text(" ", strip=True).split())
-            if len(text) >= 40:
-                return text
+def normalize_whitespace(text: str) -> str:
+    return " ".join(text.split())
 
-    body_text = " ".join(soup.get_text(" ", strip=True).split())
-    return body_text[:280] if body_text else ""
+
+def extract_article_paragraphs(soup: BeautifulSoup) -> list[str]:
+    container_selectors = [
+        ".elementor-widget-theme-post-content .elementor-widget-container",
+        "article .entry-content",
+        ".post-content",
+        ".entry-content",
+        "article",
+    ]
+    for selector in container_selectors:
+        containers = soup.select(selector)
+        for container in containers:
+            paragraphs: list[str] = []
+            for p_tag in container.select("p"):
+                if p_tag.find_parent("noscript") is not None:
+                    continue
+                text = normalize_whitespace(p_tag.get_text(" ", strip=True))
+                if not text:
+                    continue
+                paragraphs.append(text)
+            if len(paragraphs) >= 2:
+                return paragraphs
+
+    return []
+
+
+def build_content_html(paragraphs: list[str]) -> str:
+    return "".join(f"<p>{html.escape(paragraph)}</p>" for paragraph in paragraphs if paragraph)
+
+
+def extract_summary(soup: BeautifulSoup, paragraphs: list[str]) -> str:
+    for paragraph in paragraphs:
+        if len(paragraph) >= 40:
+            return paragraph
+    if paragraphs:
+        return paragraphs[0]
+
+    meta_description = extract_meta_content(
+        soup,
+        [
+            {"property": "og:description"},
+            {"name": "description"},
+            {"name": "twitter:description"},
+        ],
+    )
+    return normalize_whitespace(meta_description)[:280] if meta_description else ""
 
 
 def extract_author(soup: BeautifulSoup) -> str:
@@ -369,7 +413,9 @@ def scrape_post(session: requests.Session, url: str) -> PostItem | None:
     canonical_link = extract_canonical_url(soup, url)
     pub_dt = extract_publish_datetime(soup)
     author = extract_author(soup)
-    summary = extract_summary(soup)
+    paragraphs = extract_article_paragraphs(soup)
+    summary = extract_summary(soup, paragraphs)
+    content_html = build_content_html(paragraphs)
     image_url = extract_featured_image(soup, canonical_link)
 
     return PostItem(
@@ -380,6 +426,7 @@ def scrape_post(session: requests.Session, url: str) -> PostItem | None:
         pub_dt_iso=pub_dt.isoformat(),
         author=author,
         summary=summary,
+        content_html=content_html,
         image_url=image_url,
     )
 
@@ -389,7 +436,9 @@ def build_item_description(item: PostItem) -> str:
     if item.image_url:
         escaped_image = html.escape(item.image_url, quote=True)
         parts.append(f'<p><img src="{escaped_image}" alt="{html.escape(item.title)}" /></p>')
-    if item.summary:
+    if item.content_html:
+        parts.append(item.content_html)
+    elif item.summary:
         parts.append(f"<p>{html.escape(item.summary)}</p>")
     return "".join(parts)
 
@@ -424,6 +473,7 @@ def write_rss(output_path: Path, items: list[PostItem], feed_url: str) -> None:
         {
             "version": "2.0",
             "xmlns:atom": "http://www.w3.org/2005/Atom",
+            "xmlns:content": "http://purl.org/rss/1.0/modules/content/",
             "xmlns:media": "http://search.yahoo.com/mrss/",
         },
     )
@@ -449,7 +499,12 @@ def write_rss(output_path: Path, items: list[PostItem], feed_url: str) -> None:
         ET.SubElement(item_el, "pubDate").text = item.pub_date
         if item.author:
             ET.SubElement(item_el, "author").text = item.author
-        ET.SubElement(item_el, "description").text = build_item_description(item)
+        description_html = build_item_description(item)
+        ET.SubElement(item_el, "description").text = description_html
+        if item.content_html:
+            ET.SubElement(item_el, "{http://purl.org/rss/1.0/modules/content/}encoded").text = (
+                description_html
+            )
         if item.image_url:
             media_content = ET.SubElement(item_el, "{http://search.yahoo.com/mrss/}content")
             media_content.set("url", item.image_url)
@@ -535,8 +590,17 @@ def main() -> int:
     for link, item_data in state_items.items():
         item_cache[normalize_post_url(link)] = PostItem.from_state(item_data)
 
-    for idx, url in enumerate(new_urls, start=1):
-        logging.info("Scraping new post (%s/%s): %s", idx, len(new_urls), url)
+    refresh_urls: list[str] = []
+    for url in discovered_urls:
+        cached = item_cache.get(normalize_post_url(url))
+        if cached and not cached.content_html:
+            refresh_urls.append(url)
+    if refresh_urls:
+        logging.info("Refreshing %s cached items missing full content", len(refresh_urls))
+
+    fetch_urls = list(dict.fromkeys(new_urls + refresh_urls))
+    for idx, url in enumerate(fetch_urls, start=1):
+        logging.info("Scraping post (%s/%s): %s", idx, len(fetch_urls), url)
         item = scrape_post(session, url)
         if item is None:
             logging.warning("Skipping failed post scrape: %s", url)
