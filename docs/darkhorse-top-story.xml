@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Darkhorse Press - Top Story</title>
+    <link>https://darkhorsepressnow.com/category/news/top-story/</link>
+    <description>Latest Top Story posts from Darkhorse Press.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 1970 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://&lt;username&gt;.github.io/&lt;repo&gt;/darkhorse-top-story.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
