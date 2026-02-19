@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-02-16/ocean-springs-police-seek-woman-wanted-on-felony-exploitation-charge": {
-      "author": "Therese Apel",
-      "content_html": "<p>OCEAN SPRINGS \u2014 Ocean Springs police are searching for a 30-year-old woman wanted on a charge of felony exploitation of a vulnerable adult.</p><p>According to the Ocean Springs Police Department, Kiera Gaines drives a silver Nissan Altima bearing Mississippi tag HEE163. She is known to frequently travel throughout the Mississippi Coast, including Gulfport, Biloxi and Ocean Springs.</p><p>No further details were released about the situation leading to her charges.</p><p>Authorities are asking anyone with information about her whereabouts to contact Crime Stoppers by downloading the P3 Tips app or by calling **TIPS. To be eligible for a reward, information must be submitted directly through Crime Stoppers.</p><p>All persons are presumed innocent until proven guilty in a court of law.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-02-16/ocean-springs-police-seek-woman-wanted-on-felony-exploitation-charge",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/02/Kiera-Gaines.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-02-16/ocean-springs-police-seek-woman-wanted-on-felony-exploitation-charge",
-      "pub_date": "Mon, 16 Feb 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-02-16T00:00:00+00:00",
-      "summary": "OCEAN SPRINGS \u2014 Ocean Springs police are searching for a 30-year-old woman wanted on a charge of felony exploitation of a vulnerable adult.",
-      "title": "Ocean Springs police seek woman wanted on felony exploitation charge - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-02-16/police-seek-publics-help-finding-missing-101-year-old-gulfport-man": {
       "author": "Therese Apel",
       "content_html": "<p>GULFPORT \u2014 The Gulfport Police Department is asking for the public\u2019s help in locating a 101-year-old man who was last seen Saturday.</p><p>Joseph Edward Hyland, of Gulfport, was last seen Feb. 14 in the 1800 block of Beach Drive, according to police.</p><p>Hyland is described as 5 feet 10 inches tall and weighing approximately 180 pounds. He has green eyes and gray hair.</p><p>Police said he is believed to be driving a white 2005 Honda Accord.</p><p>Anyone with information about Hyland\u2019s whereabouts is urged to contact the Gulfport Police Department at 228-868-5959 or Mississippi Coast Crime Stoppers at 877-787-5898.</p>",
@@ -429,6 +418,17 @@
       "summary": "JACKSON \u2014 A man believed to have been reported missing earlier in the day was found shot to death Tuesday night inside a vacant residence in the 3600 block of Skyline Drive, authorities said.",
       "title": "Man Found Shot to Death in Vacant Skyline Drive Home - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-02-19/officer-prisoner-killed-in-i-10-crash-involving-transport-van-in-jackson-county": {
+      "author": "Morgan Howard",
+      "content_html": "<p>JACKSON COUNTY \u2013 A prisoner and a transport officer were killed and three other people were seriously injured Wednesday morning when a private prisoner transport van crashed on Interstate 10 in Jackson County, according to WLOX.</p><p>WLOX reported the crash happened around 9:30 a.m. in the westbound lanes of I-10 near the Ocean Springs Exit 50 ramp to Mississippi Highway 609. The van struck a pole, overturned and collided with a utility truck.</p><p>The Mississippi Highway Patrol said there were four people inside the transport van and one person in the utility truck. Two people in the van, an officer and a prisoner, died, and the other two occupants in the van were critically injured, WLOX reported.</p><p>The utility truck driver was taken to a local hospital in stable condition.</p><p>WLOX reported a medical helicopter was called to transport one of the most critically injured victims. After the crash, the van caught fire, and the Jackson County Sheriff\u2019s Office arrived first and put out the fire, according to the station. Jackson County Fire then cut into the van to rescue those inside.</p><p>The transport van was operated by St. Joseph Services, a private prisoner transport company, WLOX reported. The station said the trip began Tuesday night and involved prisoners picked up in Florida, with planned destinations including Ocean City, New Jersey, and Spaulding, Georgia. The van was also in Mississippi to pick up an inmate from the Harrison County Adult Detention Center when it crashed, according to the report.</p><p>Multiple agencies responded and a crash reconstruction was conducted. The cause of the crash had not been released as of Wednesday, WLOX reported.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-02-19/officer-prisoner-killed-in-i-10-crash-involving-transport-van-in-jackson-county",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2024/01/fatal-crash-4.png",
+      "link": "https://darkhorsepressnow.com/news/2026-02-19/officer-prisoner-killed-in-i-10-crash-involving-transport-van-in-jackson-county",
+      "pub_date": "Thu, 19 Feb 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-02-19T00:00:00+00:00",
+      "summary": "JACKSON COUNTY \u2013 A prisoner and a transport officer were killed and three other people were seriously injured Wednesday morning when a private prisoner transport van crashed on Interstate 10 in Jackson County, according to WLOX.",
+      "title": "Officer, prisoner killed in I-10 crash involving transport van in Jackson County - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-02-19/thursday-weather-cloudy-and-warm-slight-chance-of-rain-later": {
       "author": "Mary Apel",
       "content_html": "",
@@ -441,8 +441,9 @@
       "title": "Thursday Weather: Cloudy and warm, slight chance of rain later - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-02-19T14:10:38.030606+00:00",
+  "last_run_utc": "2026-02-19T14:34:56.091130+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-02-19/officer-prisoner-killed-in-i-10-crash-involving-transport-van-in-jackson-county",
     "https://darkhorsepressnow.com/news/2026-02-19/man-found-shot-to-death-in-vacant-skyline-drive-home",
     "https://darkhorsepressnow.com/news/2026-02-19/thursday-weather-cloudy-and-warm-slight-chance-of-rain-later",
     "https://darkhorsepressnow.com/news/2026-02-18/three-arrested-after-joint-narcotics-operation-in-forrest-lamar-county",
