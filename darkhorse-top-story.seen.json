@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-02-18/student-taken-into-custody-after-handgun-found-in-vehicle-at-alcorn-central-high-school": {
-      "author": "Morgan Howard",
-      "content_html": "<p>ALCORN COUNTY \u2014 A student was taken into custody after a handgun was found inside a vehicle that entered Alcorn Central High School\u2019s campus, according to the Alcorn School District.</p><p>District officials said the school received a tip Thursday morning about a potential safety concern involving a vehicle coming onto campus. School and district personnel responded and approached the vehicle as soon as it entered school grounds, officials said.</p><p>The district said the vehicle was searched and a handgun was located inside. The firearm was immediately seized, and the student was taken into custody by the Alcorn County Sheriff\u2019s Department.</p><p>Based on information available, the district said officials believe the incident was isolated. The district said no additional details would be released because the matter is now under investigation by law enforcement.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-02-18/student-taken-into-custody-after-handgun-found-in-vehicle-at-alcorn-central-high-school",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2022/04/megan-lee-T8nLapDk1zM-unsplash-scaled.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-02-18/student-taken-into-custody-after-handgun-found-in-vehicle-at-alcorn-central-high-school",
-      "pub_date": "Wed, 18 Feb 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-02-18T00:00:00+00:00",
-      "summary": "ALCORN COUNTY \u2014 A student was taken into custody after a handgun was found inside a vehicle that entered Alcorn Central High School\u2019s campus, according to the Alcorn School District.",
-      "title": "Student taken into custody after handgun found in vehicle at Alcorn Central High School - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-02-18/suspect-in-raymond-road-homicide-given-no-bond-on-murder-charge": {
       "author": "Morgan Howard",
       "content_html": "<p>JACKSON \u2013 A suspect in Jackson\u2019s seventh homicide of the year appeared in municipal court Wednesday and was ordered held without bond on a murder charge, according to the Jackson Police Department.</p><p>Police said Jamecia Harper appeared before a municipal court judge on Feb. 18, 2026, in connection with Homicide No. 7, which investigators have linked to a case in the 1600 block of Raymond Road.</p><p>Authorities said Harper received a $50,000 bond on a charge of convicted felon in possession of a firearm and was denied bond on the murder charge.</p><p>The case remains under investigation. Anyone with information is asked to contact the Jackson Police Department at 601-960-1234 or Crime Stoppers at 601-355-TIPS (8477).</p>",
@@ -396,6 +385,17 @@
       "summary": "USA \u2014 National Caregivers Day, observed the third Friday in February, honors the millions of Americans who provide daily care to loved ones, patients and residents, often with little recognition and, in most cases, no pay at all.",
       "title": "National Caregivers Day Shines Light on Millions Providing Unseen, Unpaid Care - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-02-20/pedestrian-hit-by-vehicle-in-tupelo": {
+      "author": "Morgan Howard",
+      "content_html": "<p>TUPELO \u2014 Tupelo police were responding Friday to a vehicle-versus-pedestrian crash on North Gloster Street near McCullough Boulevard.</p><p>The Tupelo Police Department said an adult pedestrian was injured and transported to North Mississippi Medical Center for treatment. The extent of the injuries was not released.</p><p>Police urged motorists to use caution in the area and consider alternate routes while emergency crews worked the scene.</p><p>Authorities said additional information may be released as it becomes available.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-02-20/pedestrian-hit-by-vehicle-in-tupelo",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2022/01/michael-fortsch-y5LaV9IEC_g-unsplash-scaled-e1646618817809.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-02-20/pedestrian-hit-by-vehicle-in-tupelo",
+      "pub_date": "Fri, 20 Feb 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-02-20T00:00:00+00:00",
+      "summary": "TUPELO \u2014 Tupelo police were responding Friday to a vehicle-versus-pedestrian crash on North Gloster Street near McCullough Boulevard.",
+      "title": "Pedestrian hit by vehicle in Tupelo - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-02-20/second-suspect-arrested-in-scheffel-road-atv-theft-case-in-adams-county": {
       "author": "Morgan Howard",
       "content_html": "<p>ADAMS COUNTY \u2013 A second suspect has been arrested in an ongoing investigation into the theft and recovery of an all-terrain vehicle from property on Scheffel Road, according to the Adams County Sheriff\u2019s Office.</p><p>Sheriff\u2019s officials said Jerry W. Rodgers Jr., 49, of Natchez, was taken into custody Friday, Feb. 20, 2026, at about 7:54 a.m. He was charged with receiving, possessing, or disposing of stolen property.</p><p>Rodgers was booked into the Adams County Jail, and bond was set at $60,000.</p><p>Authorities said the arrest follows the recovery of the stolen ATV and the earlier arrest of Amanda Breland on related charges. Investigators said the case remains active and additional arrests are possible.</p><p>Anyone with information is asked to contact the Adams County Sheriff\u2019s Office at 601-442-2752 or Adams County E911.</p>",
@@ -441,8 +441,9 @@
       "title": "UMMC says FBI teams assisting onsite as cyberattack response continues - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-02-20T22:58:40.872903+00:00",
+  "last_run_utc": "2026-02-20T23:14:18.473754+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-02-20/pedestrian-hit-by-vehicle-in-tupelo",
     "https://darkhorsepressnow.com/news/2026-02-20/hattiesburg-police-arrest-armed-robbery-suspect-hiding-in-attic-after-hours-long-standoff",
     "https://darkhorsepressnow.com/news/2026-02-20/great-jones-county-donkey-roundup-ends-with-three-donkeys-in-safe-custody",
     "https://darkhorsepressnow.com/news/2026-02-20/ummc-says-fbi-teams-assisting-onsite-as-cyberattack-response-continues",
