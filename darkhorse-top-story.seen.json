@@ -44,17 +44,6 @@
       "summary": "TUPELO \u2013 A man has been sentenced to 25 years in prison after pleading guilty to second-degree murder in the 2023 death of Montavious Jemar Clifton, according to the First Circuit District Attorney\u2019s Office.",
       "title": "Tupelo man sentenced to 25 years after guilty plea in 2023 killing - Darkhorse Press"
     },
-    "https://darkhorsepressnow.com/news/2026-02-18/wednesday-weather-mostly-cloudy-and-warm-with-near-record-highs": {
-      "author": "Mary Apel",
-      "content_html": "<p>It appears we\u2019ll have our next significant rain chances as we go into the weekend. Monitor updates concerning this system for changes related to storm coverage and rainfall.</p><p>Highs in the 70s nearing 80 later today with occasional sunshine peeking through the clouds.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-02-18/wednesday-weather-mostly-cloudy-and-warm-with-near-record-highs",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/02/Weather-11.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-02-18/wednesday-weather-mostly-cloudy-and-warm-with-near-record-highs",
-      "pub_date": "Wed, 18 Feb 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-02-18T00:00:00+00:00",
-      "summary": "It appears we\u2019ll have our next significant rain chances as we go into the weekend. Monitor updates concerning this system for changes related to storm coverage and rainfall.",
-      "title": "Wednesday Weather: Mostly cloudy and warm with near record highs - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-02-18/woman-charged-after-domestic-stabbing-in-lamar-county": {
       "author": "Morgan Howard",
       "content_html": "<p>LAMAR COUNTY \u2013 A 48-year-old woman has been charged with aggravated assault in a domestic violence case after deputies said a man was stabbed during a fight Monday night at an apartment on Shears Road.</p><p>Deputies responded around 9 p.m. Feb. 16, 2026, after a reported stabbing, according to authorities. Investigators said a 38-year-old man suffered a stab wound to the abdomen and was transported by ambulance to a local hospital, where he underwent surgery.</p><p>Authorities identified the woman as Demetra Holloway, 48. Deputies said Holloway suffered a cut to her hand during the incident and was also taken to a local hospital for treatment.</p><p>After she was released, Holloway was transported to the Lamar County Jail and charged with aggravated assault/domestic violence, authorities said. Bond was set at $25,000.</p>",
@@ -439,10 +428,22 @@
       "pub_dt_iso": "2026-02-20T00:00:00+00:00",
       "summary": "JACKSON \u2013 The University of Mississippi Medical Center said Friday that teams are working \u201caround the clock\u201d to respond to a cyberattack that disrupted systems Thursday, with federal authorities and specialized FBI teams assisting onsite.",
       "title": "UMMC says FBI teams assisting onsite as cyberattack response continues - Darkhorse Press"
+    },
+    "https://darkhorsepressnow.com/news/2026-02-23/monday-weather-fire-danger-today": {
+      "author": "Mary Apel",
+      "content_html": "<p>The combination of breezy northwest winds, somewhat dry fuels, and low relative humidity values will lead to significant fire danger concerns persisting today.</p><p>After a chilly start to the week, another warm up is expected mid &amp; late week, with a cold front currently forecast to affect the area Thursday. Quiet weather exists through Wednesday, but a cold front brings increasing chances for rain Thursday into Thursday night, with quieter conditions expected Friday into the weekend.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-02-23/monday-weather-fire-danger-today",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/02/Weather-10.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-02-23/monday-weather-fire-danger-today",
+      "pub_date": "Mon, 23 Feb 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-02-23T00:00:00+00:00",
+      "summary": "The combination of breezy northwest winds, somewhat dry fuels, and low relative humidity values will lead to significant fire danger concerns persisting today.",
+      "title": "Monday Weather: Fire danger today! - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-02-23T12:19:24.118939+00:00",
+  "last_run_utc": "2026-02-23T12:49:33.981027+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-02-23/monday-weather-fire-danger-today",
     "https://darkhorsepressnow.com/news/2026-02-20/pedestrian-hit-by-vehicle-in-tupelo",
     "https://darkhorsepressnow.com/news/2026-02-20/hattiesburg-police-arrest-armed-robbery-suspect-hiding-in-attic-after-hours-long-standoff",
     "https://darkhorsepressnow.com/news/2026-02-20/great-jones-county-donkey-roundup-ends-with-three-donkeys-in-safe-custody",
