@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-02-19/officer-prisoner-killed-in-i-10-crash-involving-transport-van-in-jackson-county": {
-      "author": "Morgan Howard",
-      "content_html": "<p>JACKSON COUNTY \u2013 A prisoner and a transport officer were killed and three other people were seriously injured Wednesday morning when a private prisoner transport van crashed on Interstate 10 in Jackson County, according to WLOX.</p><p>WLOX reported the crash happened around 9:30 a.m. in the westbound lanes of I-10 near the Ocean Springs Exit 50 ramp to Mississippi Highway 609. The van struck a pole, overturned and collided with a utility truck.</p><p>The Mississippi Highway Patrol said there were four people inside the transport van and one person in the utility truck. Two people in the van, an officer and a prisoner, died, and the other two occupants in the van were critically injured, WLOX reported.</p><p>The utility truck driver was taken to a local hospital in stable condition.</p><p>WLOX reported a medical helicopter was called to transport one of the most critically injured victims. After the crash, the van caught fire, and the Jackson County Sheriff\u2019s Office arrived first and put out the fire, according to the station. Jackson County Fire then cut into the van to rescue those inside.</p><p>The transport van was operated by St. Joseph Services, a private prisoner transport company, WLOX reported. The station said the trip began Tuesday night and involved prisoners picked up in Florida, with planned destinations including Ocean City, New Jersey, and Spaulding, Georgia. The van was also in Mississippi to pick up an inmate from the Harrison County Adult Detention Center when it crashed, according to the report.</p><p>Multiple agencies responded and a crash reconstruction was conducted. The cause of the crash had not been released as of Wednesday, WLOX reported.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-02-19/officer-prisoner-killed-in-i-10-crash-involving-transport-van-in-jackson-county",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2024/01/fatal-crash-4.png",
-      "link": "https://darkhorsepressnow.com/news/2026-02-19/officer-prisoner-killed-in-i-10-crash-involving-transport-van-in-jackson-county",
-      "pub_date": "Thu, 19 Feb 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-02-19T00:00:00+00:00",
-      "summary": "JACKSON COUNTY \u2013 A prisoner and a transport officer were killed and three other people were seriously injured Wednesday morning when a private prisoner transport van crashed on Interstate 10 in Jackson County, according to WLOX.",
-      "title": "Officer, prisoner killed in I-10 crash involving transport van in Jackson County - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-02-19/sheriff-no-more-deputies-standing-in-roadway-for-shannon-school-traffic-control": {
       "author": "Morgan Howard",
       "content_html": "<p>LEE COUNTY \u2014 The Lee County Sheriff\u2019s Office said it will no longer place deputies in the middle of a highway to direct school traffic at Shannon Primary and Shannon Elementary schools, citing safety concerns.</p><p>In a statement, Sheriff Jim H. Johnson said the change is effective immediately and follows what he described as the recent loss of two school resource officers and another close call Monday morning.</p><p>Lee County deputy killed after being struck by vehicle near Shannon School</p><p>Johnson said the sheriff\u2019s office is meeting with the school district superintendent and staff, along with representatives from the Mississippi Department of Transportation, to evaluate safer traffic options.</p><p>The sheriff said agencies are working together to implement changes aimed at improving traffic flow while protecting deputies, students, staff and families.</p><p>Johnson urged parents and guardians to allow extra time for student drop-off and pick-up as the changes are developed and put in place.</p>",
@@ -275,6 +264,17 @@
       "summary": "BATESVILLE \u2013 With very few details, the Batesville Police Department posted a photo of a man and asked if anyone can identify him.",
       "title": "Batesville Police ask public to help identify man - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-02-23/community-diaper-drive-planned-march-14-in-booneville": {
+      "author": "Morgan Howard",
+      "content_html": "<p>BOONEVILLE \u2013 The Northeast Mississippi Healthy Start Program and Consortium, in collaboration with the Mississippi State University Extension Center, will host a Community Diaper Drive on Saturday, March 14, in Booneville.</p><p>The event is scheduled for 10 a.m. to 2 p.m. at the Prentiss County Agri-Center, located at 2301 North Second Street.</p><p>Organizers said the event will provide free diapers, wipes and hygiene essentials to the community. A crib raffle also is planned.</p><p>For more information, organizers listed Katherine Hickman and Ray Shoemaker as contacts. Email contacts on the flyer are [email protected] and [email protected] .</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-02-23/community-diaper-drive-planned-march-14-in-booneville",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/02/prentiss-co.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-02-23/community-diaper-drive-planned-march-14-in-booneville",
+      "pub_date": "Mon, 23 Feb 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-02-23T00:00:00+00:00",
+      "summary": "BOONEVILLE \u2013 The Northeast Mississippi Healthy Start Program and Consortium, in collaboration with the Mississippi State University Extension Center, will host a Community Diaper Drive on Saturday, March 14, in Booneville.",
+      "title": "Community diaper drive planned March 14 in Booneville - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-02-23/early-morning-fire-damages-units-at-walker-hill-apartments-in-meridian": {
       "author": "Cash Matlock",
       "content_html": "<p>MERIDIAN \u2013 A structure fire early Monday morning damaged multiple units at the Walker Hill Apartments in Meridian, according to fire officials.</p><p>The fire was reported around 5 a.m. at the apartment complex located near 21st Street and Old Marion Road.</p><p>Meridian Fire Chief Michael Evans said one unit was heavily damaged by the blaze, and the roof of a neighboring unit also sustained damage.</p><p>Firefighters evacuated residents from surrounding apartments as a precaution. No injuries were reported.</p><p>Officials said the fire is believed to have started in a bedroom. The cause remains under investigation.</p>",
@@ -441,8 +441,9 @@
       "title": "Zero-turn mower stolen from Seminary Youth Association Ball Field in Covington County - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-02-23T20:02:52.644436+00:00",
+  "last_run_utc": "2026-02-23T20:29:30.149205+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-02-23/community-diaper-drive-planned-march-14-in-booneville",
     "https://darkhorsepressnow.com/news/2026-02-23/two-vicksburg-homicide-suspects-arrested-in-indiana-2",
     "https://darkhorsepressnow.com/news/2026-02-23/mdac-accepting-proposals-for-specialty-crop-block-grant-program",
     "https://darkhorsepressnow.com/news/2026-02-23/police-investigating-four-threats-against-pearl-daycares",
