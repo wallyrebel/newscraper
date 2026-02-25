@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-02-23/batesville-police-ask-public-to-help-identify-man": {
-      "author": "Morgan Howard",
-      "content_html": "<p>BATESVILLE \u2013 With very few details, the Batesville Police Department posted a photo of a man and asked if anyone can identify him.</p><p>It is unclear why he they are seeking his identity.</p><p>If you recognize him, please call Batesville police at 662-563-5653.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-02-23/batesville-police-ask-public-to-help-identify-man",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/02/batestville.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-02-23/batesville-police-ask-public-to-help-identify-man",
-      "pub_date": "Mon, 23 Feb 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-02-23T00:00:00+00:00",
-      "summary": "BATESVILLE \u2013 With very few details, the Batesville Police Department posted a photo of a man and asked if anyone can identify him.",
-      "title": "Batesville Police ask public to help identify man - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-02-23/community-diaper-drive-planned-march-14-in-booneville": {
       "author": "Morgan Howard",
       "content_html": "<p>BOONEVILLE \u2013 The Northeast Mississippi Healthy Start Program and Consortium, in collaboration with the Mississippi State University Extension Center, will host a Community Diaper Drive on Saturday, March 14, in Booneville.</p><p>The event is scheduled for 10 a.m. to 2 p.m. at the Prentiss County Agri-Center, located at 2301 North Second Street.</p><p>Organizers said the event will provide free diapers, wipes and hygiene essentials to the community. A crib raffle also is planned.</p><p>For more information, organizers listed Katherine Hickman and Ray Shoemaker as contacts. Email contacts on the flyer are [email protected] and [email protected] .</p>",
@@ -330,6 +319,17 @@
       "summary": "SARDIS \u2013 The Tunica Humane Society says it has rescued a dog that had been reported at a funeral home in Sardis and is now asking the public for donations as the animal receives emergency veterinary care.",
       "title": "Dog with severe mange rescued outside funeral home in Sardis - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-02-25/firefighters-assist-macedonia-vfd-later-respond-to-rawls-springs-fire": {
+      "author": "Morgan Howard",
+      "content_html": "<p>NORTH FORREST \u2013 Firefighters with the North Forrest Volunteer Fire Department responded to two mutual aid structure fires Tuesday evening, according to the department.</p><p>At approximately 6 p.m. on Feb. 24, units were dispatched to the area of Morriston Road and Shady Oak Lane in the Macedonia Volunteer Fire Department\u2019s jurisdiction for a reported structure fire.</p><p>Upon arrival, crews reported heavy fire coming from a mobile home. Firefighters assisted with a defensive attack and remained on scene for nearly two hours before the fire was brought under control. No injuries were reported.</p><p>Later, at approximately 10 p.m., crews responded to the 100 block of Creek Lane in the Rawls Springs community for another reported structure fire.</p><p>Firefighters arrived to find a single-story, wood-framed house with fire venting through the roof. Crews made an aggressive interior attack and quickly brought the fire under control, officials said.</p><p>No injuries were reported in either incident.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-02-25/firefighters-assist-macedonia-vfd-later-respond-to-rawls-springs-fire",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/02/641393653_1391669279671233_7168753208752033760_n.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-02-25/firefighters-assist-macedonia-vfd-later-respond-to-rawls-springs-fire",
+      "pub_date": "Wed, 25 Feb 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-02-25T00:00:00+00:00",
+      "summary": "NORTH FORREST \u2013 Firefighters with the North Forrest Volunteer Fire Department responded to two mutual aid structure fires Tuesday evening, according to the department.",
+      "title": "Firefighters assist Macedonia VFD, later respond to Rawls Springs fire - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-02-25/jackson-public-schools-hosts-black-history-month-block-party-at-two-mississippi-museums": {
       "author": "Morgan Howard",
       "content_html": "<p>JACKSON \u2014 More than 1,000 Jackson Public Schools students and their families gathered Feb. 21 for \u201cLegacy on the Block: Jackson\u2019s Day of Cultural Legacy Block Party\u201d at the Two Mississippi Museums, according to Jackson Public Schools.</p><p>The event featured activities for students and families, including screenings of \u201cXavier Riddle and the Secret Museum\u201d from PBS Kids, trackless train rides, inflatables, T-shirt making and food from local vendors. Students also received vouchers for free children\u2019s meals from participating food trucks.</p><p>District officials said the event was part of a national effort focused on teaching, protecting and celebrating Black history across generations. Organizers said the goal was to invest in cultural spaces and transform museums into interactive learning environments where students can connect with history.</p><p>Jackson Public Schools partnered with Fahrenheit Creative Group and Color of Change to host the event.</p><p>City of Jackson and Hinds County officials, along with members of the Mississippi Legislative Black Caucus, were also acknowledged for their support, according to the district.</p>",
@@ -441,8 +441,9 @@
       "title": "UPDATE: Starkville officer remains in critical condition after funeral escort crash - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-02-25T18:08:53.193613+00:00",
+  "last_run_utc": "2026-02-25T18:38:04.169863+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-02-25/firefighters-assist-macedonia-vfd-later-respond-to-rawls-springs-fire",
     "https://darkhorsepressnow.com/news/2026-02-25/jackson-public-schools-hosts-black-history-month-block-party-at-two-mississippi-museums",
     "https://darkhorsepressnow.com/news/2026-02-25/rankin-county-man-arrested-in-fish-house-burglary",
     "https://darkhorsepressnow.com/news/2026-02-25/dog-with-severe-mange-rescued-outside-funeral-home-in-sardis",
