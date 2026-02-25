@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-02-22/starkville-officer-critically-injured-in-crash-during-funeral-escort": {
-      "author": "Therese Apel",
-      "content_html": "<p>STARKVILLE \u2014 A Starkville police officer was critically injured Friday afternoon in a crash while assisting with a funeral procession escort, authorities said.</p><p>The collision occurred just before 1:45 p.m. Feb. 21, according to the Starkville Police Department.</p><p>Police said a motorcycle officer who was part of the funeral procession escort collided with a vehicle that was not involved in the procession. The impact left the officer with serious injuries.</p><p>The officer was airlifted to a hospital in Jackson for further treatment and was listed in critical condition, police said.</p><p>The driver of the other vehicle remained at the scene and declined medical treatment.</p><p>The cause of the crash remains under investigation.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-02-22/starkville-officer-critically-injured-in-crash-during-funeral-escort",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2023/10/393634978_707486391406687_6608133125508284111_n.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-02-22/starkville-officer-critically-injured-in-crash-during-funeral-escort",
-      "pub_date": "Sun, 22 Feb 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-02-22T00:00:00+00:00",
-      "summary": "STARKVILLE \u2014 A Starkville police officer was critically injured Friday afternoon in a crash while assisting with a funeral procession escort, authorities said.",
-      "title": "Starkville Officer Critically Injured in Crash During Funeral Escort - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-02-23/batesville-police-ask-public-to-help-identify-man": {
       "author": "Morgan Howard",
       "content_html": "<p>BATESVILLE \u2013 With very few details, the Batesville Police Department posted a photo of a man and asked if anyone can identify him.</p><p>It is unclear why he they are seeking his identity.</p><p>If you recognize him, please call Batesville police at 662-563-5653.</p>",
@@ -341,6 +330,17 @@
       "summary": "SARDIS \u2013 The Tunica Humane Society says it has rescued a dog that had been reported at a funeral home in Sardis and is now asking the public for donations as the animal receives emergency veterinary care.",
       "title": "Dog with severe mange rescued outside funeral home in Sardis - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-02-25/jackson-public-schools-hosts-black-history-month-block-party-at-two-mississippi-museums": {
+      "author": "Morgan Howard",
+      "content_html": "<p>JACKSON \u2014 More than 1,000 Jackson Public Schools students and their families gathered Feb. 21 for \u201cLegacy on the Block: Jackson\u2019s Day of Cultural Legacy Block Party\u201d at the Two Mississippi Museums, according to Jackson Public Schools.</p><p>The event featured activities for students and families, including screenings of \u201cXavier Riddle and the Secret Museum\u201d from PBS Kids, trackless train rides, inflatables, T-shirt making and food from local vendors. Students also received vouchers for free children\u2019s meals from participating food trucks.</p><p>District officials said the event was part of a national effort focused on teaching, protecting and celebrating Black history across generations. Organizers said the goal was to invest in cultural spaces and transform museums into interactive learning environments where students can connect with history.</p><p>Jackson Public Schools partnered with Fahrenheit Creative Group and Color of Change to host the event.</p><p>City of Jackson and Hinds County officials, along with members of the Mississippi Legislative Black Caucus, were also acknowledged for their support, according to the district.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-02-25/jackson-public-schools-hosts-black-history-month-block-party-at-two-mississippi-museums",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/02/640573406_1367873388714194_8154308251326687581_n.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-02-25/jackson-public-schools-hosts-black-history-month-block-party-at-two-mississippi-museums",
+      "pub_date": "Wed, 25 Feb 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-02-25T00:00:00+00:00",
+      "summary": "JACKSON \u2014 More than 1,000 Jackson Public Schools students and their families gathered Feb. 21 for \u201cLegacy on the Block: Jackson\u2019s Day of Cultural Legacy Block Party\u201d at the Two Mississippi Museums, according to Jackson Public Schools.",
+      "title": "Jackson Public Schools hosts Black History Month block party at Two Mississippi Museums - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-02-25/lincoln-county-man-gets-40-years-on-drug-and-gun-charges": {
       "author": "Therese Apel",
       "content_html": "<p>BROOKHAVEN \u2014 A Lincoln County jury on Friday found Austin Pierre Jackson guilty of multiple drug trafficking and firearm charges, and a judge sentenced him to 40 years in prison, with the first 23 years to serve.</p><p>Jackson was convicted in the Circuit Court of Lincoln County of possession of a firearm by a convicted felon; possession of at least 10 but less than 30 grams of fentanyl with intent to distribute; possession of at least 10 but less than 30 grams of cocaine with intent to distribute; and possession of fewer than 10 dosage units of amphetamine with intent to distribute. All counts were enhanced by possession of a firearm.</p><p>Judge David Strong ordered Jackson to serve the sentence in the custody of the Mississippi Department of Corrections.</p><p>The case stemmed from a law enforcement detail conducted in Bogue Chitto involving the Lincoln County Sheriff\u2019s Office and the Mississippi Highway Patrol. Authorities said a traffic stop and subsequent search of Jackson\u2019s vehicle led to the seizure of the narcotics.</p><p>District Attorney Brendon Adams said the sentence sends a clear message.</p><p>\u201cWe will not tolerate drug dealers that continue to bring this poison into our communities,\u201d Adams said in a statement. \u201cThose that bring these illegal narcotics into our community and distribute to our people and children will be dealt with harshly.\u201d</p><p>Adams thanked the Lincoln County Sheriff\u2019s Office and the Mississippi Highway Patrol for their work in the investigation and said his office considers the safety of families, schools, churches and law enforcement a top priority.</p><p>Assistant District Attorney Steven Waldrup prosecuted the case.</p>",
@@ -441,8 +441,9 @@
       "title": "UPDATE: Starkville officer remains in critical condition after funeral escort crash - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-02-25T16:10:15.774960+00:00",
+  "last_run_utc": "2026-02-25T16:41:24.817155+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-02-25/jackson-public-schools-hosts-black-history-month-block-party-at-two-mississippi-museums",
     "https://darkhorsepressnow.com/news/2026-02-25/rankin-county-man-arrested-in-fish-house-burglary",
     "https://darkhorsepressnow.com/news/2026-02-25/dog-with-severe-mange-rescued-outside-funeral-home-in-sardis",
     "https://darkhorsepressnow.com/news/2026-02-25/two-men-face-charges-after-shooting-reported-on-i-20-near-hwy-18-in-jackson",
