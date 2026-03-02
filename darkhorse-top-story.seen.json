@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-02-26/mississippi-woman-killed-in-train-crash-at-shelby-county-crossing": {
-      "author": "Morgan Howard",
-      "content_html": "<p>A woman from Mississippi was killed Tuesday night in a crash involving a train in Shelby County, according to the Shelby County Sheriff\u2019s Office.</p><p>WBRC reported a large law enforcement presence near the railroad crossing on County Road 433 in Chelsea shortly before 9 p.m. Tuesday.</p><p>The Shelby County Coroner\u2019s Office identified the woman as 31-year-old Michelle A. Manning, who had been living in Birmingham recently, according to WBRC.</p><p>The Shelby County Sheriff\u2019s Office said the crossing would be closed \u201cfor an extended period of time,\u201d and later reported it reopened by about 10:30 p.m., according to WBRC.</p><p>Deputies urged drivers to avoid the area and take alternate routes while the scene was secured.</p><p>WBRC reported the Alabama Law Enforcement Agency is investigating the crash.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-02-26/mississippi-woman-killed-in-train-crash-at-shelby-county-crossing",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2024/06/Screenshot-2024-06-07-1.19.42-PM.png",
-      "link": "https://darkhorsepressnow.com/news/2026-02-26/mississippi-woman-killed-in-train-crash-at-shelby-county-crossing",
-      "pub_date": "Thu, 26 Feb 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-02-26T00:00:00+00:00",
-      "summary": "A woman from Mississippi was killed Tuesday night in a crash involving a train in Shelby County, according to the Shelby County Sheriff\u2019s Office.",
-      "title": "Mississippi woman killed in train crash at Shelby County crossing - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-02-26/motorcyclist-killed-in-crash-on-north-gloster-street-in-tupelo": {
       "author": "Morgan Howard",
       "content_html": "<p>TUPELO \u2013 A motorcyclist was killed in a traffic crash Tuesday on North Gloster Street, according to the Tupelo Police Department.</p><p>Police said officers responded to a fatal crash involving a vehicle and a motorcycle near the Mississippi Department of Transportation offices on North Gloster Street.</p><p>Authorities initially shut down North Gloster Street due to the heavy police presence and investigation at the scene. In an update, police said the roadway has since reopened and the scene has been cleared.</p><p>No additional details about the victim or the circumstances of the crash were immediately released. Police said more information will be provided as it becomes available.</p>",
@@ -286,6 +275,17 @@
       "summary": "JEFFERSON COUNTY \u2013 Two teenagers were killed in a crash in Jefferson County Friday morning, February 28.",
       "title": "18 and 19-year-old killed in Jefferson County crash - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-03-02/burn-ban-issued-for-city-of-clinton-through-april-1": {
+      "author": "Morgan Howard",
+      "content_html": "<p>CLINTON \u2014 A burn ban is now in effect for the City of Clinton and will remain in place through April 1, according to the city.</p><p>Under the ban, no burn permits will be issued, and all outdoor fires are strictly prohibited.</p><p>The restriction includes the burning of yard debris, brush piles and open burning of any kind.</p><p>Officials are also urging residents not to throw cigarettes out of car windows or discard any materials that could ignite dry grass or brush.</p><p>City leaders said dry conditions can cause fires to spread quickly and emphasized that public cooperation is critical to protecting homes, property and first responders.</p><p>The burn ban will remain in effect until April 1 unless otherwise updated by city officials.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-02/burn-ban-issued-for-city-of-clinton-through-april-1",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/646278265_1361902389297327_2195166362989759971_n.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-03-02/burn-ban-issued-for-city-of-clinton-through-april-1",
+      "pub_date": "Mon, 02 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-02T00:00:00+00:00",
+      "summary": "CLINTON \u2014 A burn ban is now in effect for the City of Clinton and will remain in place through April 1, according to the city.",
+      "title": "Burn ban issued for City of Clinton through April 1 - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-03-02/greenville-police-looking-for-16-year-old-runaway": {
       "author": "Morgan Howard",
       "content_html": "<p>GREENVILLE \u2013 The Greenville Police Department is asking for the public\u2019s help in locating a 16-year-old runaway juvenile.</p><p>According to police, Madison Brady, 16, was last seen leaving her home Saturday evening around 9 p.m. in Greenville. Authorities said it is unknown what she was wearing at the time.</p><p>Brady is described as a Black female with a medium complexion, standing 5 feet 5 inches tall and weighing approximately 165 pounds. She has black, medium-length hair and brown eyes.</p><p>Police said anyone who knows Brady\u2019s whereabouts is urged to contact the Greenville Police Department at 662-378-1515, extension 1, or Crime Stoppers at 662-378-8477.</p><p>The case remains under investigation.</p>",
@@ -441,8 +441,9 @@
       "title": "JSU\u2019s Sonic Boom proudly joins \u201cMICHAEL CELEBRATES: Legacy, Artistry, Culture\u201d - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-02T19:18:45.125719+00:00",
+  "last_run_utc": "2026-03-02T19:45:22.911609+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-02/burn-ban-issued-for-city-of-clinton-through-april-1",
     "https://darkhorsepressnow.com/news/2026-03-02/panola-county-authorities-investigating-double-homicide-after-bodies-found-in-vehicle",
     "https://darkhorsepressnow.com/news/2026-03-02/oxford-nominated-for-usa-today-10best-best-small-college-town-award",
     "https://darkhorsepressnow.com/news/2026-03-02/greenville-police-looking-for-16-year-old-runaway",
