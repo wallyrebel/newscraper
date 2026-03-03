@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-02-27/clinton-police-seek-publics-help-identifying-person-in-ongoing-theft-investigations": {
-      "author": "Morgan Howard",
-      "content_html": "<p>CLINTON \u2013 The Clinton Police Department is asking for the public\u2019s help identifying an individual in connection with multiple theft investigations within the city.</p><p>Police said several theft incidents have been reported over the past several months. Detectives obtained photographs of a person who may have information relevant to the cases, according to the department.</p><p>Investigators said the images are not clear enough to allow for positive identification, but they believe someone in the community may recognize the individual.</p><p>Anyone who recognizes the person or has information related to the theft investigations is asked to contact the Clinton Police Department at 601-924-5252. Tips may also be submitted anonymously through Crime Stoppers at 601-355-TIPS (8477).</p><p>Police said all information received will be reviewed as the investigations continue.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-02-27/clinton-police-seek-publics-help-identifying-person-in-ongoing-theft-investigations",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/02/2.png",
-      "link": "https://darkhorsepressnow.com/news/2026-02-27/clinton-police-seek-publics-help-identifying-person-in-ongoing-theft-investigations",
-      "pub_date": "Fri, 27 Feb 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-02-27T00:00:00+00:00",
-      "summary": "CLINTON \u2013 The Clinton Police Department is asking for the public\u2019s help identifying an individual in connection with multiple theft investigations within the city.",
-      "title": "Clinton police seek public\u2019s help identifying person in ongoing theft investigations - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-02-27/crawfest-happening-saturday-feb-28-with-food-music-and-hands-on-activities": {
       "author": "Morgan Howard",
       "content_html": "<p>JACKSON \u2013 Crawfish will take center stage during CrawFest on Feb. 28, with an afternoon of food, live music, science programming and family activities.</p><p>Organizers said the event will run from noon to 5 p.m. and will feature games, interactive science stations and hands-on activities for all ages, along with local vendors.</p><p>Scheduled vendors include Mississippi Crawfish Co., KCrenshaw Art, MsT\u2019s Sweets &amp; Treats, Wholly Fire Hot Sauce and Watts Hollow Workshop, according to event information.</p><p>Live music is set to be provided by TB Ledford and the Accumulators. Food offerings are expected to include crawfish plates from Sal &amp; Phil\u2019s Seafood and Louisiana-style dishes from Dr. Flava\u2019s Kitchen.</p><p>Admission is included with museum entry or an MMNS Foundation membership. More information is available at mdwfp.com/events/crawfest.</p>",
@@ -407,6 +396,17 @@
       "summary": "INDIANOLA \u2014 A 22-year-old man wanted in connection with a February shooting that seriously injured a woman and her 7-year-old grandson has been arrested following a fugitive investigation by the U.S. Marshals Service.",
       "title": "Indianola man arrested by Marshals in shooting of grandmother, 7-year-old - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-03-03/one-injured-in-shooting-at-west-jackson-mart-in-tupelo": {
+      "author": "Morgan Howard",
+      "content_html": "<p>TUPELO \u2014 Tupelo police are investigating a shooting that occurred Tuesday evening at a gas station on West Jackson Street.</p><p>According to the Tupelo Police Department, officers responded to a report of a shooting at the West Jackson Mart, located at 1391 W. Jackson St., at the corner of West Jackson Street and Lumpkin Avenue.</p><p>Police said one victim was transported to North Mississippi Medical Center with non-life-threatening injuries.</p><p>Officers remained on scene as of Tuesday night and were actively investigating the incident. Authorities said there is no known threat to the public at this time and believe the shooting to be an isolated incident.</p><p>Additional information will be released as it becomes available.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-03/one-injured-in-shooting-at-west-jackson-mart-in-tupelo",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2021/12/tupelo-police.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-03-03/one-injured-in-shooting-at-west-jackson-mart-in-tupelo",
+      "pub_date": "Tue, 03 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-03T00:00:00+00:00",
+      "summary": "TUPELO \u2014 Tupelo police are investigating a shooting that occurred Tuesday evening at a gas station on West Jackson Street.",
+      "title": "One injured in shooting at West Jackson Mart in Tupelo - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-03-03/pedestrian-in-wheelchair-killed-in-two-vehicle-crash-on-raymond-road": {
       "author": "Therese Apel",
       "content_html": "<p>JACKSON \u2014 A pedestrian traveling in a wheelchair was killed Monday evening after being struck by two vehicles on Raymond Road, according to the Jackson Police Department.</p><p>Officers responded about 6:40 p.m. to the intersection of Raymond Road and Wilson Boulevard for a reported fatal crash. Police said the pedestrian was hit by a 2012 white Ford Fusion and a 2010 silver Chevrolet Malibu.</p><p>According to investigators, the pedestrian was traveling eastbound on Raymond Road in a wheelchair near the center lane when he was struck by the Ford Fusion, which was also traveling east. The impact ejected the victim into the westbound lanes, where he was then struck by the Chevrolet Malibu traveling west in the inside lane.</p><p>The victim became trapped underneath the Malibu and was extricated by the Jackson Fire Department. He was pronounced dead at the scene.</p><p>Both drivers remained at the scene and were interviewed by responding officers and an accident investigator. Police said each driver was issued a citation for no insurance.</p><p>The investigation is ongoing.</p>",
@@ -441,8 +441,9 @@
       "title": "Tuesday Weather: Foggy AM, Spring-like temps - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-03T14:48:00.290038+00:00",
+  "last_run_utc": "2026-03-03T15:21:22.373605+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-03/one-injured-in-shooting-at-west-jackson-mart-in-tupelo",
     "https://darkhorsepressnow.com/news/2026-03-03/indianola-man-arrested-by-marshals-in-shooting-of-grandmother-7-year-old",
     "https://darkhorsepressnow.com/news/2026-03-03/silver-alert-issued-for-63-year-old-jackson-man",
     "https://darkhorsepressnow.com/news/2026-03-03/pedestrian-in-wheelchair-killed-in-two-vehicle-crash-on-raymond-road",
