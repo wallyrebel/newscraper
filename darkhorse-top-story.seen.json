@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-03-02/18-and-19-year-old-killed-in-jefferson-county-crash": {
-      "author": "Morgan Howard",
-      "content_html": "<p>JEFFERSON COUNTY \u2013 Two teenagers were killed in a crash in Jefferson County Friday morning, February 28.</p><p>According to MHP, the crash happened at 8:52 a.m. on Highway 552 West in Jefferson County.</p><p>A 2018 Nissan Altima driven by 18-year-old Kamarion J. Hyder of Port Gibson, MS, and passenger, 19-year-old Dyamond Dee of Natchez, MS, traveled east on Highway 552 West when it left the roadway, and collided with a tree.</p><p>Both Kamarion J. Hyder and Dyamond Dee received fatal injuries from the crash and were pronounced dead at the scene.</p><p>This crash remains under investigation by the Mississippi Highway Patrol.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-03-02/18-and-19-year-old-killed-in-jefferson-county-crash",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2024/01/fatal-crash-4.png",
-      "link": "https://darkhorsepressnow.com/news/2026-03-02/18-and-19-year-old-killed-in-jefferson-county-crash",
-      "pub_date": "Mon, 02 Mar 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-03-02T00:00:00+00:00",
-      "summary": "JEFFERSON COUNTY \u2013 Two teenagers were killed in a crash in Jefferson County Friday morning, February 28.",
-      "title": "18 and 19-year-old killed in Jefferson County crash - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-03-02/burn-ban-issued-for-city-of-clinton-through-april-1": {
       "author": "Morgan Howard",
       "content_html": "<p>CLINTON \u2014 A burn ban is now in effect for the City of Clinton and will remain in place through April 1, according to the city.</p><p>Under the ban, no burn permits will be issued, and all outdoor fires are strictly prohibited.</p><p>The restriction includes the burning of yard debris, brush piles and open burning of any kind.</p><p>Officials are also urging residents not to throw cigarettes out of car windows or discard any materials that could ignite dry grass or brush.</p><p>City leaders said dry conditions can cause fires to spread quickly and emphasized that public cooperation is critical to protecting homes, property and first responders.</p><p>The burn ban will remain in effect until April 1 unless otherwise updated by city officials.</p>",
@@ -439,10 +428,22 @@
       "pub_dt_iso": "2026-03-04T00:00:00+00:00",
       "summary": "HATTIESBURG \u2013 A police pursuit Monday evening ended in a crash involving two vehicles at a Hattiesburg intersection, according to the Hattiesburg Police Department.",
       "title": "Police pursuit ends in crash at Columbia and North streets in Hattiesburg - Darkhorse Press"
+    },
+    "https://darkhorsepressnow.com/news/2026-03-04/two-booneville-men-charged-in-prentiss-county-shed-burglary": {
+      "author": "Morgan Howard",
+      "content_html": "<p>PRENTISS COUNTY \u2013 Two Booneville men have been charged following a burglary investigation in Prentiss County, according to the Prentiss County Sheriff\u2019s Department.</p><p>Deputies said the investigation began Feb. 6, 2026, after authorities received a report that a shed on County Road 1219 had been broken into. Several items were reported stolen from the structure.</p><p>During the investigation, authorities identified two suspects on Feb. 14 as Dustin Blade Asher, 23, and Austin Tyler Adams, 30, both of Booneville.</p><p>Both men were charged with burglary of a commercial building.</p><p>Adams also faces additional charges of possession of a weapon by a felon and conspiracy, and is being charged as a habitual offender.</p><p>Bond for Asher was set at $25,000, while Adams\u2019 bond was set at $105,000.</p><p>The case will be presented to the next Prentiss County Grand Jury by Investigator Aaron Stolz. Investigators Torie Jumper and Kolby Knight assisted with the case.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-04/two-booneville-men-charged-in-prentiss-county-shed-burglary",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/646108660_1302656741909290_7572896778068629376_n.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-03-04/two-booneville-men-charged-in-prentiss-county-shed-burglary",
+      "pub_date": "Wed, 04 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-04T00:00:00+00:00",
+      "summary": "PRENTISS COUNTY \u2013 Two Booneville men have been charged following a burglary investigation in Prentiss County, according to the Prentiss County Sheriff\u2019s Department.",
+      "title": "Two Booneville men charged in Prentiss County shed burglary - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-04T13:28:16.808631+00:00",
+  "last_run_utc": "2026-03-04T13:53:30.406991+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-04/two-booneville-men-charged-in-prentiss-county-shed-burglary",
     "https://darkhorsepressnow.com/news/2026-03-04/police-pursuit-ends-in-crash-at-columbia-and-north-streets-in-hattiesburg",
     "https://darkhorsepressnow.com/news/2026-03-04/pascagoula-police-searching-for-missing-woman-last-seen-near-regency-woods-apartments",
     "https://darkhorsepressnow.com/news/2026-03-04/let-out-your-inner-science-nerd-the-fossil-road-show-is-saturday",
