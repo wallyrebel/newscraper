@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-03-02/capitol-police-accepting-applications-for-2026-spring-citizens-academy": {
-      "author": "Morgan Howard",
-      "content_html": "<p>JACKSON \u2013 Capitol Police are accepting applications for the 2026 Spring Citizens Academy for residents of the Capitol Complex Improvement District, according to the Mississippi Department of Public Safety.</p><p>Officials said the academy is scheduled for April 20-28 and will meet from 6 p.m. to 8 p.m. Monday through Friday. An additional session is planned for Saturday from 9 a.m. to noon.</p><p>Applications are available through the Mississippi Department of Public Safety website, and the deadline to apply is April 15.</p><p>The Citizens Academy is designed to give participants an opportunity to engage with law enforcement and learn more about Capitol Police operations. DPS said the seven-day course will include driver education and simulation activities, a K-9 demonstration, forensic crime scene investigation and a ride-along with a Capitol Police officer.</p><p>Participants will also receive an overview of Capitol Police operations, including information on the Capitol Complex Improvement District court and its jurisdiction.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-03-02/capitol-police-accepting-applications-for-2026-spring-citizens-academy",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/ciizens.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-03-02/capitol-police-accepting-applications-for-2026-spring-citizens-academy",
-      "pub_date": "Mon, 02 Mar 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-03-02T00:00:00+00:00",
-      "summary": "JACKSON \u2013 Capitol Police are accepting applications for the 2026 Spring Citizens Academy for residents of the Capitol Complex Improvement District, according to the Mississippi Department of Public Safety.",
-      "title": "Capitol Police accepting applications for 2026 Spring Citizens Academy - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-03-02/greenville-police-looking-for-16-year-old-runaway": {
       "author": "Morgan Howard",
       "content_html": "<p>GREENVILLE \u2013 The Greenville Police Department is asking for the public\u2019s help in locating a 16-year-old runaway juvenile.</p><p>According to police, Madison Brady, 16, was last seen leaving her home Saturday evening around 9 p.m. in Greenville. Authorities said it is unknown what she was wearing at the time.</p><p>Brady is described as a Black female with a medium complexion, standing 5 feet 5 inches tall and weighing approximately 165 pounds. She has black, medium-length hair and brown eyes.</p><p>Police said anyone who knows Brady\u2019s whereabouts is urged to contact the Greenville Police Department at 662-378-1515, extension 1, or Crime Stoppers at 662-378-8477.</p><p>The case remains under investigation.</p>",
@@ -439,10 +428,22 @@
       "pub_dt_iso": "2026-03-04T00:00:00+00:00",
       "summary": "PRENTISS COUNTY \u2013 Two Booneville men have been charged following a burglary investigation in Prentiss County, according to the Prentiss County Sheriff\u2019s Department.",
       "title": "Two Booneville men charged in Prentiss County shed burglary - Darkhorse Press"
+    },
+    "https://darkhorsepressnow.com/news/2026-03-04/vehicle-pursuit-in-forrest-county-ends-with-two-arrests": {
+      "author": "Morgan Howard",
+      "content_html": "<p>FORREST COUNTY \u2013 A traffic stop attempt Tuesday evening in Forrest County turned into a vehicle pursuit that ended with two arrests, according to the Forrest County Sheriff\u2019s Office.</p><p>Deputies tried to stop a vehicle around 6 p.m. March 3, 2026, after suspecting it was involved in criminal activity, the sheriff\u2019s office said. The driver refused to stop and fled, prompting a pursuit.</p><p>With help from the Lamar County Sheriff\u2019s Office and the Hattiesburg Police Department, authorities stopped the vehicle and took the occupants into custody without incident, the sheriff\u2019s office said.</p><p>The driver, Shaquille Catrell Adams, was arrested and charged with felony eluding law enforcement, possession of a controlled substance and reckless driving, according to the sheriff\u2019s office.</p><p>A passenger, Tearra Gray, was arrested and charged with disorderly conduct for failure to comply with law enforcement commands, the sheriff\u2019s office said.</p><p>Both were transported to the Forrest County Jail.</p><p>Sheriff\u2019s officials said Adams has multiple prior felony arrests and is currently on probation with the Mississippi Department of Corrections. MDOC has been notified, and a probation revocation may be pursued.</p><p>The sheriff\u2019s office said the investigation remains ongoing and thanked assisting agencies for their help.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-04/vehicle-pursuit-in-forrest-county-ends-with-two-arrests",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2025/08/shutterstock_722099620-e1755792249812.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-03-04/vehicle-pursuit-in-forrest-county-ends-with-two-arrests",
+      "pub_date": "Wed, 04 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-04T00:00:00+00:00",
+      "summary": "FORREST COUNTY \u2013 A traffic stop attempt Tuesday evening in Forrest County turned into a vehicle pursuit that ended with two arrests, according to the Forrest County Sheriff\u2019s Office.",
+      "title": "Vehicle pursuit in Forrest County ends with two arrests - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-04T17:17:59.089113+00:00",
+  "last_run_utc": "2026-03-04T17:46:57.932053+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-04/vehicle-pursuit-in-forrest-county-ends-with-two-arrests",
     "https://darkhorsepressnow.com/news/2026-03-04/columbus-police-looking-for-armed-suspect-in-aggravated-domestic-violence-case",
     "https://darkhorsepressnow.com/news/2026-03-04/two-booneville-men-charged-in-prentiss-county-shed-burglary",
     "https://darkhorsepressnow.com/news/2026-03-04/police-pursuit-ends-in-crash-at-columbia-and-north-streets-in-hattiesburg",
