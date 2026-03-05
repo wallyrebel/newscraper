@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-03-03/one-injured-in-shooting-at-west-jackson-mart-in-tupelo": {
-      "author": "Morgan Howard",
-      "content_html": "<p>TUPELO \u2014 Tupelo police are investigating a shooting that occurred Tuesday evening at a gas station on West Jackson Street.</p><p>According to the Tupelo Police Department, officers responded to a report of a shooting at the West Jackson Mart, located at 1391 W. Jackson St., at the corner of West Jackson Street and Lumpkin Avenue.</p><p>Police said one victim was transported to North Mississippi Medical Center with non-life-threatening injuries.</p><p>Officers remained on scene as of Tuesday night and were actively investigating the incident. Authorities said there is no known threat to the public at this time and believe the shooting to be an isolated incident.</p><p>Additional information will be released as it becomes available.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-03-03/one-injured-in-shooting-at-west-jackson-mart-in-tupelo",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2021/12/tupelo-police.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-03-03/one-injured-in-shooting-at-west-jackson-mart-in-tupelo",
-      "pub_date": "Tue, 03 Mar 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-03-03T00:00:00+00:00",
-      "summary": "TUPELO \u2014 Tupelo police are investigating a shooting that occurred Tuesday evening at a gas station on West Jackson Street.",
-      "title": "One injured in shooting at West Jackson Mart in Tupelo - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-03-03/pascagoula-police-arrest-man-for-allegedly-stealing-10-pair-of-glasses-from-walmart-vision-center": {
       "author": "Morgan Howard",
       "content_html": "<p>PASCAGOULA \u2013 The Pascagoula Police Department is asking for the public\u2019s help in locating a suspect wanted in connection with a felony shoplifting investigation.</p><p>Police said Carldarone Williams is suspected of stealing 10 pairs of eyeglasses from the Walmart Vision Center on Feb. 20. Authorities estimate the total value of the items at more than $2,100.</p><p>Investigators are requesting assistance from anyone who may know Williams\u2019 whereabouts.</p><p>Anyone with information is asked to contact the Pascagoula Police Department at 228-762-2211 or send a message through the department\u2019s official social media page.</p>",
@@ -319,6 +308,17 @@
       "summary": "FORREST COUNTY \u2013 The Forrest County Sheriff\u2019s Office Evaluation Center has been certified as a Designated Mental Health Holding Facility, according to the sheriff\u2019s office.",
       "title": "Forrest County Sheriff\u2019s Office Evaluation Center certified as mental health holding facility - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-03-05/jackson-police-seek-help-identifying-homicide-suspect-in-2025-gas-station-shooting": {
+      "author": "Morgan Howard",
+      "content_html": "<p>JACKSON \u2013 The Jackson Police Department is asking for the public\u2019s help identifying a man believed to be involved in a homicide that occurred last year at a local gas station.</p><p>According to police, the man in a surveillance photo is a suspect in the shooting death of 22-year-old Melvin Bass.</p><p>UPDATE: Teen girls arrested in connection with Jackson homicide on Cooper Road</p><p>The incident occurred Oct. 19, 2025, at the Valero gas station on Cooper Road, where Bass was shot and killed.</p><p>Investigators are urging anyone with information about the suspect or the case to contact the Jackson Police Department at 601-960-1278.</p><p>Tips can also be submitted anonymously through Crime Stoppers by calling 601-355-TIPS (8477). Officials said tipsters could receive a reward of up to $2,500 if the information leads to an arrest.</p><p>Crime Stoppers does not require personal information from those submitting tips, only details related to the crime.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-05/jackson-police-seek-help-identifying-homicide-suspect-in-2025-gas-station-shooting",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/647556056_1229576412684839_612682367219589504_n.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-03-05/jackson-police-seek-help-identifying-homicide-suspect-in-2025-gas-station-shooting",
+      "pub_date": "Thu, 05 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-05T00:00:00+00:00",
+      "summary": "JACKSON \u2013 The Jackson Police Department is asking for the public\u2019s help identifying a man believed to be involved in a homicide that occurred last year at a local gas station.",
+      "title": "Jackson police seek help identifying homicide suspect in 2025 gas station shooting - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-03-05/jackson-police-seek-publics-help-identifying-armed-robbery-suspect": {
       "author": "Therese Apel",
       "content_html": "<p>JACKSON \u2014 The Jackson Police Department is asking for the public\u2019s help in identifying a suspect in an armed robbery that occurred last year.</p><p>The robbery took place Oct. 16, 2025, in the 2100 block of Thousand Oaks Drive, according to police. Authorities did not release additional details about the suspect or the circumstances surrounding the incident.</p><p>Investigators are urging anyone with information related to the case to come forward.</p><p>Anyone with information is asked to contact the Jackson Police Department at 601-960-1234 or Crime Stoppers at 601-355-TIPS (8477).</p>",
@@ -441,8 +441,9 @@
       "title": "Hattiesburg police seek person of interest in commercial burglary investigations - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-05T22:30:19.286709+00:00",
+  "last_run_utc": "2026-03-05T23:10:45.836258+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-05/jackson-police-seek-help-identifying-homicide-suspect-in-2025-gas-station-shooting",
     "https://darkhorsepressnow.com/news/2026-03-05/clinton-unveils-mississippi-blues-trail-marker-honoring-historic-grits-gravy-recording-studio",
     "https://darkhorsepressnow.com/news/2026-03-05/trailer-destroyed-in-fire-on-otis-lee-road-in-macedonia",
     "https://darkhorsepressnow.com/news/2026-03-05/clinton-fire-department-seeks-donations-to-restore-historic-1964-mack-fire-engine",
