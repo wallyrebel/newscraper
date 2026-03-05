@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-03-02/mobile-home-destroyed-by-fire-in-adams-county": {
-      "author": "Morgan Howard",
-      "content_html": "<p>NATCHEZ \u2014 Firefighters responded late Saturday night to a fully engulfed mobile home fire on Lower Woodville Road in Adams County.</p><p>Adams County Central Dispatch received a 911 call at approximately 11:14 p.m. March 1 reporting a structure fire at 806 Lower Woodville Road. The caller said that a mobile home was on fire.</p><p>The Natchez Fire Department responded to the scene, along with additional units. Deputies with the Adams County Sheriff\u2019s Office also responded to assist with scene security and traffic control.</p><p>When first responders arrived, they found the mobile home fully engulfed in flames. Firefighters remained on scene working to contain and extinguish the fire and to prevent it from spreading to nearby areas.</p><p>Officials said there were no confirmed reports of injuries as of early Sunday.</p><p>The cause of the fire remains under investigation.</p><p>Residents were asked to avoid the area of Lower Woodville Road while emergency crews worked.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-03-02/mobile-home-destroyed-by-fire-in-adams-county",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/Screenshot-2026-03-02-093345.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-03-02/mobile-home-destroyed-by-fire-in-adams-county",
-      "pub_date": "Mon, 02 Mar 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-03-02T00:00:00+00:00",
-      "summary": "NATCHEZ \u2014 Firefighters responded late Saturday night to a fully engulfed mobile home fire on Lower Woodville Road in Adams County.",
-      "title": "Mobile home destroyed by fire in Adams County - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-03-02/monday-weather-warm-temps-sticking-around-this-week": {
       "author": "Mary Apel",
       "content_html": "",
@@ -439,10 +428,22 @@
       "pub_dt_iso": "2026-03-04T00:00:00+00:00",
       "summary": "FORREST COUNTY \u2013 A traffic stop attempt Tuesday evening in Forrest County turned into a vehicle pursuit that ended with two arrests, according to the Forrest County Sheriff\u2019s Office.",
       "title": "Vehicle pursuit in Forrest County ends with two arrests - Darkhorse Press"
+    },
+    "https://darkhorsepressnow.com/news/2026-03-05/pike-county-man-gets-30-years-for-aggravated-cocaine-trafficking": {
+      "author": "Therese Apel",
+      "content_html": "<p>PIKE COUNTY \u2014 A Pike County jury found Charles Pittman guilty of aggravated trafficking of cocaine following a trial in Pike County Circuit Court on Tuesday.</p><p>Circuit Judge Michael M. Taylor sentenced Pittman to 30 years in the custody of the Mississippi Department of Corrections. Under Mississippi\u2019s aggravated trafficking statute, the sentence must be served day-for-day without eligibility for early release.</p><p>Prosecutors said evidence at trial showed Pittman and a co-defendant who previously pleaded guilty traveled to Texas to obtain cocaine and transport it back to Pike County for distribution.</p><p>The case stemmed from a joint investigation by the Mississippi Bureau of Narcotics, Pike County Sheriff\u2019s Department, Mississippi Highway Patrol and the Mississippi Forensics Laboratory.</p><p>The case was prosecuted by Assistant District Attorney Sebastian Harrell.</p><p>District Attorney Adams praised the officers and jurors involved in the case.</p><p>\u201cThis conviction demonstrates the commitment of law enforcement and prosecutors across our district to seek justice and accountability as they aggressively combat drug trafficking,\u201d Adams said in a statement. \u201cLet this serve as a clear message to drug dealers: we will continue to work together, one case at a time, to stop drugs from being brought into and distributed within the 14th Circuit Court District.\u201d</p><p>The Office of the District Attorney also thanked the jurors who served and the officers who participated in the investigation, citing their dedication to community safety.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-05/pike-county-man-gets-30-years-for-aggravated-cocaine-trafficking",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2022/04/95424CE6-591D-4BEF-B5E7-D6643128195C.jpeg",
+      "link": "https://darkhorsepressnow.com/news/2026-03-05/pike-county-man-gets-30-years-for-aggravated-cocaine-trafficking",
+      "pub_date": "Thu, 05 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-05T00:00:00+00:00",
+      "summary": "PIKE COUNTY \u2014 A Pike County jury found Charles Pittman guilty of aggravated trafficking of cocaine following a trial in Pike County Circuit Court on Tuesday.",
+      "title": "Pike County man gets 30 years for aggravated cocaine trafficking - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-05T11:59:06.730997+00:00",
+  "last_run_utc": "2026-03-05T12:24:56.095740+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-05/pike-county-man-gets-30-years-for-aggravated-cocaine-trafficking",
     "https://darkhorsepressnow.com/news/2026-03-04/ridgeland-police-seek-help-identifying-man-wanted-for-questioning-in-bank-scam",
     "https://darkhorsepressnow.com/news/2026-03-04/two-sentenced-in-18k-theft-from-elderly-victim-in-rankin-county",
     "https://darkhorsepressnow.com/news/2026-03-04/greenville-fire-department-to-host-district-meeting-training-for-first-responders-saturday",
