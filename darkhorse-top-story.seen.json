@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-03-03/pearl-river-county-sheriffs-department-looking-for-missing-teen": {
-      "author": "Morgan Howard",
-      "content_html": "<p>PEARL RIVER COUNTY \u2013 Authorities are asking for the public\u2019s assistance in locating a missing 16-year-old who left her residence early Tuesday morning.</p><p>According to officials, Starlyn McIntyre left her home at approximately 2 a.m. in her family\u2019s 2013 Chrysler Town and Country van. The vehicle bears Mississippi tag DB4768U.</p><p>It is currently unknown where McIntyre may be headed.</p><p>Anyone with information regarding her whereabouts is urged to contact Pearl River County Central Dispatch at 601-749-5482 or send a message through the department\u2019s official social media platform.</p><p>The case remains active.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-03-03/pearl-river-county-sheriffs-department-looking-for-missing-teen",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/Screenshot-2026-03-03-120407.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-03-03/pearl-river-county-sheriffs-department-looking-for-missing-teen",
-      "pub_date": "Tue, 03 Mar 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-03-03T00:00:00+00:00",
-      "summary": "PEARL RIVER COUNTY \u2013 Authorities are asking for the public\u2019s assistance in locating a missing 16-year-old who left her residence early Tuesday morning.",
-      "title": "Pearl River County Sheriff's Department looking for missing teen - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-03-03/pedestrian-in-wheelchair-killed-in-two-vehicle-crash-on-raymond-road": {
       "author": "Therese Apel",
       "content_html": "<p>JACKSON \u2014 A pedestrian traveling in a wheelchair was killed Monday evening after being struck by two vehicles on Raymond Road, according to the Jackson Police Department.</p><p>Officers responded about 6:40 p.m. to the intersection of Raymond Road and Wilson Boulevard for a reported fatal crash. Police said the pedestrian was hit by a 2012 white Ford Fusion and a 2010 silver Chevrolet Malibu.</p><p>According to investigators, the pedestrian was traveling eastbound on Raymond Road in a wheelchair near the center lane when he was struck by the Ford Fusion, which was also traveling east. The impact ejected the victim into the westbound lanes, where he was then struck by the Chevrolet Malibu traveling west in the inside lane.</p><p>The victim became trapped underneath the Malibu and was extricated by the Jackson Fire Department. He was pronounced dead at the scene.</p><p>Both drivers remained at the scene and were interviewed by responding officers and an accident investigator. Police said each driver was issued a citation for no insurance.</p><p>The investigation is ongoing.</p>",
@@ -418,6 +407,17 @@
       "summary": "VICKSBURG \u2013 The Vicksburg Police Department is asking for the public\u2019s help locating a woman wanted in connection with an embezzlement case.",
       "title": "Vicksburg police seek public\u2019s help locating woman wanted for embezzlement - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-03-06/driver-killed-after-vehicle-crashes-into-power-pole-on-terry-road": {
+      "author": "Morgan Howard",
+      "content_html": "<p>JACKSON \u2013 A driver died after their vehicle struck a power pole in Jackson last night around 5:09 p.m.</p><p>According to Capitol Police, they were called to a one-vehicle accident on Terry Road.</p><p>When officers arrived, they discovered a power pole had been struck and power lines on the ground across Terry Road.</p><p>The driver of the vehicle was pronounced deceased at the scene. Energy crews are working to repair the power lines.</p><p>This is an ongoing investigation.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-06/driver-killed-after-vehicle-crashes-into-power-pole-on-terry-road",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/Screenshot-2026-03-02-072432.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-03-06/driver-killed-after-vehicle-crashes-into-power-pole-on-terry-road",
+      "pub_date": "Fri, 06 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-06T00:00:00+00:00",
+      "summary": "JACKSON \u2013 A driver died after their vehicle struck a power pole in Jackson last night around 5:09 p.m.",
+      "title": "Driver killed after vehicle crashes into power pole on Terry Road - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-03-06/friday-weather-warm-rainy-weekend-ahead": {
       "author": "Mary Apel",
       "content_html": "",
@@ -441,8 +441,9 @@
       "title": "Hattiesburg police seek person of interest in commercial burglary investigations - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-06T13:51:09.745542+00:00",
+  "last_run_utc": "2026-03-06T14:17:01.999954+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-06/driver-killed-after-vehicle-crashes-into-power-pole-on-terry-road",
     "https://darkhorsepressnow.com/news/2026-03-06/friday-weather-warm-rainy-weekend-ahead",
     "https://darkhorsepressnow.com/news/2026-03-05/jackson-police-seek-help-identifying-homicide-suspect-in-2025-gas-station-shooting",
     "https://darkhorsepressnow.com/news/2026-03-05/clinton-unveils-mississippi-blues-trail-marker-honoring-historic-grits-gravy-recording-studio",
