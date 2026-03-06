@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-03-04/columbus-police-looking-for-armed-suspect-in-aggravated-domestic-violence-case": {
-      "author": "Morgan Howard",
-      "content_html": "<p>COLUMBUS \u2013 Columbus police are searching for a man wanted on an aggravated domestic violence charge and are warning the public that he is considered armed and dangerous.</p><p>According to the Columbus Police Department, a female victim reported at approximately 8:09 a.m. March 3 that she had been physically assaulted by her boyfriend during a domestic dispute.</p><p>Police said a warrant has been issued for Deandre Dawan Stancil on a charge of aggravated domestic violence.</p><p>Authorities said Stancil is considered armed and dangerous. The investigation remains ongoing.</p><p>Anyone with information is asked to contact the Columbus Police Department or Golden Triangle Crime Stoppers.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-03-04/columbus-police-looking-for-armed-suspect-in-aggravated-domestic-violence-case",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/645122135_1233806598897250_1634403977342236180_n.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-03-04/columbus-police-looking-for-armed-suspect-in-aggravated-domestic-violence-case",
-      "pub_date": "Wed, 04 Mar 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-03-04T00:00:00+00:00",
-      "summary": "COLUMBUS \u2013 Columbus police are searching for a man wanted on an aggravated domestic violence charge and are warning the public that he is considered armed and dangerous.",
-      "title": "Columbus police looking for armed suspect in aggravated domestic violence case - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-03-04/former-st-martin-high-jrotc-instructor-arrested-under-new-child-grooming-law": {
       "author": "Therese Apel",
       "content_html": "<p>JACKSON COUNTY \u2014 A former JROTC instructor at St. Martin High School has been arrested and charged under Mississippi\u2019s new child grooming law following allegations of inappropriate conduct with a student, authorities said.</p><p>The Jackson County Sheriff\u2019s Department arrested Lawrence Richard Dizon Jr. on March 4 and charged him with grooming of a child. The law, enacted in 2025, was designed as a proactive measure to protect children from inappropriate relationships with sexual predators.</p><p>Sheriff John Ledbetter said school administrators contacted investigators on Feb. 5 regarding allegations involving Dizon and a student. During the investigation, authorities discovered approximately 1,200 text messages exchanged between Dizon and the alleged victim.</p><p>Dizon was terminated from his position at St. Martin High School following the allegations.</p><p>On March 4, Dizon appeared before Keith Miller for a probable cause hearing in Jackson County Circuit Court. After the hearing, he was taken into custody and transported to the Jackson County Sheriff\u2019s Department Adult Detention Center.</p><p>Bond was set at $35,000, and the case was bound over to await action by a grand jury.</p><p>The investigation remains ongoing. Authorities said no additional details will be released at this time to protect the integrity of the case. Anyone with information is asked to contact the Jackson County Sheriff\u2019s Department Criminal Investigative Division.</p>",
@@ -341,6 +330,17 @@
       "summary": "JACKSON \u2013 A driver died after their vehicle struck a power pole in Jackson last night around 5:09 p.m.",
       "title": "Driver killed after vehicle crashes into power pole on Terry Road - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-03-06/drug-task-force-operation-in-lauderdale-county-leads-to-multiple-arrests-drug-seizures": {
+      "author": "Morgan Howard",
+      "content_html": "<p>MERIDIAN \u2013 A citywide law enforcement operation in Lauderdale County resulted in multiple arrests and the seizure of illegal drugs and a firearm, according to the Lauderdale County Sheriff\u2019s Department.</p><p>The operation took place March 5 and involved local, state and federal agencies working alongside the East Mississippi Drug Task Force.</p><p>Authorities said officers confiscated more than 7 grams of crack cocaine, more than 6 grams of methamphetamine and a firearm during the operation.</p><p>Officials reported that the effort led to four felony arrests, two DUI arrests and the apprehension of three fugitives.</p><p>According to the sheriff\u2019s department, felony charges filed during the operation include possession of crack cocaine with intent to distribute, possession of methamphetamine and felon in possession of a firearm.</p><p>The East Mississippi Drug Task Force and the Lauderdale County Sheriff\u2019s Department said they will continue working to reduce criminal activity throughout Lauderdale County.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-06/drug-task-force-operation-in-lauderdale-county-leads-to-multiple-arrests-drug-seizures",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2021/11/lauderdale.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-03-06/drug-task-force-operation-in-lauderdale-county-leads-to-multiple-arrests-drug-seizures",
+      "pub_date": "Fri, 06 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-06T00:00:00+00:00",
+      "summary": "MERIDIAN \u2013 A citywide law enforcement operation in Lauderdale County resulted in multiple arrests and the seizure of illegal drugs and a firearm, according to the Lauderdale County Sheriff\u2019s Department.",
+      "title": "Drug task force operation in Lauderdale County leads to multiple arrests, drug seizures - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-03-06/friday-weather-warm-rainy-weekend-ahead": {
       "author": "Mary Apel",
       "content_html": "",
@@ -441,8 +441,9 @@
       "title": "DARKHORSE DOGS: Meet Maggie: Loyal, playful pup waiting years for a forever home - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-06T17:48:06.404311+00:00",
+  "last_run_utc": "2026-03-06T18:16:36.727019+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-06/drug-task-force-operation-in-lauderdale-county-leads-to-multiple-arrests-drug-seizures",
     "https://darkhorsepressnow.com/news/2026-03-06/chainsaw-artist-transforms-dead-tree-into-t-rex-sculpture-at-lefleurs-bluff-playground",
     "https://darkhorsepressnow.com/news/2026-03-06/low-cost-dog-spay-and-neuter-program-offered-in-hattiesburg-petal",
     "https://darkhorsepressnow.com/news/top-story/2026-03-06/darkhorse-dogs-meet-maggie-loyal-playful-pup-waiting-years-for-a-forever-home",
