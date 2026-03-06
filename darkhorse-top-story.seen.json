@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-03-03/update-burn-bans-issued-in-at-least-15-mississippi-counties-violations-carry-fines": {
-      "author": "Therese Apel",
-      "content_html": "<p>JACKSON \u2014 Burn bans are now in effect in at least 15 Mississippi counties as dry conditions increase wildfire risk, according to the Mississippi Forestry Commission.</p><p>The bans prohibit outdoor burning of any kind and will remain in place through various dates in March and early April. County boards of supervisors request burn bans, and the Forestry Commission approves them. All burn bans expire at midnight on the listed end date.</p><p>Counties currently under burn bans include:</p><p>A burn ban means no outdoor burning of any kind. Anything with an open flame that produces an ember is prohibited, including campfires, bonfires, fire pits, fire rings, burn barrels, debris burning and field burning. Officials warn that wind can carry embers up to a half-mile away, potentially igniting spot fires.</p><p>Allowed during a burn ban are propane or gas grills and heaters, as well as charcoal grills, if used according to manufacturer guidelines, away from combustible materials and never left unattended. Officials stress that charcoal briquettes should be completely cooled and doused with water before disposal in a metal container, with ash cold to the touch.</p><p>Each burn ban lists whether exemptions apply. Exemptions may include certified burn managers, county fire services, certain commercial contractors with heavy construction equipment that meet Mississippi Department of Environmental Quality regulations, and agricultural field burns. Some counties list no exemptions.</p><p>Local sheriff\u2019s departments enforce burn bans. Anyone who knowingly and willfully violates a burn ban is guilty of a misdemeanor and may face a fine ranging from $100 to $500.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-03-03/update-burn-bans-issued-in-at-least-15-mississippi-counties-violations-carry-fines",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2025/09/shutterstock_593412764.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-03-03/update-burn-bans-issued-in-at-least-15-mississippi-counties-violations-carry-fines",
-      "pub_date": "Tue, 03 Mar 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-03-03T00:00:00+00:00",
-      "summary": "JACKSON \u2014 Burn bans are now in effect in at least 15 Mississippi counties as dry conditions increase wildfire risk, according to the Mississippi Forestry Commission.",
-      "title": "UPDATE: Burn Bans Issued in at least 15 Mississippi Counties; Violations Carry Fines - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-03-04/columbus-police-looking-for-armed-suspect-in-aggravated-domestic-violence-case": {
       "author": "Morgan Howard",
       "content_html": "<p>COLUMBUS \u2013 Columbus police are searching for a man wanted on an aggravated domestic violence charge and are warning the public that he is considered armed and dangerous.</p><p>According to the Columbus Police Department, a female victim reported at approximately 8:09 a.m. March 3 that she had been physically assaulted by her boyfriend during a domestic dispute.</p><p>Police said a warrant has been issued for Deandre Dawan Stancil on a charge of aggravated domestic violence.</p><p>Authorities said Stancil is considered armed and dangerous. The investigation remains ongoing.</p><p>Anyone with information is asked to contact the Columbus Police Department or Golden Triangle Crime Stoppers.</p>",
@@ -330,6 +319,17 @@
       "summary": "VICKSBURG \u2013 The Vicksburg Police Department is asking for the public\u2019s help locating a woman wanted in connection with an embezzlement case.",
       "title": "Vicksburg police seek public\u2019s help locating woman wanted for embezzlement - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-03-06/chainsaw-artist-transforms-dead-tree-into-t-rex-sculpture-at-lefleurs-bluff-playground": {
+      "author": "Morgan Howard",
+      "content_html": "<p>JACKSON \u2013 A dead tree at LeFleur\u2019s Bluff State Park has been given new life as a towering Tyrannosaurus rex sculpture thanks to the work of an award-winning chainsaw artist.</p><p>Source: MS Museum of Natural Science The Mississippi Museum of Natural Science announced that artist Dayton Scoggins recently completed the wood carving at the LeFleur\u2019s Bluff Playground, turning the tree into a detailed T-Rex sculpture.</p><p>Using a chainsaw and other carving tools, Scoggins transformed the tree into the dinosaur figure, creating a unique piece of outdoor artwork for visitors to enjoy at the playground.</p><p>Officials with the museum and park are encouraging visitors to stop by the playground to see the sculpture and take photos with the new attraction.</p><p>Visitors who take pictures with the T-Rex are invited to share them on social media using the hashtag #lefleursbluffplayground.</p><p>LeFleur\u2019s Bluff State Park is home to the Mississippi Museum of Natural Science and is part of the Mississippi state parks system.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-06/chainsaw-artist-transforms-dead-tree-into-t-rex-sculpture-at-lefleurs-bluff-playground",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/646839346_1322600229901887_8459859726129580585_n.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-03-06/chainsaw-artist-transforms-dead-tree-into-t-rex-sculpture-at-lefleurs-bluff-playground",
+      "pub_date": "Fri, 06 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-06T00:00:00+00:00",
+      "summary": "JACKSON \u2013 A dead tree at LeFleur\u2019s Bluff State Park has been given new life as a towering Tyrannosaurus rex sculpture thanks to the work of an award-winning chainsaw artist.",
+      "title": "Chainsaw artist transforms dead tree into T-Rex sculpture at LeFleur\u2019s Bluff playground - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-03-06/driver-killed-after-vehicle-crashes-into-power-pole-on-terry-road": {
       "author": "Morgan Howard",
       "content_html": "<p>JACKSON \u2013 A driver died after their vehicle struck a power pole in Jackson last night around 5:09 p.m.</p><p>According to Capitol Police, they were called to a one-vehicle accident on Terry Road.</p><p>When officers arrived, they discovered a power pole had been struck and power lines on the ground across Terry Road.</p><p>The driver of the vehicle was pronounced deceased at the scene. Energy crews are working to repair the power lines.</p><p>This is an ongoing investigation.</p>",
@@ -441,8 +441,9 @@
       "title": "DARKHORSE DOGS: Meet Maggie: Loyal, playful pup waiting years for a forever home - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-06T16:14:33.782399+00:00",
+  "last_run_utc": "2026-03-06T16:32:55.694778+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-06/chainsaw-artist-transforms-dead-tree-into-t-rex-sculpture-at-lefleurs-bluff-playground",
     "https://darkhorsepressnow.com/news/2026-03-06/low-cost-dog-spay-and-neuter-program-offered-in-hattiesburg-petal",
     "https://darkhorsepressnow.com/news/top-story/2026-03-06/darkhorse-dogs-meet-maggie-loyal-playful-pup-waiting-years-for-a-forever-home",
     "https://darkhorsepressnow.com/news/2026-03-06/woman-riding-bicycle-hit-by-truck-in-jackson",
