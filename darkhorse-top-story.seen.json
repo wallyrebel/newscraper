@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-03-06/driver-killed-after-vehicle-crashes-into-power-pole-on-terry-road": {
-      "author": "Morgan Howard",
-      "content_html": "<p>JACKSON \u2013 A driver died after their vehicle struck a power pole in Jackson last night around 5:09 p.m.</p><p>According to Capitol Police, they were called to a one-vehicle accident on Terry Road.</p><p>When officers arrived, they discovered a power pole had been struck and power lines on the ground across Terry Road.</p><p>The driver of the vehicle was pronounced deceased at the scene. Energy crews are working to repair the power lines.</p><p>This is an ongoing investigation.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-03-06/driver-killed-after-vehicle-crashes-into-power-pole-on-terry-road",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/Screenshot-2026-03-02-072432.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-03-06/driver-killed-after-vehicle-crashes-into-power-pole-on-terry-road",
-      "pub_date": "Fri, 06 Mar 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-03-06T00:00:00+00:00",
-      "summary": "JACKSON \u2013 A driver died after their vehicle struck a power pole in Jackson last night around 5:09 p.m.",
-      "title": "Driver killed after vehicle crashes into power pole on Terry Road - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-03-06/drug-task-force-operation-in-lauderdale-county-leads-to-multiple-arrests-drug-seizures": {
       "author": "Morgan Howard",
       "content_html": "<p>MERIDIAN \u2013 A citywide law enforcement operation in Lauderdale County resulted in multiple arrests and the seizure of illegal drugs and a firearm, according to the Lauderdale County Sheriff\u2019s Department.</p><p>The operation took place March 5 and involved local, state and federal agencies working alongside the East Mississippi Drug Task Force.</p><p>Authorities said officers confiscated more than 7 grams of crack cocaine, more than 6 grams of methamphetamine and a firearm during the operation.</p><p>Officials reported that the effort led to four felony arrests, two DUI arrests and the apprehension of three fugitives.</p><p>According to the sheriff\u2019s department, felony charges filed during the operation include possession of crack cocaine with intent to distribute, possession of methamphetamine and felon in possession of a firearm.</p><p>The East Mississippi Drug Task Force and the Lauderdale County Sheriff\u2019s Department said they will continue working to reduce criminal activity throughout Lauderdale County.</p>",
@@ -352,6 +341,17 @@
       "summary": "QUITMAN \u2014 Clarkco State Park in Quitman will reopen March 19 following renovations that include updated RV campsites, newly renovated cabins and improvements to other park facilities, officials with the Mississippi Department of Wildlife, Fisheries and Parks announced.",
       "title": "Clarkco State Park to Reopen March 19 With Renovated Cabins, Campgrounds - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-03-10/george-county-man-arrested-on-child-exploitation-charges": {
+      "author": "Morgan Howard",
+      "content_html": "<p>LUCEDALE \u2013 A Lucedale man has been arrested on multiple charges of touching a child for lustful purposes, according to the George County Sheriff\u2019s Office.</p><p>Investigators arrested Matthew Bradshaw, 43, on March 9.</p><p>Bradshaw was charged with three counts of touching a child for lustful purposes. Authorities also said he had two outstanding warrants through George County Justice Court for guilty in absentia.</p><p>The charges stem from an investigation that began after the sheriff\u2019s office received a report from Child Protection Services. Investigators later developed information that led to Bradshaw\u2019s arrest, officials said.</p><p>Bradshaw was given a $60,000 commercial bond on each of the three child exploitation charges, for a total bond of $180,000.</p><p>Sheriff Mitchell Mixon said the sheriff\u2019s office appreciates the work of Child Protection Services in cases involving the safety and well-being of children.</p><p>All defendants are presumed innocent until proven guilty in a court of law.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-10/george-county-man-arrested-on-child-exploitation-charges",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/Screenshot-2026-03-10-125736.png",
+      "link": "https://darkhorsepressnow.com/news/2026-03-10/george-county-man-arrested-on-child-exploitation-charges",
+      "pub_date": "Tue, 10 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-10T00:00:00+00:00",
+      "summary": "LUCEDALE \u2013 A Lucedale man has been arrested on multiple charges of touching a child for lustful purposes, according to the George County Sheriff\u2019s Office.",
+      "title": "George County man arrested on child exploitation charges - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-03-10/inmates-at-quitman-community-work-center-earn-forklift-certification": {
       "author": "Morgan Howard",
       "content_html": "<p>QUITMAN COUNTY \u2013 Twenty-five participants at the Quitman Community Work Center recently completed forklift training through a partnership between the Mississippi Department of Corrections and Coahoma Community College.</p><p>The training program concluded Friday, March 6, and provided participants with hands-on instruction designed to prepare them for employment opportunities after reentry into the community.</p><p>Officials said the certification gives participants industry-recognized skills while also helping build confidence and readiness to enter the workforce.</p><p>The Mississippi Department of Corrections said programs like the forklift training are part of broader efforts to reduce recidivism and create pathways to meaningful employment for individuals preparing to return to society.</p><p>MDOC officials also credited community partnerships, including Coahoma Community College, for helping provide training opportunities that support rehabilitation and workforce development.</p>",
@@ -441,8 +441,9 @@
       "title": "Waveland Police Seek Help Identifying Suspect in Vehicle Burglaries, Stolen Car - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-10T17:06:02.093370+00:00",
+  "last_run_utc": "2026-03-10T17:32:37.482346+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-10/george-county-man-arrested-on-child-exploitation-charges",
     "https://darkhorsepressnow.com/news/2026-03-10/lucedale-man-killed-in-motorcycle-crash-in-greene-county",
     "https://darkhorsepressnow.com/news/2026-03-10/arrest-made-in-rankin-county-narcotics-investigation",
     "https://darkhorsepressnow.com/news/2026-03-10/mother-daughter-die-in-montgomery-county-house-fire",
