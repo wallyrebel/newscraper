@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-03-06/low-cost-dog-spay-and-neuter-program-offered-in-hattiesburg-petal": {
-      "author": "Morgan Howard",
-      "content_html": "<p>HATTIESBURG \u2013 Pet owners in Hattiesburg and Petal can have their dogs spayed or neutered for a reduced cost throughout the month of March, thanks to a partnership with the ASPCA.</p><p>According to organizers, the program offers the service for $35 per dog. However, officials said appointments for female dogs are now fully booked, with remaining availability limited to male dogs.</p><p>Pet owners booking online may still see regular pricing listed, but the discounted rate will be applied during check-in on the day of the surgery.</p><p>Participants must provide proof of a current rabies vaccination for their dog. If the animal does not have one, a free rabies vaccine will be available at the time of the appointment. A free parvo vaccine will also be offered if needed, courtesy of Petco Love.</p><p>The program limits appointments to four dogs per client, and all dogs must be brought on a secure leash.</p><p>Officials said the discounted services are available only to residents with a Hattiesburg or Petal address.</p><p>Appointments can be scheduled online at sopineshealthypets.org. Organizers noted that spots are limited and additional fees may apply.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-03-06/low-cost-dog-spay-and-neuter-program-offered-in-hattiesburg-petal",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/646745423_1518097530325582_5666438500787627861_n.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-03-06/low-cost-dog-spay-and-neuter-program-offered-in-hattiesburg-petal",
-      "pub_date": "Fri, 06 Mar 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-03-06T00:00:00+00:00",
-      "summary": "HATTIESBURG \u2013 Pet owners in Hattiesburg and Petal can have their dogs spayed or neutered for a reduced cost throughout the month of March, thanks to a partnership with the ASPCA.",
-      "title": "Low-cost dog spay and neuter program offered in Hattiesburg, Petal - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-03-06/male-inmate-found-dead-in-clarke-county-jail-state-investigators-called-in": {
       "author": "Morgan Howard",
       "content_html": "<p>A male inmate was found dead in his cell Friday at the Clarke County Jail, and state authorities have been called in to investigate.</p><p>Clarke County Sheriff Anthony Chancelor said the inmate was discovered around noon on March 6. The man was found in his cell by jail staff.</p><p>Chancelor said there were no apparent signs of foul play, and the death appears to be an apparent suicide.</p><p>The Mississippi Bureau of Investigation has been requested to take over and lead the investigation, which is standard procedure in deaths involving inmates.</p><p>Authorities have not released the inmate\u2019s name. The investigation remains ongoing.</p>",
@@ -396,6 +385,17 @@
       "summary": "KILMICHAEL, Miss. \u2014 According to WTVA, a mother and daughter died in a house fire in Montgomery County on Friday morning.",
       "title": "Mother, daughter die in Montgomery County house fire - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-03-10/terry-police-investigating-overturned-truck-on-highway-473": {
+      "author": "Therese Apel",
+      "content_html": "<p>TERRY \u2014 Terry Police officers responded at 5:17 p.m. to a one-vehicle accident involving a 2024 Freightliner on State Highway 473 near Gaines Drive.</p><p>According to Terry Police Chief Anthony Moore, the truck overturned into a ditch in front of a cemetery at that location. The vehicle sustained heavy damage.</p><p>Moore said the two occupants of the truck were not injured.</p><p>The accident remains under investigation by the Terry Police Department.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-10/terry-police-investigating-overturned-truck-on-highway-473",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/IMG_0867.jpeg",
+      "link": "https://darkhorsepressnow.com/news/2026-03-10/terry-police-investigating-overturned-truck-on-highway-473",
+      "pub_date": "Tue, 10 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-10T00:00:00+00:00",
+      "summary": "TERRY \u2014 Terry Police officers responded at 5:17 p.m. to a one-vehicle accident involving a 2024 Freightliner on State Highway 473 near Gaines Drive.",
+      "title": "Terry police investigating overturned truck on Highway 473 - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-03-10/tuesday-weather-highs-in-the-lower-80s-rainy-storms-ahead": {
       "author": "Mary Apel",
       "content_html": "<p>Severe storms capable of damaging winds, hail up to golf ball size, and tornadoes will be possible Wednesday afternoon and evening.</p><p>Today we will see cloudy skies and highs in the lower 80s across the region.</p>",
@@ -441,8 +441,9 @@
       "title": "Waveland Police Seek Help Identifying Suspect in Vehicle Burglaries, Stolen Car - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-11T01:12:06.938630+00:00",
+  "last_run_utc": "2026-03-11T01:58:13.936302+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-10/terry-police-investigating-overturned-truck-on-highway-473",
     "https://darkhorsepressnow.com/news/2026-03-10/forrest-county-authorities-searching-for-missing-man-who-may-be-experiencing-medical-emergency",
     "https://darkhorsepressnow.com/news/2026-03-10/child-found-dead-after-vehicle-crashes-into-creek-off-natchez-trace-parkway",
     "https://darkhorsepressnow.com/news/2026-03-10/bank-of-commerce-donates-250000-to-six-north-mississippi-organizations-through-mississippi-childrens-promise-act",
