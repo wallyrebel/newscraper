@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-03-08/motorcyclist-killed-in-crash-on-u-s-98-in-greene-county": {
-      "author": "Morgan Howard",
-      "content_html": "<p>GREENE COUNTY \u2013 A motorcyclist was killed Friday night in a crash on U.S. Highway 98 in Greene County, according to the Mississippi Highway Patrol.</p><p>The crash happened March 6 at approximately 9:45 p.m. near Mississippi Highway 57.</p><p>Authorities said a 2023 Harley-Davidson motorcycle driven by Thomas J. Everett, 69, of Daphne, Alabama, was traveling west on U.S. 98 when it left the roadway and struck a utility power pole.</p><p>Everett sustained fatal injuries and was pronounced dead at the scene by the Greene County Coroner\u2019s Office.</p><p>The crash remains under investigation by the Mississippi Highway Patrol.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-03-08/motorcyclist-killed-in-crash-on-u-s-98-in-greene-county",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2024/01/fatal-crash-4.png",
-      "link": "https://darkhorsepressnow.com/news/2026-03-08/motorcyclist-killed-in-crash-on-u-s-98-in-greene-county",
-      "pub_date": "Sun, 08 Mar 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-03-08T00:00:00+00:00",
-      "summary": "GREENE COUNTY \u2013 A motorcyclist was killed Friday night in a crash on U.S. Highway 98 in Greene County, according to the Mississippi Highway Patrol.",
-      "title": "Motorcyclist killed in crash on U.S. 98 in Greene County - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-03-08/teen-pedestrian-dies-after-weekend-crash-in-monroe-county": {
       "author": "Morgan Howard",
       "content_html": "<p>AMORY \u2013 A pedestrian injured in a Saturday crash in Monroe County has died, according to Monroe County Coroner Alan Gurley.</p><p>WTVA reported that Gurley identified the victim as Jake Harrison, 19, of Amory.</p><p>The crash happened on Boulevard Drive South near the intersection of Hatley Road.</p><p>According to WTVA, emergency crews responded to the scene and transported Harrison to a hospital in Amory. Due to the severity of his injuries, he was later transferred to a hospital in Jackson, where he died Sunday morning.</p><p>The Amory Police Department is continuing to investigate the cause of the crash.</p>",
@@ -341,6 +330,17 @@
       "summary": "(StatePoint) About 20 years ago, chickens\u2014long a staple of farms and homesteads\u2014began showing up in urban and suburban yards. They enabled city dwellers to source homegrown food, provided a touch of nature amid the urban jungle, and have continued to rise in popularity ever since. According to the American Pet Products Association\u2019s 2025 State of the Industry report, 11 million U.S. households own backyard chickens, a 28% increase from 2023.",
       "title": "Chick Check: What to Know Before Building a Backyard Chicken Flock - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-03-11/covington-county-deputies-seek-help-identifying-two-men": {
+      "author": "Morgan Howard",
+      "content_html": "<p>COVINGTON COUNTY \u2013 The Covington County Sheriff\u2019s Office is asking for the public\u2019s help identifying two men.</p><p>Authorities released images of the two individuals and said they are seeking information that may help identify them.</p><p>Anyone who knows who the men are or has information that could assist investigators is asked to call the sheriff\u2019s office tips line at 601-641-4618.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-11/covington-county-deputies-seek-help-identifying-two-men",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/650043649_1356717426501638_1824140775348449564_n.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-03-11/covington-county-deputies-seek-help-identifying-two-men",
+      "pub_date": "Wed, 11 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-11T00:00:00+00:00",
+      "summary": "COVINGTON COUNTY \u2013 The Covington County Sheriff\u2019s Office is asking for the public\u2019s help identifying two men.",
+      "title": "Covington County deputies seek help identifying two men - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-03-11/ellisville-police-seek-help-identifying-two-people-in-shoplifting-investigation": {
       "author": "Morgan Howard",
       "content_html": "<p>ELLISVILLE \u2014 The Ellisville Police Department is asking for the public\u2019s help identifying two people wanted for questioning in connection with a shoplifting investigation.</p><p>Authorities released surveillance images of the individuals and said they may have information related to the case.</p><p>Anyone who recognizes the individuals or has information about their identities is asked to contact the Ellisville Police Department at 601-477-9252 or 601-425-0270.</p>",
@@ -441,8 +441,9 @@
       "title": "Corinth police searching for missing 45-year-old man - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-11T15:03:57.082042+00:00",
+  "last_run_utc": "2026-03-11T16:03:09.194110+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-11/covington-county-deputies-seek-help-identifying-two-men",
     "https://darkhorsepressnow.com/news/2026-03-11/state-trooper-driver-injured-in-crash-during-pursuit-in-webster-county",
     "https://darkhorsepressnow.com/news/2026-03-11/yazoo-county-deputies-arrest-two-after-traffic-stop-on-highway-49",
     "https://darkhorsepressnow.com/news/2026-03-11/ellisville-police-seek-help-identifying-two-people-in-shoplifting-investigation",
