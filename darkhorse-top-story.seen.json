@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-03-06/tylertown-police-seek-publics-help-in-hit-and-run-investigation": {
-      "author": "Morgan Howard",
-      "content_html": "<p>TYLERTOWN \u2013 The Tylertown Police Department is asking for the public\u2019s help identifying a woman in connection with a hit-and-run investigation.</p><p>Police said the department is currently investigating the incident and is seeking assistance in identifying the female pictured in a public notice.</p><p>Anyone who recognizes the woman or has information that could help investigators is asked to contact the Tylertown Police Department at 601-876-4440.</p><p>Officials said tipsters may also send the department a private message with the person\u2019s name and remain anonymous.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-03-06/tylertown-police-seek-publics-help-in-hit-and-run-investigation",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/hit-and-run.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-03-06/tylertown-police-seek-publics-help-in-hit-and-run-investigation",
-      "pub_date": "Fri, 06 Mar 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-03-06T00:00:00+00:00",
-      "summary": "TYLERTOWN \u2013 The Tylertown Police Department is asking for the public\u2019s help identifying a woman in connection with a hit-and-run investigation.",
-      "title": "Tylertown police seek public\u2019s help in hit-and-run investigation - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-03-06/woman-riding-bicycle-hit-by-truck-in-jackson": {
       "author": "Morgan Howard",
       "content_html": "<p>JACKSON \u2013 A woman riding a bicycle in Jackson was injured after she was hit by a white Dodge pick-up truck.</p><p>Thankfully, her injuries are minor, according to Jackson PIO Tommie Brown. The crash happened around 5:45 a.m. on Highway 18.</p><p>The driver remained on scene after the crash.</p>",
@@ -439,10 +428,22 @@
       "pub_dt_iso": "2026-03-10T00:00:00+00:00",
       "summary": "WAVELAND \u2014 Police in Waveland are asking for the public\u2019s help identifying a person caught on camera who investigators say is connected to several vehicle burglaries and the theft of a vehicle earlier this month.",
       "title": "Waveland Police Seek Help Identifying Suspect in Vehicle Burglaries, Stolen Car - Darkhorse Press"
+    },
+    "https://darkhorsepressnow.com/news/top-story/2026-03-11/corinth-police-searching-for-missing-45-year-old-man": {
+      "author": "Morgan Howard",
+      "content_html": "<p>CORINTH \u2014 The Corinth Police Department is asking for the public\u2019s help locating a missing man.</p><p>Police said Neal Jalufka, 45, has been reported missing from Corinth.</p><p>Authorities said his last known location and clothing description are unknown.</p><p>Anyone who sees Jalufka or has information about his whereabouts is asked to contact the Corinth Police Department at 662-286-3377 and request Detective Jerry Rogers.</p>",
+      "guid": "https://darkhorsepressnow.com/news/top-story/2026-03-11/corinth-police-searching-for-missing-45-year-old-man",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/649760657_1221741730124451_6028940700780563798_n.jpg",
+      "link": "https://darkhorsepressnow.com/news/top-story/2026-03-11/corinth-police-searching-for-missing-45-year-old-man",
+      "pub_date": "Wed, 11 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-11T00:00:00+00:00",
+      "summary": "CORINTH \u2014 The Corinth Police Department is asking for the public\u2019s help locating a missing man.",
+      "title": "Corinth police searching for missing 45-year-old man - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-11T14:09:28.892086+00:00",
+  "last_run_utc": "2026-03-11T14:33:09.386600+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/top-story/2026-03-11/corinth-police-searching-for-missing-45-year-old-man",
     "https://darkhorsepressnow.com/news/2026-03-11/wednesday-weather-heavy-rain-and-some-strong-winds",
     "https://darkhorsepressnow.com/news/2026-03-11/woman-arrested-after-pursuit-collisions-with-patrol-vehicles-in-yazoo-county",
     "https://darkhorsepressnow.com/news/2026-03-11/chick-check-what-to-know-before-building-a-backyard-chicken-flock",
