@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-03-16/21-year-old-inmate-charged-with-murder-dies-in-custody-at-jones-county-jail": {
-      "author": "Morgan Howard",
-      "content_html": "<p>JONES COUNTY \u2013 A 21-year-old inmate charged with murder died Monday after being found unresponsive inside the Jones County Adult Detention Facility, according to Jones County Sheriff Joe Berlin.</p><p>Sheriff Berlin said Nehemiah Rice was booked into the detention center on March 16 on a murder charge filed by the Ellisville Police Department in connection with a shooting at an Ellisville hotel.</p><p>Authorities said Rice was interviewed by an Ellisville Police Department investigator in an interview room at the detention facility. After the interview was completed, the investigator left the jail and Rice was returned to his cell.</p><p>According to the sheriff\u2019s office, Rice was later discovered unresponsive in his cell. Corrections officers administered CPR and nasal Narcan while emergency medical services were dispatched.</p><p>EMServ Ambulance Service responded and transported Rice to South Central Regional Medical Center while continuing life-saving efforts. Rice was later pronounced dead.</p><p>The Mississippi Bureau of Investigation has been contacted to conduct an investigation into the incident, which officials described as an \u201cin-custody\u201d death until an official determination is made.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-03-16/21-year-old-inmate-charged-with-murder-dies-in-custody-at-jones-county-jail",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2024/02/humberto-portillo-YAOIz5tuv-Y-unsplash-scaled.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-03-16/21-year-old-inmate-charged-with-murder-dies-in-custody-at-jones-county-jail",
-      "pub_date": "Mon, 16 Mar 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-03-16T00:00:00+00:00",
-      "summary": "JONES COUNTY \u2013 A 21-year-old inmate charged with murder died Monday after being found unresponsive inside the Jones County Adult Detention Facility, according to Jones County Sheriff Joe Berlin.",
-      "title": "21-year-old inmate charged with murder dies in custody at Jones County jail - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-03-16/capitol-police-investigating-crash-after-brief-pursuit-in-jackson": {
       "author": "Morgan Howard",
       "content_html": "<p>JACKSON \u2013 Capitol Police are investigating after a vehicle overturned following a brief pursuit Saturday evening in Jackson.</p><p>According to authorities, officers attempted to initiate a traffic stop around 6:58 p.m. on March 14 near Sunset Drive for traffic violations.</p><p>Police said the driver failed to yield, leading officers on a brief pursuit that ended near Eubanks Creek when the vehicle overturned.</p><p>One person fled the scene on foot, authorities said. Three others were arrested at the scene without further incident.</p><p>Officials said charges are pending. The investigation remains open and ongoing.</p>",
@@ -429,6 +418,17 @@
       "summary": "TUPELO, \u2013 The Tupelo Police Department is asking for the public\u2019s help identifying a person shown in a photo released by investigators.",
       "title": "Tupelo police seek help identifying person in investigation - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-03-18/u-s-marshals-capture-fugitive-wanted-in-winston-county-shooting": {
+      "author": "Morgan Howard",
+      "content_html": "<p>WINSTON COUNTY \u2013 A man wanted in connection with a shooting in Winston County and the attempted shooting of a law enforcement officer has been captured, according to the U.S. Marshals Service.</p><p>Bobby White Jr., 45, was arrested March 17 in Ackerman following a fugitive investigation led by the U.S. Marshals Service. White was wanted by the Winston County Sheriff\u2019s Department on charges of aggravated assault with a deadly weapon and attempted aggravated assault on a law enforcement officer.</p><p>Authorities said the case began March 12 after an adult male, believed to be a family member of White, was shot following an altercation on Miller Avenue in Louisville.</p><p>Emergency dispatchers received a call about the shooting, and as a Winston County sheriff\u2019s deputy responded to the scene, officials said the suspect fired at the deputy. The deputy was not struck.</p><p>Investigators said the suspect then fled into the woods and was not immediately located. A warrant for White\u2019s arrest was issued March 13.</p><p>On March 17, deputy U.S. marshals with the Gulf Coast Regional Fugitive Task Force tracked White to a home in the 1300 block of Concord-Bethsalem Road in Ackerman.</p><p>With assistance from the Winston County and Choctaw County sheriff\u2019s departments, U.S. marshals surrounded the residence and took White into custody without incident.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-18/u-s-marshals-capture-fugitive-wanted-in-winston-county-shooting",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/Bobby-White-Arrest-Photo.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-03-18/u-s-marshals-capture-fugitive-wanted-in-winston-county-shooting",
+      "pub_date": "Wed, 18 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-18T00:00:00+00:00",
+      "summary": "WINSTON COUNTY \u2013 A man wanted in connection with a shooting in Winston County and the attempted shooting of a law enforcement officer has been captured, according to the U.S. Marshals Service.",
+      "title": "U.S. Marshals capture fugitive wanted in Winston County shooting - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-03-18/wednesday-weather-chilly-am-but-warming-up": {
       "author": "Mary Apel",
       "content_html": "",
@@ -441,8 +441,9 @@
       "title": "Wednesday Weather: Chilly AM but warming up - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-18T15:10:10.436556+00:00",
+  "last_run_utc": "2026-03-18T15:43:24.490835+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-18/u-s-marshals-capture-fugitive-wanted-in-winston-county-shooting",
     "https://darkhorsepressnow.com/news/2026-03-18/man-arrested-on-meth-trafficking-charge-after-undercover-operation-in-lee-county",
     "https://darkhorsepressnow.com/news/2026-03-18/tupelo-police-seek-help-identifying-person-in-investigation",
     "https://darkhorsepressnow.com/news/2026-03-18/saltillo-man-arrested-after-search-warrant-leads-to-meth-firearm-seizure",
