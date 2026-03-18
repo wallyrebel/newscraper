@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-03-16/gautier-man-arrested-in-child-sexual-battery-investigation": {
-      "author": "Morgan Howard",
-      "content_html": "<p>GAUTIER \u2013 A Gautier man has been arrested and charged in a child sexual battery investigation, according to the Gautier Police Department.</p><p>Police said officers arrested Travis Wilson, 37, on Friday, March 15, and charged him with sexual battery of a child under the age of 14.</p><p>Wilson is being held at the Jackson County Adult Detention Center. Authorities said he is scheduled to make his initial appearance in Gautier Municipal Court on March 16.</p><p>Police said the investigation remains ongoing and additional charges are possible as investigators continue gathering information.</p><p>Anyone with information related to the case is asked to contact the Gautier Police Department Investigations Division at 228-497-2486.</p><p>Anonymous tips can also be submitted through Mississippi Coast Crime Stoppers by calling 877-787-5898 or through the P3 Tips app.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-03-16/gautier-man-arrested-in-child-sexual-battery-investigation",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/651211862_1355138409977058_310973970528964913_n.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-03-16/gautier-man-arrested-in-child-sexual-battery-investigation",
-      "pub_date": "Mon, 16 Mar 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-03-16T00:00:00+00:00",
-      "summary": "GAUTIER \u2013 A Gautier man has been arrested and charged in a child sexual battery investigation, according to the Gautier Police Department.",
-      "title": "Gautier man arrested in child sexual battery investigation - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-03-16/highway-patrol-lee-county-deputies-issue-78-citations-in-school-zone-enforcement-operation": {
       "author": "Morgan Howard",
       "content_html": "<p>LEE COUNTY \u2013 A traffic enforcement operation near Shannon Primary School resulted in 78 citations and two DUI arrests, according to Lee County Sheriff Jim H. Johnson.</p><p>Johnson said he coordinated with the Mississippi Highway Patrol last week to focus enforcement on Highway 45 near the school zone after recent safety concerns in school areas.</p><p>He said saturation patrols were requested in the area to increase awareness and cite drivers violating traffic laws.</p><p>During the operation, officials issued 78 citations, all during active school hours in the school zone. Authorities also made two arrests for driving under the influence.</p><p>Johnson said the goal of the enforcement effort was to protect children and improve safety in the school zone.</p><p>Officials are reminding drivers to slow down, stay alert and obey traffic laws when traveling through school zones.</p>",
@@ -385,6 +374,17 @@
       "summary": "COAHOMA COUNTY \u2013 Emergency crews responded to an overturned vehicle late Tuesday night in Coahoma County, where one person was seriously injured.",
       "title": "One airlifted after overturned vehicle crash on Highway 61 South in Coahoma County - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-03-18/pike-county-sheriffs-office-adds-analyst-to-icac-task-force-to-combat-online-child-exploitation": {
+      "author": "Morgan Howard",
+      "content_html": "<p>PIKE COUNTY \u2013 The Pike County Sheriff\u2019s Office has added a new member to assist in the fight against online child exploitation through its partnership with the Mississippi Internet Crimes Against Children Task Force, according to Sheriff Bryant \u201cWally\u201d Jones.</p><p>Officials said Intelligence Analyst Aaron Adams joined the ICAC Task Force as an affiliate member on Monday, March 16.</p><p>The ICAC Unit, operated by the Mississippi Attorney General\u2019s Office, is responsible for investigating online child exploitation cases across the state.</p><p>Adams joins Lt. Det. Javonda Shanks of the Pike County Sheriff\u2019s Office, who has served as an affiliate member of the task force since 2024. Former Pike County Sheriff\u2019s Office detectives Matthew Travis and Max Adams also serve as full-time members of the ICAC Task Force under the Attorney General\u2019s Office.</p><p>Sheriff Jones said the addition strengthens the county\u2019s ongoing efforts to protect children and support statewide investigations.</p><p>\u201cI\u2019m proud of Aaron and all of the ICAC members who help keep our communities safe from child predators,\u201d Jones said. \u201cHe will be a great addition to the unit and brings a lot of talent to the table. We will continue to partner with the Mississippi Attorney General and the ICAC Unit for years to come.\u201d</p><p>The sheriff\u2019s office said the partnership reflects its continued commitment to combating online child exploitation and enhancing public safety.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-18/pike-county-sheriffs-office-adds-analyst-to-icac-task-force-to-combat-online-child-exploitation",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/Screenshot-2026-03-18-123604.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-03-18/pike-county-sheriffs-office-adds-analyst-to-icac-task-force-to-combat-online-child-exploitation",
+      "pub_date": "Wed, 18 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-18T00:00:00+00:00",
+      "summary": "PIKE COUNTY \u2013 The Pike County Sheriff\u2019s Office has added a new member to assist in the fight against online child exploitation through its partnership with the Mississippi Internet Crimes Against Children Task Force, according to Sheriff Bryant \u201cWally\u201d Jones.",
+      "title": "Pike County Sheriff\u2019s Office adds analyst to ICAC Task Force to combat online child exploitation - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-03-18/saltillo-man-arrested-after-search-warrant-leads-to-meth-firearm-seizure": {
       "author": "Morgan Howard",
       "content_html": "<p>SALTILLO \u2013 A Saltillo man was arrested after agents executing a search warrant found a felony amount of methamphetamine and numerous firearms at a home in the city, according to the Tupelo Police Department.</p><p>Authorities said agents with the North Mississippi Narcotics Unit and the Saltillo Police Department executed the search warrant March 6 at a residence on Pulltight Road in Saltillo.</p><p>During the search, investigators found a felony amount of suspected methamphetamine along with numerous firearms, officials said.</p><p>William Wallace Ellis, 53, of Saltillo, was arrested and charged with possession of a Schedule II controlled substance.</p><p>Lee County Justice Court Judge Chuck Hopkins set Ellis\u2019 bond at $50,000.</p><p>Authorities said the case will be presented to the Lee County Grand Jury.</p>",
@@ -441,8 +441,9 @@
       "title": "Wednesday Weather: Chilly AM but warming up - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-18T17:11:12.095229+00:00",
+  "last_run_utc": "2026-03-18T17:39:59.934540+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-18/pike-county-sheriffs-office-adds-analyst-to-icac-task-force-to-combat-online-child-exploitation",
     "https://darkhorsepressnow.com/news/2026-03-18/two-charged-after-stolen-vehicle-recovered-in-carroll-county-investigation",
     "https://darkhorsepressnow.com/news/2026-03-18/jackson-state-to-host-national-teacher-recruitment-fair-amid-ongoing-educator-shortage",
     "https://darkhorsepressnow.com/news/2026-03-18/u-s-marshals-capture-fugitive-wanted-in-winston-county-shooting",
