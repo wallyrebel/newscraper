@@ -44,17 +44,6 @@
       "summary": "HORN LAKE \u2013 The Mississippi Bureau of Investigation has issued a Silver Alert for a missing 79-year-old man from Horn Lake.",
       "title": "Silver Alert issued for missing 79-year-old Horn Lake man - Darkhorse Press"
     },
-    "https://darkhorsepressnow.com/news/2026-03-17/st-patricks-day-weather-hard-freeze-this-morning": {
-      "author": "Mary Apel",
-      "content_html": "",
-      "guid": "https://darkhorsepressnow.com/news/2026-03-17/st-patricks-day-weather-hard-freeze-this-morning",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/IMG_7239.png",
-      "link": "https://darkhorsepressnow.com/news/2026-03-17/st-patricks-day-weather-hard-freeze-this-morning",
-      "pub_date": "Tue, 17 Mar 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-03-17T00:00:00+00:00",
-      "summary": "Much colder air behind the cold front is leading to a significant freeze ongoing this morning, resulting in damage to unprotected vegetation, including early season fruit crops.",
-      "title": "St Patrick\u2019s Day Weather: Hard freeze this morning - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-03-17/texas-woman-killed-after-two-vehicles-hit-detached-trailer-in-covington-county": {
       "author": "Morgan Howard",
       "content_html": "<p>COVINGTON COUNTY \u2013 A Texas woman was killed Monday morning in a three-vehicle crash involving a detached tractor-trailer on U.S. Highway 49, according to the Mississippi Highway Patrol.</p><p>The crash occurred around 5:06 a.m. on March 16.</p><p>Authorities said a 2016 Volvo tractor-trailer driven by Filmon T. Abraha, 29, of Garland, Texas, was traveling south when it briefly left the roadway and then re-entered. When the vehicle returned to the roadway, the second trailer became detached.</p><p>A 2013 Nissan Altima driven by Lyle B. Wheat, 30, of Collins, was also traveling south when it collided with the detached trailer in the roadway. A 2026 Kia Sportage driven by Arlene I. Turner, 67, of San Antonio, Texas, then also struck the trailer.</p><p>Officials said Abraha and Wheat were not injured in the crash.</p><p>Turner sustained fatal injuries and was pronounced dead at the scene by the Covington County Coroner\u2019s Office.</p><p>The crash remains under investigation by the Mississippi Highway Patrol.</p>",
@@ -429,6 +418,17 @@
       "summary": "KEMPER COUNTY \u2013 A Kemper County man was arrested Thursday after a joint investigation by the Kemper County Sheriff\u2019s Office and the FBI into the alleged download of child pornography from the dark web.",
       "title": "Kemper County man arrested on 20 child pornography charges - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-03-20/three-taken-into-custody-in-shoplifting-case-at-guns-n-gear": {
+      "author": "Morgan Howard",
+      "content_html": "<p>GLUCKSTADT \u2013 Three suspects were taken into custody Thursday after officers responded to a shoplifting call at a business in Gluckstadt, according to the Gluckstadt Police Department.</p><p>Police said officers were dispatched March 19 to Guns-N-Gear, located at 1716 Highway 51, after the store owner reported a shoplifting in progress.</p><p>Authorities said officers arrived within seconds and detained all three suspects before they were able to leave the store.</p><p>During the investigation, officers discovered a stolen firearm, police said.</p><p>One juvenile was transported to the Yazoo City Juvenile Detention Facility on a charge of conspiracy.</p><p>Police said Lamarcus Pate was also charged with conspiracy.</p><p>Mitchell Robinson is facing multiple charges, including shoplifting, conspiracy, possession of a stolen firearm and service of an active warrant for an additional possession of a stolen firearm charge.</p><p>Officials said Robinson and Pate are awaiting their initial appearance in Gluckstadt Municipal Court.</p><p>Police credited the patrol division\u2019s quick response and follow-up investigation with helping resolve the case.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-20/three-taken-into-custody-in-shoplifting-case-at-guns-n-gear",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/654955936_893631970328775_7412441779589925700_n.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-03-20/three-taken-into-custody-in-shoplifting-case-at-guns-n-gear",
+      "pub_date": "Fri, 20 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-20T00:00:00+00:00",
+      "summary": "GLUCKSTADT \u2013 Three suspects were taken into custody Thursday after officers responded to a shoplifting call at a business in Gluckstadt, according to the Gluckstadt Police Department.",
+      "title": "Three taken into custody in shoplifting case at Guns-N-Gear - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-03-20/woman-charged-after-shots-fired-into-occupied-home-in-claiborne-county": {
       "author": "Morgan Howard",
       "content_html": "<p>CLAIBORNE COUNTY \u2013 A woman has been charged after deputies responded to a report of shots fired into an occupied residence, according to the Claiborne County Sheriff\u2019s Department.</p><p>Authorities said deputies were dispatched March 15 to a home on Woodvine Road after receiving a call about gunfire.</p><p>Upon arrival, occupants told deputies that TNeesha Edwards had discharged a firearm into the residence.</p><p>Following an investigation, Edwards was charged with shooting into a dwelling.</p><p>Officials said Edwards made an initial appearance in court, where Judge Odom set her bond at $20,000.</p>",
@@ -441,8 +441,9 @@
       "title": "Woman charged after shots fired into occupied home in Claiborne County - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-20T16:18:23.458443+00:00",
+  "last_run_utc": "2026-03-20T16:47:44.607150+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-20/three-taken-into-custody-in-shoplifting-case-at-guns-n-gear",
     "https://darkhorsepressnow.com/news/2026-03-20/grenada-county-man-arrested-on-child-sex-charges",
     "https://darkhorsepressnow.com/news/2026-03-20/woman-charged-after-shots-fired-into-occupied-home-in-claiborne-county",
     "https://darkhorsepressnow.com/news/2026-03-20/greenville-man-sentenced-to-additional-prison-time-for-drug-trafficking",
