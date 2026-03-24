@@ -11,17 +11,6 @@
       "summary": "PEARL RIVER COUNTY \u2013 Three people have been charged following an investigation into contraband brought into the Pearl River County Correctional Facility during inmate visitation, according to the Pearl River County Sheriff\u2019s Department.",
       "title": "Three charged after contraband introduced into Pearl River County jail - Darkhorse Press"
     },
-    "https://darkhorsepressnow.com/news/2026-03-19/thursday-weather-warm-temps-return-with-cool-temps-overnight": {
-      "author": "Mary Apel",
-      "content_html": "",
-      "guid": "https://darkhorsepressnow.com/news/2026-03-19/thursday-weather-warm-temps-return-with-cool-temps-overnight",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/Weather-7.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-03-19/thursday-weather-warm-temps-return-with-cool-temps-overnight",
-      "pub_date": "Thu, 19 Mar 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-03-19T00:00:00+00:00",
-      "summary": "",
-      "title": "Thursday Weather: Warm temps return with cool temps overnight - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-03-20/friday-weather-first-day-of-spring-brings-sunshine-and-warm-temps": {
       "author": "Mary Apel",
       "content_html": "",
@@ -429,6 +418,17 @@
       "summary": "WESSON \u2014 The American Legion Auxiliary Unit 79 in Wesson will host its first tablescape competition and silent auction May 1-2 as part of the city\u2019s Founder\u2019s Day celebration, with proceeds supporting a range of veterans and community programs.",
       "title": "Wesson to host inaugural tablescape competition, silent auction for veterans programs - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-03-24/pedestrian-killed-in-late-night-crash-on-u-s-61-in-adams-county": {
+      "author": "Therese Apel",
+      "content_html": "<p>ADAMS COUNTY \u2014 A Natchez man was killed late Sunday night after being struck by a vehicle on U.S. Highway 61, according to the Mississippi Highway Patrol.</p><p>The crash occurred around 10:45 p.m. March 22 when a 2019 Dodge Charger traveling southbound collided with a pedestrian who was also walking south along the highway.</p><p>Authorities identified the victim as 29-year-old Devon Harper of Natchez. He sustained fatal injuries and was pronounced dead at the scene.</p><p>The driver of the vehicle, 24-year-old Elijah Marsaw of Vidalia, Louisiana, was not reported injured.</p><p>The crash remains under investigation by the Mississippi Highway Patrol.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-24/pedestrian-killed-in-late-night-crash-on-u-s-61-in-adams-county",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2021/11/MHP.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-03-24/pedestrian-killed-in-late-night-crash-on-u-s-61-in-adams-county",
+      "pub_date": "Tue, 24 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-24T00:00:00+00:00",
+      "summary": "ADAMS COUNTY \u2014 A Natchez man was killed late Sunday night after being struck by a vehicle on U.S. Highway 61, according to the Mississippi Highway Patrol.",
+      "title": "Pedestrian Killed in Late-Night Crash on U.S. 61 in Adams County - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-03-24/three-arrested-in-jackson-robbery-spree-each-given-6m-bond": {
       "author": "Therese Apel",
       "content_html": "<p>JACKSON \u2014 Three suspects were arrested Saturday in connection with a string of armed robberies, aggravated assaults and home invasions across Jackson, police said.</p><p>The arrests came March 21 after officers with Capitol Police stopped a black Honda Accord on State Street near Beasley Road. The vehicle had been identified in a \u201cbe on the lookout\u201d alert issued by the Jackson Police Department tied to multiple violent crimes reported over several days.</p><p>Investigators believe the suspects were responsible for at least three robberies, including two incidents involving four Hispanic male victims and another involving two Indian victims in Precincts 1 and 2. Authorities also suspect the group may be linked to additional robberies involving Hispanic victims that remain under investigation.</p><p>The occupants of the vehicle were taken into custody and later interviewed by detectives. All three appeared before a municipal court judge and were each issued a $6 million bond.</p><p>Daja Logan, 23, was charged with two counts each of armed robbery, conspiracy, home invasion, aggravated assault, accessory before the fact and accessory after the fact.</p><p>Curtavious Simpson, 34, faces four counts of armed robbery, three counts of aggravated assault and two counts of home invasion.</p><p>Graig Bradley, 27, was charged with four counts of armed robbery, three counts of aggravated assault and two counts of home invasion.</p><p>The investigation remains ongoing. Anyone with information is urged to contact the Jackson Police Department at 601-960-1234 or Crime Stoppers at 601-355-TIPS.</p>",
@@ -441,8 +441,9 @@
       "title": "Three Arrested in Jackson Robbery Spree; Each Given $6M Bond - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-24T12:30:33.987096+00:00",
+  "last_run_utc": "2026-03-24T13:10:45.142444+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-24/pedestrian-killed-in-late-night-crash-on-u-s-61-in-adams-county",
     "https://darkhorsepressnow.com/news/2026-03-24/three-arrested-in-jackson-robbery-spree-each-given-6m-bond",
     "https://darkhorsepressnow.com/news/2026-03-23/playground-in-jackson-nominated-for-usa-today-10best-public-playground-award",
     "https://darkhorsepressnow.com/news/2026-03-23/clarkco-state-park-reopens-in-quitman-after-renovations",
