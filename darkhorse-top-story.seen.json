@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-03-26/court-affirms-two-life-sentences-for-biloxi-man-convicted-of-sexually-abusing-stepdaughters": {
-      "author": "Therese Apel",
-      "content_html": "<p>JACKSON \u2014 The Mississippi Court of Appeals on Tuesday upheld the conviction and two life sentences of a Biloxi man found guilty of repeatedly sexually abusing his two stepdaughters over several years.</p><p>In a unanimous decision, the court affirmed the 2024 Harrison County Circuit Court verdict against John Nathaniel Pierre, who was convicted on 14 counts of sexual battery and one count of attempted sexual battery involving the girls, who were minors at the time of the abuse.</p><p>According to the opinion, Pierre lived with his wife and her daughters from 2016 until 2021. The abuse came to light in August 2022, when the older daughter confronted Pierre, recorded the conversation, and disclosed the allegations to her mother. Pierre fled when confronted but was later arrested after leading officers on a high\u2011speed chase that reached more than 120 mph.</p><p>At trial, both victims testified that Pierre forced sexual acts on them beginning when they were as young as five.</p><p>Pierre appealed, arguing that a jury instruction improperly emphasized the victims\u2019 testimony and that the evidence was insufficient to prove penetration in several counts. The Court of Appeals rejected both claims, noting that the defense failed to properly object to the instruction at trial and that Mississippi law requires only \u201cslight penetration\u201d to sustain a sexual battery conviction.</p><p>The court found the younger victim\u2019s testimony sufficient for a reasonable jury to conclude penetration occurred.</p><p>Pierre is serving two consecutive life sentences in the custody of the Mississippi Department of Corrections.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-03-26/court-affirms-two-life-sentences-for-biloxi-man-convicted-of-sexually-abusing-stepdaughters",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2023/06/pexels-sora-shimazaki-5668473-scaled.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-03-26/court-affirms-two-life-sentences-for-biloxi-man-convicted-of-sexually-abusing-stepdaughters",
-      "pub_date": "Thu, 26 Mar 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-03-26T00:00:00+00:00",
-      "summary": "JACKSON \u2014 The Mississippi Court of Appeals on Tuesday upheld the conviction and two life sentences of a Biloxi man found guilty of repeatedly sexually abusing his two stepdaughters over several years.",
-      "title": "Court affirms two life sentences for Biloxi man convicted of sexually abusing stepdaughters - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-03-26/dangerous-gas-leak-forces-closure-of-bristol-crossing-in-flowood": {
       "author": "Morgan Howard",
       "content_html": "<p>FLOWOOD \u2013 Bristol Crossing in Flowood has been completely shut down because of a gas leak, according to the Flowood Police Department.</p><p>Police said the combustion level in the area is dangerously high, and no vehicle or foot traffic is being allowed through the area.</p><p>Authorities said the school district has been notified so buses can use alternate routes for after-school drop-offs nearby.</p><p>Police said the estimated time for the road to reopen is 7 p.m.</p>",
@@ -429,6 +418,17 @@
       "summary": "VICKSBURG \u2013 Vicksburg police are investigating a three-vehicle crash and a separate shooting that happened early Sunday near Circle K.",
       "title": "Vicksburg police investigate early morning crash, separate shooting near Circle K - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-03-31/tuesday-weather-warm-temps-with-some-afternoon-showers": {
+      "author": "Mary Apel",
+      "content_html": "",
+      "guid": "https://darkhorsepressnow.com/news/2026-03-31/tuesday-weather-warm-temps-with-some-afternoon-showers",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/03/Weather-11.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-03-31/tuesday-weather-warm-temps-with-some-afternoon-showers",
+      "pub_date": "Tue, 31 Mar 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-03-31T00:00:00+00:00",
+      "summary": "Warm temps today in the 80s! We\u2019ll see some afternoon shower and thunderstorm chances today and through mid-week. By late Thursday into Friday, better chances for organized rain and thunderstorm activity will spread into our region. Then over the weekend, a stronger system could ",
+      "title": "Tuesday Weather: Warm temps with some afternoon showers - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/entertaiment/2026-03-29/opera-mississippi-to-perform-songs-for-a-new-world-in-jackson": {
       "author": "Therese Apel",
       "content_html": "<p>JACKSON \u2014 Opera Mississippi will bring Tony Award-winning composer Jason Robert Brown\u2019s \u201cSongs for a New World\u201d to Duling Hall in Jackson on April 24-25, offering audiences two nights of professional musical theatre centered on themes of change, resilience and hope.</p><p>Tickets are $35 per person. Each evening begins with an Opera Happy Hour at 6 p.m., with the concert starting at 7 p.m. Duling Hall is located at 622 Duling Ave.</p><p>The production features four professional vocalists: John Christopher Adams, Maryann Kyle, Peter Lake and Sarah Stembel. They will be performing a song cycle that blends pop, gospel and contemporary musical theatre. Rather than a traditional narrative, the show presents a series of self-contained scenes depicting people at pivotal moments of transformation.</p><p>Brown, who won a Tony Award for \u201cThe Bridges of Madison County,\u201d wrote \u201cSongs for a New World\u201d as his debut stage work. The piece has since become a staple of regional and professional musical theatre nationally.</p><p>Founded in 1945, Opera Mississippi is the ninth oldest continuously operating opera company in the United States and the state\u2019s only professional opera company. The organization\u2019s mission includes educational outreach, emerging artist development and preserving the operatic art form.</p><p>Tickets are available at operamississippi.org .</p>",
@@ -441,8 +441,9 @@
       "title": "Opera Mississippi to Perform 'Songs for a New World' in Jackson - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-03-31T11:22:13.443092+00:00",
+  "last_run_utc": "2026-03-31T11:48:27.841624+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-03-31/tuesday-weather-warm-temps-with-some-afternoon-showers",
     "https://darkhorsepressnow.com/news/2026-03-30/hinds-county-murder-suspect-arrested-after-two-vehicle-crash-in-jones-county",
     "https://darkhorsepressnow.com/news/2026-03-30/two-people-shot-during-trail-ride-event-in-tunica-county",
     "https://darkhorsepressnow.com/news/2026-03-30/lary-aaron-to-headline-legacy-league-hot-stove-event-april-3-in-jackson",
