@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-04-02/shots-fired-into-occupied-tupelo-home-investigation-underway": {
-      "author": "Morgan Howard",
-      "content_html": "<p>TUPELO \u2013 Tupelo police are investigating after shots were fired into an occupied homeTuesday evening on North Green Street.</p><p>According to the Tupelo Police Department, officers responded at about 7:20 p.m. to a report of shots fired in the 400 block of North Green Street. Officers later confirmed that gunfire struck an occupied home.</p><p>No injuries were reported, police said.</p><p>Authorities said a white Dodge Durango with black rims was seen leaving the area.</p><p>The case remains under active investigation. Police said there is no ongoing threat to the public at this time.</p><p>Anyone with information is asked to contact the Tupelo Police Department at 662-841-6491 or Crime Stoppers of Northeast Mississippi at 1-800-773-TIPS.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-04-02/shots-fired-into-occupied-tupelo-home-investigation-underway",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/04/658371185_1398965632260902_2937882217917932166_n.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-04-02/shots-fired-into-occupied-tupelo-home-investigation-underway",
-      "pub_date": "Thu, 02 Apr 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-04-02T00:00:00+00:00",
-      "summary": "TUPELO \u2013 Tupelo police are investigating after shots were fired into an occupied homeTuesday evening on North Green Street.",
-      "title": "Tupelo police looking for white Dodge Durango after shots fired into occupied home - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-04-02/thursday-weather-scattered-showers-and-storms-5": {
       "author": "Mary Apel",
       "content_html": "",
@@ -396,6 +385,17 @@
       "summary": "MISSISSIPPI \u2014 Before the first pour of National Beer Day on April 7, we raise a glass the night before, celebrating New Beer\u2019s Eve, a holiday rooted in one of the most dramatic turnarounds in U.S. history.",
       "title": "New Beer\u2019s Eve taps into history, celebration across Mississippi and beyond - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-04-06/picayune-man-arrested-on-drug-charges-after-traffic-stop-in-pearl-river-county": {
+      "author": "Morgan Howard",
+      "content_html": "<p>PICAYUNE \u2013 A Picayune man was arrested on drug charges after a traffic stop in Pearl River County, according to the Pearl River County Sheriff\u2019s Department.</p><p>Authorities said the stop happened around 7:15 p.m. Tuesday, March 17, on Jackson Landing Road near Lilac Drive. Deputies with the Patrol Division stopped a Chrysler 200 for an expired tag.</p><p>Investigators said deputies made contact with the driver, identified as 50-year-old Steven Thom of Picayune. During a search of the vehicle, deputies said they found methamphetamine and Adderall.</p><p>Thom was taken into custody and transported to the Pearl River County Correctional Facility, where he was booked on charges of felony possession with intent to distribute and possession of a controlled substance.</p><p>Sheriff David Allison said he wants the public to know deputies are continuing efforts to keep drugs off the streets.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-04-06/picayune-man-arrested-on-drug-charges-after-traffic-stop-in-pearl-river-county",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/04/Screenshot-2026-04-06-145238.png",
+      "link": "https://darkhorsepressnow.com/news/2026-04-06/picayune-man-arrested-on-drug-charges-after-traffic-stop-in-pearl-river-county",
+      "pub_date": "Mon, 06 Apr 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-04-06T00:00:00+00:00",
+      "summary": "PICAYUNE \u2013 A Picayune man was arrested on drug charges after a traffic stop in Pearl River County, according to the Pearl River County Sheriff\u2019s Department.",
+      "title": "Picayune Man Arrested on Drug Charges After Traffic Stop in Pearl River County - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-04-06/shooting-at-sonic-in-monticello-leaves-one-injured": {
       "author": "Therese Apel",
       "content_html": "<p>MONTICELLO \u2013 A shooting at a local drive-in has left one person injured, officials said.</p><p>The shooting happened at the Sonic Drive-In on F.E. Sellers Drive in Monticello, according to witnesses.</p><p>One person was transported to the hospital.</p><p>This is an ongoing case.</p>",
@@ -441,8 +441,9 @@
       "title": "Jackson Police Searching for 2 Missing Females Reported as Runaways - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-04-06T19:50:25.717144+00:00",
+  "last_run_utc": "2026-04-06T20:16:55.648590+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-04-06/picayune-man-arrested-on-drug-charges-after-traffic-stop-in-pearl-river-county",
     "https://darkhorsepressnow.com/news/2026-04-06/19-year-old-killed-in-crash-on-mississippi-highway-15-in-perry-county",
     "https://darkhorsepressnow.com/news/2026-04-06/lowndes-county-man-sentenced-to-more-than-13-years-for-meth-trafficking",
     "https://darkhorsepressnow.com/news/2026-04-06/shooting-at-sonic-in-monticello-leaves-one-injured",
