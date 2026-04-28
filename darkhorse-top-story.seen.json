@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-04-24/pascagoula-officer-fired-after-child-abuse-arrest-in-alabama": {
-      "author": "Morgan Howard",
-      "content_html": "<p>PASCAGOULA \u2013 A Pascagoula police officer has been fired after being arrested on a child abuse charge in Alabama, according to the Pascagoula Police Department.</p><p>In a media release dated April 24, the department said its administration became aware April 20 of a child abuse case involving one of its officers.</p><p>After learning of the allegations, the department opened an internal investigation and immediately placed the officer on administrative leave pending the outcome, according to the release.</p><p>Police said the department was notified April 24 that the officer had been arrested by the Mobile County Sheriff\u2019s Office and charged with child abuse. The officer was then terminated, according to the department.</p><p>Chief Terry Scott said in the release that hearing of the allegations \u201cbreaks my heart.\u201d</p><p>The department did not identify the officer or release additional details about the case.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-04-24/pascagoula-officer-fired-after-child-abuse-arrest-in-alabama",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2025/08/shutterstock_722099620-e1755792249812.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-04-24/pascagoula-officer-fired-after-child-abuse-arrest-in-alabama",
-      "pub_date": "Fri, 24 Apr 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-04-24T00:00:00+00:00",
-      "summary": "PASCAGOULA \u2013 A Pascagoula police officer has been fired after being arrested on a child abuse charge in Alabama, according to the Pascagoula Police Department.",
-      "title": "Pascagoula officer fired after child abuse arrest in Alabama - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-04-24/two-killed-in-wreck-on-hwy-18-after-head-on-collision": {
       "author": "Morgan Howard",
       "content_html": "<p>HINDS COUNTY \u2013 Two people were killed on Highway 18 just west of Raymond high school in a head-on collision early this morning.</p><p>According to Hinds County Coroner Jeramiah Howard, the crash happened around 4:19 a.m.</p><p>The driver of the SUV, a 51-year-old female was deceased at the scene. A passenger in her SUV was transported to the hospital with injuries.</p><p>The driver of the pick-up truck was taken to the hospital and died at the hospital. He was 29-years-old, according to the coroner.</p><p>Their identities have not yet been released. We will update as soon as we know more.</p>",
@@ -308,6 +297,17 @@
       "summary": "JACKSON \u2014 Jackson police are investigating after an unresponsive man was found lying in a street Tuesday evening.",
       "title": "Man found dead in Jackson street, investigation underway - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-04-28/mhp-investigates-hit-and-run-crash-involving-lafayette-county-school-bus": {
+      "author": "Morgan Howard",
+      "content_html": "<p>LAFAYETTE COUNTY \u2013 The Mississippi Highway Patrol is investigating a hit-and-run crash involving a Lafayette County School District bus and a passenger vehicle on Highway 334, according to the Lafayette County Sheriff\u2019s Department.</p><p>Deputies were dispatched to the crash at about 3:32 p.m. Monday, April 27, authorities said.</p><p>The sheriff\u2019s department said the driver of the passenger vehicle left the scene before deputies arrived. No injuries were reported.</p><p>The Lafayette County Fire Department, Lafayette County Emergency Management Agency and Baptist Ambulance Service also responded to the scene, according to the release.</p><p>Investigators said the Mississippi Highway Patrol is leading the investigation with assistance from Lafayette County sheriff\u2019s investigators. Authorities said detectives have identified a person of interest, but no name has been released.</p><p>Sheriff Joey East said the case will be pursued aggressively.</p><p>\u201cThe safety of our children and the men and women who drive them to school every day is non-negotiable,\u201d East said in a statement. \u201cIn Lafayette County, there will be zero tolerance for anyone who puts our students or our bus drivers in harm\u2019s way.\u201d</p><p>No additional information was immediately released.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-04-28/mhp-investigates-hit-and-run-crash-involving-lafayette-county-school-bus",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2022/04/megan-lee-T8nLapDk1zM-unsplash-scaled.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-04-28/mhp-investigates-hit-and-run-crash-involving-lafayette-county-school-bus",
+      "pub_date": "Tue, 28 Apr 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-04-28T00:00:00+00:00",
+      "summary": "LAFAYETTE COUNTY \u2013 The Mississippi Highway Patrol is investigating a hit-and-run crash involving a Lafayette County School District bus and a passenger vehicle on Highway 334, according to the Lafayette County Sheriff\u2019s Department.",
+      "title": "MHP investigates hit-and-run crash involving Lafayette County school bus - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-04-28/mississippi-aquarium-offering-free-admission-for-moms-on-mothers-day": {
       "author": "Morgan Howard",
       "content_html": "<p>GULFPORT \u2013 Mississippi Aquarium is inviting families to celebrate Mother\u2019s Day at the aquarium, where moms will receive free admission with the purchase of any general admission ticket.</p><p>The aquarium said the event is designed to give families a chance to spend the day together surrounded by marine life and exhibits.</p><p>Officials encouraged guests to make the holiday memorable with family time and special moments at the Gulfport attraction.</p><p>More information about the Mother\u2019s Day event is available through the Mississippi Aquarium website.</p>",
@@ -441,8 +441,9 @@
       "title": "15-year-old found shot in Columbus remains in critical condition - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-04-28T21:14:17.125325+00:00",
+  "last_run_utc": "2026-04-28T21:40:26.580780+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-04-28/mhp-investigates-hit-and-run-crash-involving-lafayette-county-school-bus",
     "https://darkhorsepressnow.com/news/2026-04-28/amory-police-trying-to-find-missing-woman-last-seen-near-pea-patch-ballfields",
     "https://darkhorsepressnow.com/news/2026-04-28/employee-accused-of-stealing-7000-worth-of-items-from-storage-unit",
     "https://darkhorsepressnow.com/news/2026-04-28/jackson-police-investigating-homicide-on-abraham-lincoln-drive",
