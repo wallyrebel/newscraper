@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-04-24/two-killed-in-wreck-on-hwy-18-after-head-on-collision": {
-      "author": "Morgan Howard",
-      "content_html": "<p>HINDS COUNTY \u2013 Two people were killed on Highway 18 just west of Raymond high school in a head-on collision early this morning.</p><p>According to Hinds County Coroner Jeramiah Howard, the crash happened around 4:19 a.m.</p><p>The driver of the SUV, a 51-year-old female was deceased at the scene. A passenger in her SUV was transported to the hospital with injuries.</p><p>The driver of the pick-up truck was taken to the hospital and died at the hospital. He was 29-years-old, according to the coroner.</p><p>Their identities have not yet been released. We will update as soon as we know more.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-04-24/two-killed-in-wreck-on-hwy-18-after-head-on-collision",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2024/01/fatal-crash-4.png",
-      "link": "https://darkhorsepressnow.com/news/2026-04-24/two-killed-in-wreck-on-hwy-18-after-head-on-collision",
-      "pub_date": "Fri, 24 Apr 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-04-24T00:00:00+00:00",
-      "summary": "HINDS COUNTY \u2013 Two people were killed on Highway 18 just west of Raymond high school in a head-on collision early this morning.",
-      "title": "Two killed in wreck on Hwy 18 after head-on collision - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-04-26/body-of-missing-brandon-teen-recovered-from-lake": {
       "author": "Therese Apel",
       "content_html": "<p>BRANDON \u2014 A 17-year-old Brandon resident was found dead Sunday after a search and rescue operation at a private lake near Marquette Road in Brandon.</p><p>The Brandon Police Department received a call around 2:38 p.m. Sunday reporting that Noah Lee Lambert, 17, of Brandon, had jumped from a height into the lake and could not be located by his friends.</p><p>Brandon police officers and firefighters responded and began immediate search and rescue efforts. They were assisted by Rankin County Sheriff\u2019s Department deputies and dive rescue team using boats, divers and drones. Noah\u2019s body was later recovered from the lake. His family has been notified.</p><p>The lake is located on private property with signs posted warning against trespassing. Local teens and young adults have been known to frequent the area over the years.</p><p>Noah was a sophomore at Brandon High School. The Rankin County School District will make grief counselors available to students and faculty affected by his death.</p><p>The Brandon Police Department extends its deepest condolences to Noah\u2019s family, friends, classmates and all who knew him. Our thoughts and prayers are with them during this heartbreaking time, and we ask the community to respect the family\u2019s privacy as they grieve.</p>",
@@ -253,6 +242,17 @@
       "summary": "AMORY \u2013 The Amory Police Department is asking for the public\u2019s help in locating a woman who was last seen near the Pea Patch ballfields on Concord Avenue.",
       "title": "Amory police trying to find missing woman last seen near Pea Patch ballfields - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-04-28/california-man-reported-missing-arrested-in-jones-county-on-outstanding-felony-warrants": {
+      "author": "Morgan Howard",
+      "content_html": "<p>JONES COUNTY \u2013 A California man who had been reported missing was arrested Monday afternoon in Jones County after authorities located him driving on Interstate 59 and discovered he was wanted on several felony warrants.</p><p>Authorities said Aaron Kravetz, 39, of Montecito, California, was found driving a Volkswagen GTI north on I-59 near Exit 104 in the Sandersville area.</p><p>A Mississippi Department of Public Safety Commercial Transportation Enforcement Division officer located Kravetz, officials said. Additional units from the Sandersville Police Department, Mississippi Highway Patrol and Jones County Sheriff\u2019s Department responded to the scene at the officer\u2019s request.</p><p>In addition to being reported missing from Montecito, Kravetz had several outstanding felony warrants out of Santa Barbara County, California.</p><p>Those warrants include threats to commit a crime with intent to terrorize, stalking, contempt of court and four counts of disobeying a court order.</p><p>Kravetz is being held in the Jones County Adult Detention Facility pending extradition proceedings to return him to authorities in Santa Barbara County.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-04-28/california-man-reported-missing-arrested-in-jones-county-on-outstanding-felony-warrants",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/04/Screenshot-2026-04-28-161009.png",
+      "link": "https://darkhorsepressnow.com/news/2026-04-28/california-man-reported-missing-arrested-in-jones-county-on-outstanding-felony-warrants",
+      "pub_date": "Tue, 28 Apr 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-04-28T00:00:00+00:00",
+      "summary": "JONES COUNTY \u2013 A California man who had been reported missing was arrested Monday afternoon in Jones County after authorities located him driving on Interstate 59 and discovered he was wanted on several felony warrants.",
+      "title": "California man reported missing arrested in Jones County on outstanding felony warrants - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-04-28/employee-accused-of-stealing-7000-worth-of-items-from-storage-unit": {
       "author": "Therese Apel",
       "content_html": "<p>FLOWOOD \u2014 A Rankin County woman has been arrested and charged with embezzlement after authorities say she used her job at a storage facility to steal more than $7,000 worth of electronics from a customer\u2019s unit.</p><p>Deputies and investigators with the Rankin County Sheriff\u2019s Department responded Monday to Old Fannin Road Store &amp; Lock, located on Old Fannin Road just outside Flowood, in reference to a reported theft.</p><p>According to investigators, Autumn Sanderford Eargle, an employee at the mini-storage facility, accessed a customer\u2019s storage unit and removed multiple items, including Apple electronic products. The total value of the stolen property was estimated to exceed $7,000.</p><p>Eargle was arrested and charged with embezzlement. She was transported to the Rankin County Adult Detention Center in Brandon. During an initial court appearance Tuesday, Rankin County Court Judge David Morrow Jr. set Eargle\u2019s bond at $25,000.</p><p>Authorities said the stolen property has been recovered and returned to its owner.</p>",
@@ -441,8 +441,9 @@
       "title": "15-year-old found shot in Columbus remains in critical condition - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-04-28T23:34:42.930298+00:00",
+  "last_run_utc": "2026-04-29T00:05:01.683572+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-04-28/california-man-reported-missing-arrested-in-jones-county-on-outstanding-felony-warrants",
     "https://darkhorsepressnow.com/news/2026-04-28/mhp-investigates-hit-and-run-crash-involving-lafayette-county-school-bus",
     "https://darkhorsepressnow.com/news/2026-04-28/amory-police-trying-to-find-missing-woman-last-seen-near-pea-patch-ballfields",
     "https://darkhorsepressnow.com/news/2026-04-28/employee-accused-of-stealing-7000-worth-of-items-from-storage-unit",
