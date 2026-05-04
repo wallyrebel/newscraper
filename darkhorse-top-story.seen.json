@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-04-30/jackson-state-announces-three-spring-commencements": {
-      "author": "Therese Apel",
-      "content_html": "<p>JACKSON \u2014 Jackson State University will celebrate the Class of 2026 with three spring commencement ceremonies. Nearly 900 graduates are expected to walk the stage to receive their degrees, including more than 600 undergraduate students and approximately 226 graduate students.</p><p>JSU alumni will serve as commencement speakers for all three ceremonies. They are noted researcher Jelani C. Zarif, Ph.D., Emmy Award-winning actor Tramell Tillman, and licensed clinical psychologist and educator Jasmin Searcy-Pate, Ph.D. Their work spans cancer research, entertainment and psychology.</p><p>All ceremonies will be held at the Lee E. Williams Athletics and Assembly Center.</p><p>What: Jackson State University Spring Commencement Ceremonies</p><p>Who: Spring Class of 2026 undergraduate and graduate students, keynote speakers and the JSU community</p><p>When:</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-04-30/jackson-state-announces-three-spring-commencements",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2024/04/JSU.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-04-30/jackson-state-announces-three-spring-commencements",
-      "pub_date": "Thu, 30 Apr 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-04-30T00:00:00+00:00",
-      "summary": "JACKSON \u2014 Jackson State University will celebrate the Class of 2026 with three spring commencement ceremonies. Nearly 900 graduates are expected to walk the stage to receive their degrees, including more than 600 undergraduate students and approximately 226 graduate students.",
-      "title": "Jackson State announces three spring commencements - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-04-30/man-wanted-for-residential-burglary-in-ridgeland": {
       "author": "Morgan Howard",
       "content_html": "<p>RIDGELAND \u2013 The Ridgeland Police Department is asking for the public\u2019s help in locating a man wanted for residential burglary.</p><p>Police identified the suspect as Demetreious Chapman Jr.</p><p>The police department said anyone with information that could help locate Chapman is asked to contact the Ridgeland Police Department at 601-856-2121.</p><p>Anonymous tips can also be submitted to Central Mississippi Crime Stoppers at 601-355-TIPS, through P3 Tips or through the organization\u2019s website.</p>",
@@ -319,6 +308,17 @@
       "summary": "LINCOLN COUNTY \u2014 A 40-year-old man from Ruth was killed Friday morning in a two-vehicle crash in Lincoln County, according to the Mississippi Highway Patrol.",
       "title": "Ruth man killed in two-vehicle crash in Lincoln County - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-05-04/attorney-general-lynn-fitch-joins-41-attorneys-general-urging-feds-to-leave-sports-betting-oversight-to-states": {
+      "author": "Morgan Howard",
+      "content_html": "<p>JACKSON \u2013 Mississippi Attorney General Lynn Fitch has joined a bipartisan coalition of 41 attorneys general urging federal regulators to reaffirm that states, not the federal government, should oversee sports-related event contracts tied to betting.</p><p>According to Fitch\u2019s office, the coalition filed a formal comment with the Commodity Futures Trading Commission arguing that so-called prediction markets have effectively become unregulated sportsbooks.</p><p>\u201cMississippi, like many states, has carefully balanced competing interests to allow responsible sports betting here,\u201d Fitch said in a statement. \u201cThe CFTC should not upend that balance, usurp state authorities without a clear Congressional directive, and leave states with the responsibility for cleaning up the impacts of sports betting without the ability to regulate it on the front end.\u201d</p><p>The coalition said prediction market platforms allow users to wager on outcomes such as game winners, point spreads and player statistics while bypassing state gambling regulations and consumer protections.</p><p>In the comment letter, the attorneys general argued that there is no meaningful difference for consumers between traditional sports bets and sports-related event contracts offered on designated contract markets.</p><p>The coalition contends that those contracts do not serve the traditional purposes of derivatives markets, such as hedging or price discovery, and instead function as entertainment-based gambling, which they say falls under state authority.</p><p>The attorneys general also warned that sports gambling can pose risks to public health and financial security and said states are better equipped than the CFTC to regulate or prohibit such activity.</p><p>The letter was filed in response to a CFTC request for public comment on proposed rules for prediction markets. The coalition urged the agency to confirm through rulemaking that it does not have jurisdiction over sports-related contracts.</p><p>Fitch joined attorneys general from 40 other states and the District of Columbia in signing the letter.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-05-04/attorney-general-lynn-fitch-joins-41-attorneys-general-urging-feds-to-leave-sports-betting-oversight-to-states",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2025/05/Screenshot-2025-05-22-120359.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-05-04/attorney-general-lynn-fitch-joins-41-attorneys-general-urging-feds-to-leave-sports-betting-oversight-to-states",
+      "pub_date": "Mon, 04 May 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-05-04T00:00:00+00:00",
+      "summary": "JACKSON \u2013 Mississippi Attorney General Lynn Fitch has joined a bipartisan coalition of 41 attorneys general urging federal regulators to reaffirm that states, not the federal government, should oversee sports-related event contracts tied to betting.",
+      "title": "Attorney General Lynn Fitch joins 41 attorneys general urging feds to leave sports betting oversight to states - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-05-04/coach-umpire-charged-after-fight-at-starkville-park": {
       "author": "Morgan Howard",
       "content_html": "<p>STARKVILLE \u2013 A coach and an umpire were both charged after officers responded to a fight at Cornerstone Park, according to the Starkville Police Department.</p><p>Police said officers were called Tuesday to reports of a fight in progress at the park involving the two men.</p><p>Authorities said both individuals were charged with fighting under city ordinance 12.3.05.</p><p>The incident remains under investigation, police said.</p><p>The department thanked community members who reported the fight and shared information with officers.</p><p>In a statement, police said recreational facilities are meant to be safe places that bring the community together and that this type of behavior has no place in city parks.</p>",
@@ -441,8 +441,9 @@
       "title": "Survey: Mississippi sports fans name two top picks for scattering their ashes - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-05-04T20:11:40.283042+00:00",
+  "last_run_utc": "2026-05-04T20:43:53.222656+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-05-04/attorney-general-lynn-fitch-joins-41-attorneys-general-urging-feds-to-leave-sports-betting-oversight-to-states",
     "https://darkhorsepressnow.com/news/2026-05-04/coach-umpire-charged-after-fight-at-starkville-park",
     "https://darkhorsepressnow.com/news/2026-05-04/pearl-river-county-search-warrant-turns-up-suspected-marijuana-thc-vapes-and-cash",
     "https://darkhorsepressnow.com/news/2026-05-04/ridgeland-students-launch-worth-a-listen-mental-health-initiative",
