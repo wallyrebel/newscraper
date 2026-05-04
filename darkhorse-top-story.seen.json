@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-04-30/man-wanted-for-residential-burglary-in-ridgeland": {
-      "author": "Morgan Howard",
-      "content_html": "<p>RIDGELAND \u2013 The Ridgeland Police Department is asking for the public\u2019s help in locating a man wanted for residential burglary.</p><p>Police identified the suspect as Demetreious Chapman Jr.</p><p>The police department said anyone with information that could help locate Chapman is asked to contact the Ridgeland Police Department at 601-856-2121.</p><p>Anonymous tips can also be submitted to Central Mississippi Crime Stoppers at 601-355-TIPS, through P3 Tips or through the organization\u2019s website.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-04-30/man-wanted-for-residential-burglary-in-ridgeland",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/04/Screenshot-2026-04-30-161355.png",
-      "link": "https://darkhorsepressnow.com/news/2026-04-30/man-wanted-for-residential-burglary-in-ridgeland",
-      "pub_date": "Thu, 30 Apr 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-04-30T00:00:00+00:00",
-      "summary": "RIDGELAND \u2013 The Ridgeland Police Department is asking for the public\u2019s help in locating a man wanted for residential burglary.",
-      "title": "Man wanted for residential burglary in Ridgeland - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-04-30/may-1-chicago-concert-at-brandon-amphitheater-has-been-rescheduled": {
       "author": "Therese Apel",
       "content_html": "<p>Due to the threat of inclement weather on Friday, May 1st, the Chicago concert at Brandon Amphitheater has been rescheduled to this Sunday, May 3rd.</p><p>All tickets to the May 1st concert will be honored on Sunday, May 3rd.</p>",
@@ -319,6 +308,17 @@
       "summary": "JACKSON \u2013 Mississippi Attorney General Lynn Fitch has joined a bipartisan coalition of 41 attorneys general urging federal regulators to reaffirm that states, not the federal government, should oversee sports-related event contracts tied to betting.",
       "title": "Attorney General Lynn Fitch joins 41 attorneys general urging feds to leave sports betting oversight to states - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-05-04/beloved-malayan-tiger-bunga-undergoing-treatment-at-hattiesburg-zoo": {
+      "author": "Morgan Howard",
+      "content_html": "<p>HATTIESBURG \u2013 The Hattiesburg Zoo says Bunga, its Malayan tiger, is undergoing medical treatment for several health concerns, including high blood pressure and significant disc disease.</p><p>According to the zoo, Bunga had two nosebleed episodes about two weeks ago and was later diagnosed with hypertension. Hattiesburg Zoo veterinarian Dr. Julia MacGregor started him on medication to manage the condition.</p><p>The zoo said Bunga initially showed some improvement, but staff noticed changes in his behavior late last week, including increased lethargy and signs of discomfort.</p><p>Zoo officials said Bunga was taken Wednesday to Animal Medical Center in Hattiesburg, where he underwent a CT scan to look for possible underlying causes of his symptoms.</p><p>The scan showed significant disc disease, especially in his neck, which the zoo said is likely causing discomfort and some mobility changes. Bunga\u2019s bloodwork was largely normal, according to the zoo.</p><p>\u201cBunga\u2019s case is complex, and our team is working diligently to manage multiple conditions at once,\u201d MacGregor said in a statement. \u201cOur immediate priority is to keep him comfortable while stabilizing his blood pressure.\u201d</p><p>The zoo said its veterinary team has adjusted Bunga\u2019s medications by increasing treatment for his blood pressure and adding pain management for chronic and nerve-related discomfort.</p><p>Zoo officials said Bunga has shown sensitivity to certain medications in the past, so staff are carefully balancing treatment to make sure it is both safe and effective.</p><p>Bunga is also continuing treatment for inflammatory bowel disease, a condition the zoo said he was diagnosed with last year.</p><p>The zoo said animal care staff are monitoring him closely and that all decisions are being made with his quality of life as the top priority.</p><p>\u201cOur focus is always on Bunga\u2019s wellbeing,\u201d zoo officials said. \u201cWe are committed to providing the highest level of care and making thoughtful, compassionate decisions every step of the way.\u201d</p><p>MacGregor also praised the zoo\u2019s veterinary and animal care teams for training Bunga to voluntarily participate in parts of his care, including blood draws and blood pressure checks. The zoo said that training allows for more frequent monitoring without the need for full immobilization.</p><p>Bunga has been a longtime favorite among visitors and serves as an ambassador for Malayan tigers, which are critically endangered, according to the zoo.</p><p>The Hattiesburg Zoo said it will continue to monitor Bunga and share updates when appropriate.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-05-04/beloved-malayan-tiger-bunga-undergoing-treatment-at-hattiesburg-zoo",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/05/690924400_1375048204658675_7102519869232539108_n.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-05-04/beloved-malayan-tiger-bunga-undergoing-treatment-at-hattiesburg-zoo",
+      "pub_date": "Mon, 04 May 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-05-04T00:00:00+00:00",
+      "summary": "HATTIESBURG \u2013 The Hattiesburg Zoo says Bunga, its Malayan tiger, is undergoing medical treatment for several health concerns, including high blood pressure and significant disc disease.",
+      "title": "Beloved Malayan tiger Bunga undergoing treatment at Hattiesburg Zoo - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-05-04/coach-umpire-charged-after-fight-at-starkville-park": {
       "author": "Morgan Howard",
       "content_html": "<p>STARKVILLE \u2013 A coach and an umpire were both charged after officers responded to a fight at Cornerstone Park, according to the Starkville Police Department.</p><p>Police said officers were called Tuesday to reports of a fight in progress at the park involving the two men.</p><p>Authorities said both individuals were charged with fighting under city ordinance 12.3.05.</p><p>The incident remains under investigation, police said.</p><p>The department thanked community members who reported the fight and shared information with officers.</p><p>In a statement, police said recreational facilities are meant to be safe places that bring the community together and that this type of behavior has no place in city parks.</p>",
@@ -441,8 +441,9 @@
       "title": "Survey: Mississippi sports fans name two top picks for scattering their ashes - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-05-04T20:43:53.222656+00:00",
+  "last_run_utc": "2026-05-04T21:14:14.473717+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-05-04/beloved-malayan-tiger-bunga-undergoing-treatment-at-hattiesburg-zoo",
     "https://darkhorsepressnow.com/news/2026-05-04/attorney-general-lynn-fitch-joins-41-attorneys-general-urging-feds-to-leave-sports-betting-oversight-to-states",
     "https://darkhorsepressnow.com/news/2026-05-04/coach-umpire-charged-after-fight-at-starkville-park",
     "https://darkhorsepressnow.com/news/2026-05-04/pearl-river-county-search-warrant-turns-up-suspected-marijuana-thc-vapes-and-cash",
