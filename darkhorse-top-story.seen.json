@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-05-01/ocean-springs-police-seek-man-wanted-on-aggravated-assault-charge": {
-      "author": "Therese Apel",
-      "content_html": "<p>OCEAN SPRINGS \u2014 Detectives with the Ocean Springs Police Department are searching for a man wanted on an aggravated assault warrant connected to an incident earlier this year at a restaurant on Government Street.</p><p>Authorities identified the suspect as Dakoda Oswalt.</p><p>According to investigators, the aggravated assault occurred Feb. 28 around 10:08 p.m. at a restaurant on Government Street in Ocean Springs.</p><p>Crime Stoppers initially released surveillance photos seeking the public\u2019s help identifying the suspect. Officials said the images have since been viewed more than 346,000 times through online shares and social media circulation.</p><p>Authorities are now urging Oswalt to voluntarily surrender.</p><p>Police said anyone with information regarding Oswalt\u2019s whereabouts should contact Crime Stoppers through the P3 Tips app or by calling **TIPS.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-05-01/ocean-springs-police-seek-man-wanted-on-aggravated-assault-charge",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/05/oswalt.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-05-01/ocean-springs-police-seek-man-wanted-on-aggravated-assault-charge",
-      "pub_date": "Fri, 01 May 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-05-01T00:00:00+00:00",
-      "summary": "OCEAN SPRINGS \u2014 Detectives with the Ocean Springs Police Department are searching for a man wanted on an aggravated assault warrant connected to an incident earlier this year at a restaurant on Government Street.",
-      "title": "Ocean Springs police seek man wanted on aggravated assault charge - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-05-01/oxford-man-gets-new-murder-trial-after-supreme-court-refuses-to-intervene": {
       "author": "Therese Apel",
       "content_html": "<p>LAFAYETTE COUNTY \u2014 A Lafayette County man convicted of killing his wife will get another shot at trial after the Mississippi Supreme Court on Monday refused to block a lower court\u2019s order throwing out his first-degree murder conviction.</p><p>The state\u2019s highest court unanimously declined to reinstate Sherard Eugene Ward\u2019s life sentence, leaving intact a Court of Appeals ruling that said Ward\u2019s jury never got a fair chance to consider a lesser charge.</p><p>Ward was convicted in 2023 of murdering his wife, Marisha \u201cDanny\u201d Golden, outside their Oxford-area duplex on September 4, 2020. Multiple neighbors testified they heard a woman scream \u201cNo!\u201d before two gunshots. One witness said he saw Ward drop a gun and flee the scene.</p><p>Golden was found bleeding in the parking area outside their home. Ward later told his father he shot her.</p><p>An autopsy found Golden had been shot twice in the head and neck and also suffered blunt force injuries. All the blood found at the scene was hers.</p><p>The Court of Appeals threw out the murder conviction in November, ruling the trial judge wrongly refused to instruct jurors on heat of passion manslaughter, a lesser charge available when a killing stems from sudden rage rather than cold calculation. The sharply divided appeals court said circumstantial evidence including that Golden\u2019s own gun was used, that her blood was found inside the home before any shots were fired, and that Ward\u2019s firearms had been removed from the residence the day before, was enough to warrant the instruction.</p><p>Attorney General Lynn Fitch\u2019s office disagreed, arguing the appeals court substituted speculation for evidence. No witness saw Golden threaten or provoke Ward, prosecutors argued, and Ward never took the stand to offer his own account.</p><p>The Supreme Court declined without comment to intervene.</p><p>Ward\u2019s voyeurism conviction stemming from an incident involving two college student neighbors days before the murder was upheld and is not affected by the new trial order.</p><p>No retrial date has been set.</p>",
@@ -418,6 +407,17 @@
       "summary": "STARKVILLE \u2014 Mississippi State University has opened a new Livestock Evaluation Laboratory designed to enhance student training and support the state\u2019s livestock industry.",
       "title": "Mississippi State opens new livestock evaluation laboratory to support students, industry - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-05-05/tupelo-man-charged-with-4-counts-of-credit-card-fraud": {
+      "author": "Morgan Howard",
+      "content_html": "<p>TUPELO \u2013 A Tupelo man has been arrested and charged with four counts of credit card fraud after an investigation into unauthorized purchases made with a missing card, according to the Tupelo Police Department.</p><p>Police said a report was filed March 13 after a victim realized a credit card was missing and later discovered it had been used multiple times at businesses in Tupelo without permission.</p><p>After further investigation, officers arrested Kelvin L. Phillips, 34, of Tupelo on May 2.</p><p>Authorities said Phillips was charged with four counts of credit card fraud.</p><p>On May 3, Tupelo Municipal Court Judge Allen set Phillips\u2019 bond at $10,000.</p><p>The case will be presented to the Lee County grand jury, according to the department.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-05-05/tupelo-man-charged-with-4-counts-of-credit-card-fraud",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/05/686942718_1427774986046633_3525905047505846440_n.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-05-05/tupelo-man-charged-with-4-counts-of-credit-card-fraud",
+      "pub_date": "Tue, 05 May 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-05-05T00:00:00+00:00",
+      "summary": "TUPELO \u2013 A Tupelo man has been arrested and charged with four counts of credit card fraud after an investigation into unauthorized purchases made with a missing card, according to the Tupelo Police Department.",
+      "title": "Tupelo man charged with 4 counts of credit card fraud - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-05-05/vicksburg-police-looking-for-man-wanted-for-domestic-aggravated-assault": {
       "author": "Morgan Howard",
       "content_html": "<p>VICKSBURG \u2013 The Vicksburg Police Department is asking for the public\u2019s help locating a man wanted for domestic aggravated assault.</p><p>Police identified the suspect as Omarion Nelson. Authorities said he should be considered armed and dangerous.</p><p>Anyone with information about Nelson\u2019s whereabouts is asked to contact Investigator Janet Copeland at 601-218-9186, the Vicksburg Police Department at 601-636-2511 or Crime Stoppers at 601-355-8477.</p>",
@@ -441,8 +441,9 @@
       "title": "Why do we celebrate Cinco de Mayo? - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-05-05T17:37:08.983399+00:00",
+  "last_run_utc": "2026-05-05T18:10:52.885105+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-05-05/tupelo-man-charged-with-4-counts-of-credit-card-fraud",
     "https://darkhorsepressnow.com/news/2026-05-05/vicksburg-police-looking-for-man-wanted-for-domestic-aggravated-assault",
     "https://darkhorsepressnow.com/news/2026-05-05/kitten-rescued-from-storm-drain-in-jackson-after-dayslong-effort",
     "https://darkhorsepressnow.com/news/2026-05-05/mississippi-hand-grabbing-season-opens-for-catfish-anglers",
