@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-04-30/walnut-grove-inmates-complete-barber-training-earn-state-licenses": {
-      "author": "Morgan Howard",
-      "content_html": "<p>WALNUT GROVE \u2013 The Mississippi Department of Corrections says inmates in the barber program at Walnut Grove Correctional Facility have completed the requirements to become licensed barbers.</p><p>According to MDOC, members of the facility\u2019s Barber College met the standards of the Mississippi Board of Cosmetology and Barbering.</p><p>Superintendent Mike Dixon and Deputy Warden Stephanie Johnston congratulated the inmates on earning their licenses, the department said.</p><p>MDOC said the newly licensed barbers are now available to help train others across the agency who want to achieve the same accomplishment.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-04-30/walnut-grove-inmates-complete-barber-training-earn-state-licenses",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/04/686360402_997262136156881_7802199031534132294_n.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-04-30/walnut-grove-inmates-complete-barber-training-earn-state-licenses",
-      "pub_date": "Thu, 30 Apr 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-04-30T00:00:00+00:00",
-      "summary": "WALNUT GROVE \u2013 The Mississippi Department of Corrections says inmates in the barber program at Walnut Grove Correctional Facility have completed the requirements to become licensed barbers.",
-      "title": "Walnut Grove inmates complete barber training, earn state licenses - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-04-30/warren-county-sheriff-warns-public-about-apple-pay-scam-message": {
       "author": "Morgan Howard",
       "content_html": "<p>VICKSBURG \u2014 The Warren County Sheriff\u2019s Office is warning residents about a scam message claiming an Apple Pay charge has been placed on hold because of unusual activity.</p><p>The sheriff\u2019s office shared an example of the message, which tells recipients that a $143.95 Apple Pay charge at an Apple Store in California was temporarily held and urges them to call a phone number for Apple Support.</p><p>Authorities said the message is a scam and asked the public to share the warning with others.</p><p>Officials did not provide additional details but advised residents to be cautious of unsolicited messages involving account security or payment alerts.</p>",
@@ -439,10 +428,22 @@
       "pub_dt_iso": "2026-05-04T00:00:00+00:00",
       "summary": "TUPELO \u2013 A Tupelo man has been sentenced to 12 years in prison after pleading guilty to trafficking fentanyl, according to the First Circuit District Attorney\u2019s Office.",
       "title": "Tupelo man sentenced to 12 years to serve for fentanyl trafficking - Darkhorse Press"
+    },
+    "https://darkhorsepressnow.com/news/top-story/2026-05-05/why-do-we-celebrate-cinco-de-mayo": {
+      "author": "Mary Apel",
+      "content_html": "<p>Cinco de Mayo, or May 5th, falls on Tuesday this year. Although it is often mistaken as Mexico\u2019s Independence Day, it actually commemorates the Mexican army\u2019s victory over the French army at the Battle of Puebla on May 5, 1862.</p><p>The origins of what we call Cinco de Mayo can be traced back to the mid-19th century when Mexico was struggling with economic woes and political instability. At the time, Mexico had incurred significant debt to European countries, including France, Britain, and Spain.</p><p>In 1861, Mexican President Benito Juarez declared a moratorium on the repayment of foreign debts, which led to a military invasion by French forces. The French army, led by Napoleon III, aimed to establish a French-supported monarchy in Mexico, which would provide a valuable ally in the Americas.</p><p>However, the Mexican army, led by General Ignacio Zaragoza, fiercely resisted the French forces and defeated them at the Battle of Puebla on May 5, 1862. This victory, although not decisive in the war, became a symbol of Mexican resistance against foreign intervention and marked a significant historical moment for Mexico.</p><p>Cinco de Mayo remained a relatively minor holiday in Mexico until the late 20th century, at which point it gained widespread popularity in the United States. After the Mexican Civil War ended in 1915, many Mexican people came to the United States and settled in the southern states. When they came to America, they brought with them their customs, traditions, and holidays\u2014including Cinco de Mayo.</p><p>The holiday became a way for Mexican-Americans to celebrate their culture and heritage, and to share it with their neighbors in the US. Additionally, the holiday\u2019s popularity has been fueled by commercial interests, with many businesses using it as an opportunity to promote Mexican food, drinks, and other products.</p><p>Want to celebrate at home? Here\u2019s a good margarita recipe from the Food Network: If you like margaritas with salt, rub the outside rims of your glass with a cut lime and dip each glass lightly into a plate of kosher salt. Then combine lime juice, Triple Sec, white (blanco) tequila, and ice in a blender for a frozen drink or a shaker for one on-the-rocks. Serve with some chips and salsa, and enjoy!</p>",
+      "guid": "https://darkhorsepressnow.com/news/top-story/2026-05-05/why-do-we-celebrate-cinco-de-mayo",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2024/05/shutterstock_2608931887.jpg",
+      "link": "https://darkhorsepressnow.com/news/top-story/2026-05-05/why-do-we-celebrate-cinco-de-mayo",
+      "pub_date": "Tue, 05 May 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-05-05T00:00:00+00:00",
+      "summary": "Cinco de Mayo, or May 5th, falls on Tuesday this year. Although it is often mistaken as Mexico\u2019s Independence Day, it actually commemorates the Mexican army\u2019s victory over the French army at the Battle of Puebla on May 5, 1862.",
+      "title": "Why do we celebrate Cinco de Mayo? - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-05-05T10:54:05.635656+00:00",
+  "last_run_utc": "2026-05-05T12:08:57.376681+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/top-story/2026-05-05/why-do-we-celebrate-cinco-de-mayo",
     "https://darkhorsepressnow.com/news/2026-05-04/pearl-police-officer-seriously-injured-in-crash-while-responding-to-call",
     "https://darkhorsepressnow.com/news/2026-05-04/tupelo-man-sentenced-to-12-years-to-serve-for-fentanyl-trafficking",
     "https://darkhorsepressnow.com/news/2026-05-04/beloved-malayan-tiger-bunga-undergoing-treatment-at-hattiesburg-zoo",
