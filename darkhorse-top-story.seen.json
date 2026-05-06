@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-05-03/ruth-man-killed-in-two-vehicle-crash-in-lincoln-county": {
-      "author": "Therese Apel",
-      "content_html": "<p>LINCOLN COUNTY \u2014 A 40-year-old man from Ruth was killed Friday morning in a two-vehicle crash in Lincoln County, according to the Mississippi Highway Patrol.</p><p>Troopers responded to the crash around 8 a.m. on May 1 on Highway 84.</p><p>Authorities said Jeffery Grimes was driving a 2015 Volkswagen Passat north on East Lincoln Road when his vehicle collided with a 2016 Ford F-150 traveling east on Highway 84. The pickup was driven by 30-year-old Alexis Bass of Natchez.</p><p>Grimes suffered fatal injuries and was pronounced dead at the scene, officials said.</p><p>No additional injuries were immediately reported.</p><p>The crash remains under investigation by the Mississippi Highway Patrol.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-05-03/ruth-man-killed-in-two-vehicle-crash-in-lincoln-county",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2024/07/MHP-768x511-1.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-05-03/ruth-man-killed-in-two-vehicle-crash-in-lincoln-county",
-      "pub_date": "Sun, 03 May 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-05-03T00:00:00+00:00",
-      "summary": "LINCOLN COUNTY \u2014 A 40-year-old man from Ruth was killed Friday morning in a two-vehicle crash in Lincoln County, according to the Mississippi Highway Patrol.",
-      "title": "Ruth man killed in two-vehicle crash in Lincoln County - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-05-04/attorney-general-lynn-fitch-joins-41-attorneys-general-urging-feds-to-leave-sports-betting-oversight-to-states": {
       "author": "Morgan Howard",
       "content_html": "<p>JACKSON \u2013 Mississippi Attorney General Lynn Fitch has joined a bipartisan coalition of 41 attorneys general urging federal regulators to reaffirm that states, not the federal government, should oversee sports-related event contracts tied to betting.</p><p>According to Fitch\u2019s office, the coalition filed a formal comment with the Commodity Futures Trading Commission arguing that so-called prediction markets have effectively become unregulated sportsbooks.</p><p>\u201cMississippi, like many states, has carefully balanced competing interests to allow responsible sports betting here,\u201d Fitch said in a statement. \u201cThe CFTC should not upend that balance, usurp state authorities without a clear Congressional directive, and leave states with the responsibility for cleaning up the impacts of sports betting without the ability to regulate it on the front end.\u201d</p><p>The coalition said prediction market platforms allow users to wager on outcomes such as game winners, point spreads and player statistics while bypassing state gambling regulations and consumer protections.</p><p>In the comment letter, the attorneys general argued that there is no meaningful difference for consumers between traditional sports bets and sports-related event contracts offered on designated contract markets.</p><p>The coalition contends that those contracts do not serve the traditional purposes of derivatives markets, such as hedging or price discovery, and instead function as entertainment-based gambling, which they say falls under state authority.</p><p>The attorneys general also warned that sports gambling can pose risks to public health and financial security and said states are better equipped than the CFTC to regulate or prohibit such activity.</p><p>The letter was filed in response to a CFTC request for public comment on proposed rules for prediction markets. The coalition urged the agency to confirm through rulemaking that it does not have jurisdiction over sports-related contracts.</p><p>Fitch joined attorneys general from 40 other states and the District of Columbia in signing the letter.</p>",
@@ -418,6 +407,17 @@
       "summary": "JACKSON \u2013 The Mississippi Bureau of Investigation has issued a Silver Alert for a missing Jackson man.",
       "title": "Silver Alert issued for missing Jackson man - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-05-06/some-msdh-offices-services-may-be-affected-by-severe-weather": {
+      "author": "Morgan Howard",
+      "content_html": "<p>JACKSON \u2013 Some Mississippi State Department of Health offices and services may be closed or operating on adjusted hours because of severe weather, the department said.</p><p>MSDH urged residents to check for the latest closure updates before visiting an office or service location.</p><p>Updates are available at msdh.ms.gov/closures.</p><p>The department also encouraged residents to stay safe, monitor local weather conditions and check for updates through the MSDH Healthy Mobile App and the department\u2019s website.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-05-06/some-msdh-offices-services-may-be-affected-by-severe-weather",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/05/688424526_1459719956197246_5749617776024217823_n.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-05-06/some-msdh-offices-services-may-be-affected-by-severe-weather",
+      "pub_date": "Wed, 06 May 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-05-06T00:00:00+00:00",
+      "summary": "JACKSON \u2013 Some Mississippi State Department of Health offices and services may be closed or operating on adjusted hours because of severe weather, the department said.",
+      "title": "Some MSDH offices, services may be affected by severe weather - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-05-06/tupelo-police-seek-help-identifying-shoplifting-suspects": {
       "author": "Morgan Howard",
       "content_html": "<p>TUPELO \u2013 Crime Stoppers of Northeast Mississippi and the Tupelo Police Department are asking for the public\u2019s help identifying people involved in a reported shoplifting incident.</p><p>Authorities said the incident happened April 28, 2026, in Tupelo.</p><p>Police are asking anyone who recognizes the suspects in the attached photos or has information about the incident to contact Crime Stoppers of Northeast Mississippi.</p><p>Tips can be submitted by calling 800-773-TIPS, or by using the P3 Tip App.</p><p>Crime Stoppers said it may pay up to $2,000 for a tip that leads to an arrest.</p><p>Tipsters can remain anonymous.</p>",
@@ -441,8 +441,9 @@
       "title": "Why do we celebrate Cinco de Mayo? - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-05-06T19:36:47.336629+00:00",
+  "last_run_utc": "2026-05-06T20:14:05.634894+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-05-06/some-msdh-offices-services-may-be-affected-by-severe-weather",
     "https://darkhorsepressnow.com/news/2026-05-06/jackson-public-schools-apologizes-for-unintentional-facebook-post",
     "https://darkhorsepressnow.com/news/2026-05-06/blood-drive-being-held-today-to-support-ridgeland-police-cpl-ryan-stacy",
     "https://darkhorsepressnow.com/news/2026-05-06/tupelo-police-seek-help-identifying-shoplifting-suspects",
