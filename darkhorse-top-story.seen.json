@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-05-04/mississippi-opens-statewide-applications-for-private-land-alligator-tags-for-2026-season": {
-      "author": "Morgan Howard",
-      "content_html": "<p>JACKSON \u2013 Mississippi landowners across the state can now apply for private land alligator tags for the 2026 season, according to the state\u2019s private lands and permits information.</p><p>Officials said the private lands alligator tag program is available statewide beginning in 2026.</p><p>Applications for private lands alligator permits will be accepted from May 1 through July 1, and all applications must be submitted online, according to the state.</p><p>There is no fee to apply.</p><p>Officials said anyone may submit an application for a property in open counties as long as the landowner signs the application. Only one application may be submitted for each property.</p><p>The 2026 alligator season opens on the last Friday in August, which falls on Aug. 28 this year.</p><p>According to the state, the private lands season will run from noon Aug. 28 until 6 a.m. Sept. 21.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-05-04/mississippi-opens-statewide-applications-for-private-land-alligator-tags-for-2026-season",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2024/06/Screenshot-2024-06-03-11.20.00-AM.png",
-      "link": "https://darkhorsepressnow.com/news/2026-05-04/mississippi-opens-statewide-applications-for-private-land-alligator-tags-for-2026-season",
-      "pub_date": "Mon, 04 May 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-05-04T00:00:00+00:00",
-      "summary": "JACKSON \u2013 Mississippi landowners across the state can now apply for private land alligator tags for the 2026 season, according to the state\u2019s private lands and permits information.",
-      "title": "Mississippi opens statewide applications for private land alligator tags for 2026 season - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-05-04/pearl-police-officer-seriously-injured-in-crash-while-responding-to-call": {
       "author": "Therese Apel",
       "content_html": "<p>PEARL \u2014 A Pearl police officer was seriously injured in a crash Monday evening while responding to a call for service, according to authorities.</p><p>The crash occurred on Highway 80 near Bierdeman Road. Officials said first responders were working the scene, and motorists were advised to expect delays and use caution in the area.</p><p>The injured officer was transported to a local hospital. No additional details about the officer\u2019s condition were immediately released.</p><p>In a statement, Pearl Police Chief Nick McLendon asked for prayers for the officer, their family and others involved, adding that the department is supporting the injured officer.</p><p>Authorities say further information will be released as it becomes available.</p>",
@@ -374,6 +363,17 @@
       "summary": "BROOKHAVEN \u2013 Brookhaven Animal Hospital is offering free temporary boarding for pets after a tornado impacted the community.",
       "title": "Brookhaven Animal Hospital offers free temporary boarding for pets after tornado - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-05-07/lucedale-man-charged-with-aggravated-assault-after-shooting-in-george-county": {
+      "author": "Morgan Howard",
+      "content_html": "<p>LUCEDALE \u2013 A Lucedale man has been charged with aggravated assault after a shooting in George County, according to the George County Sheriff\u2019s Office.</p><p>Deputies responded at about 8:51 p.m. May 5 to a report of a man who had been shot in the 100 block of High Hopes Lane.</p><p>When deputies arrived, they secured the scene and began an investigation.</p><p>Investigators with the George County Criminal Investigations Division identified Mason D. McCarty, 29, of Lucedale, as the suspect in the shooting. A warrant was later issued for his arrest.</p><p>McCarty was located and taken into custody without incident May 6, according to the sheriff\u2019s office. He was formally charged with aggravated assault.</p><p>McCarty is being held at the George County Regional Correctional Facility, where he is awaiting his initial appearance before a George County Justice Court judge.</p><p>Sheriff Mitchell Mixon said violence has no place in the community and praised patrol deputies and investigators for quickly identifying and apprehending the suspect.</p><p>The sheriff\u2019s office said the case remains under investigation and no additional information will be released at this time.</p><p>McCarty is presumed innocent unless and until proven guilty in court.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-05-07/lucedale-man-charged-with-aggravated-assault-after-shooting-in-george-county",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/05/687014919_1301738728811595_6597499593965497260_n.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-05-07/lucedale-man-charged-with-aggravated-assault-after-shooting-in-george-county",
+      "pub_date": "Thu, 07 May 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-05-07T00:00:00+00:00",
+      "summary": "LUCEDALE \u2013 A Lucedale man has been charged with aggravated assault after a shooting in George County, according to the George County Sheriff\u2019s Office.",
+      "title": "Lucedale man charged with aggravated assault after shooting in George County - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-05-07/mema-encourages-residents-to-report-storm-damage-through-self-report-tool": {
       "author": "Morgan Howard",
       "content_html": "<p>PEARL \u2013 The Mississippi Emergency Management Agency is encouraging residents to report damage from last night\u2019s severe weather.</p><p>MEMA said residents whose homes were damaged should file an insurance claim, take photos of the damage and report the damage to their county or MEMA through the agency\u2019s self-report tool.</p><p>Residents can use the tool by selecting their county of residence and filling out the form.</p><p>MEMA said the self-report tool is not an application for assistance.</p>",
@@ -441,8 +441,9 @@
       "title": "Storm in Lincoln County reportedly levels mobile home park, damage being assessed - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-05-07T17:09:22.877897+00:00",
+  "last_run_utc": "2026-05-07T17:54:06.535730+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-05-07/lucedale-man-charged-with-aggravated-assault-after-shooting-in-george-county",
     "https://darkhorsepressnow.com/news/2026-05-07/suspect-in-custody-after-auto-burglaries-near-pearl-city-hall",
     "https://darkhorsepressnow.com/news/2026-05-07/mema-encourages-residents-to-report-storm-damage-through-self-report-tool",
     "https://darkhorsepressnow.com/news/2026-05-07/brookhaven-animal-hospital-offers-free-temporary-boarding-for-pets-after-tornado",
