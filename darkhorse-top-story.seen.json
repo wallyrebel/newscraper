@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-05-06/blood-drive-being-held-today-to-support-ridgeland-police-cpl-ryan-stacy": {
-      "author": "Morgan Howard",
-      "content_html": "<p>RIDGELAND- Mississippi Blood Services is hosting a blood drive Tuesday to support Cpl. Ryan Stacy of the Ridgeland Police Department.</p><p>Cpl. Ryan Stacy was hurt in a crash on the Natchez Trace Parkway during severe weather, after his vehicle struck a fallen tree. The crash happened April 26th.</p><p>The blood drive will be held today (Wednesday) from 2 p.m. to 7 p.m. at the Ridgeland Police Department, located at 115 West School Street in Ridgeland.</p><p>Mississippi Blood Services said donors who cannot attend the Ridgeland event can still support Stacy by donating at the Flowood Donor Center and using code ES24. That code will allow the donation to be credited toward him.</p><p>Mississippi Blood Services encouraged eligible donors to give blood to help save lives.</p><p>Ridgeland PD asks public to help injured officer</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-05-06/blood-drive-being-held-today-to-support-ridgeland-police-cpl-ryan-stacy",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/05/690787502_1409965101165827_2059764919765064595_n.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-05-06/blood-drive-being-held-today-to-support-ridgeland-police-cpl-ryan-stacy",
-      "pub_date": "Wed, 06 May 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-05-06T00:00:00+00:00",
-      "summary": "RIDGELAND- Mississippi Blood Services is hosting a blood drive Tuesday to support Cpl. Ryan Stacy of the Ridgeland Police Department.",
-      "title": "Blood drive being held today to support Ridgeland Police Cpl. Ryan Stacy - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-05-06/brandon-main-street-seeks-return-of-missing-heron-statue": {
       "author": "Morgan Howard",
       "content_html": "<p>BRANDON \u2013 The Brandon Main Street Association is asking for help finding a missing heron decoration from downtown Brandon.</p><p>The association said the heron is missing from its flower box under the mural in the Downtown Brandon Historic District.</p><p>In a social media post, the group joked that the heron is \u201cnot very fast on foot\u201d and asked anyone who has seen it, or may have \u201caccidentally adopted\u201d it, to return it.</p><p>The association said the heron can be returned to its flower box under the mural with no questions asked.</p><p>Anonymous tips can be sent to [email protected] .</p>",
@@ -418,6 +407,17 @@
       "summary": "JACKSON \u2014 Mississippi officials are encouraging homeowners affected by recent storms in the southern part of the state to carefully research contractors before agreeing to repair work, citing concerns about fraud and unlicensed construction activity in damaged communities.",
       "title": "State Officials Warn Storm Survivors to Watch for Contractor Fraud During Recovery Efforts - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-05-08/two-shot-inside-home-in-rankin-county-suspect-barricaded-himself-inside": {
+      "author": "Morgan Howard",
+      "content_html": "<p>RANKIN COUNTY \u2013 A suspect has barricaded himself inside of a home in Rankin County, and two people have been shot and killed.</p><p>According to the Rankin County Sheriff\u2019s Department, the suspect is barricaded inside of a home in the 1400 block of Monterrey Road near Florence.</p><p>Sheriff Bryan Bailey said that the two family members who were killed are somehow related to the suspect.</p><p>The road is completely blocked. All drivers are being asked to avoid the area and take a detour.</p><p>We are live at the scene and will continue to bring you the latest updates.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-05-08/two-shot-inside-home-in-rankin-county-suspect-barricaded-himself-inside",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/05/79997430265__B5808BEA-1C3D-4EEF-88FB-9D5857E30D44.jpeg",
+      "link": "https://darkhorsepressnow.com/news/2026-05-08/two-shot-inside-home-in-rankin-county-suspect-barricaded-himself-inside",
+      "pub_date": "Fri, 08 May 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-05-08T00:00:00+00:00",
+      "summary": "RANKIN COUNTY \u2013 A suspect has barricaded himself inside of a home in Rankin County, and two people have been shot and killed.",
+      "title": "Two dead after shooting at Rankin County home; suspect barricaded inside - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-05-08/vehicle-strikes-jackson-fire-department-building-for-second-time-in-less-than-10-months": {
       "author": "Morgan Howard",
       "content_html": "<p>JACKSON \u2013 The Jackson Fire Department said it is making repairs to its Internal Affairs Complex after a vehicle struck the building for the second time in less than 10 months.</p><p>The department said the latest incident comes as crews continue working to repair roofs and complete needed upgrades across fire stations.</p><p>No staff members working inside the building were injured in the crash, according to the department.</p><p>Jackson fire officials said the setbacks have created additional repair needs, but the department remains committed to improving its facilities for firefighters and the community.</p><p>The department thanked residents for their patience and support as it works through the unexpected challenges.</p>",
@@ -441,8 +441,9 @@
       "title": "Storm in Lincoln County reportedly levels mobile home park, damage being assessed - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-05-08T22:49:24.998548+00:00",
+  "last_run_utc": "2026-05-08T23:23:43.396395+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-05-08/two-shot-inside-home-in-rankin-county-suspect-barricaded-himself-inside",
     "https://darkhorsepressnow.com/news/2026-05-08/monticello-animal-rescue-asks-for-donations-after-founders-property-hit-by-tornado",
     "https://darkhorsepressnow.com/news/2026-05-08/vehicle-strikes-jackson-fire-department-building-for-second-time-in-less-than-10-months",
     "https://darkhorsepressnow.com/news/2026-05-08/domestic-dispute-call-leads-to-officer-involved-shooting-in-corinth",
