@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-05-07/storms-leave-17-injured-hundreds-of-homes-damaged-in-mississippi": {
-      "author": "Morgan Howard",
-      "content_html": "<p>PEARL \u2013 Mississippi officials are continuing to assess damage after severe storms moved through the state overnight, leaving at least 17 people injured, Gov. Tate Reeves said.</p><p>READ MORE DETAILED COVERAGE ON THE STORMS HERE.</p><p>Reeves said initial damage assessments show 275 homes and 50 apartment units were damaged or inaccessible in Lamar County. Thirty roads were also closed because of debris, and the county shelter and safe room remained open. American Red Cross support was available.</p><p>In Lincoln County, more than 200 homes were damaged. Reeves said the Cajun Navy is deploying a 50-person shelter pod, a 30-kilowatt generator and 10 pallets of supplies.</p><p>In Lawrence County, 12 homes were damaged, and multiple roads were closed because of downed trees and power lines.</p><p>Officials said the numbers are preliminary and are expected to change as damage assessments continue.</p><p>The Mississippi Emergency Management Agency is supporting damage and operations assessments. Reeves said road-clearing teams are being deployed to remove debris, and the state is sending additional resources as requested by local emergency managers.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-05-07/storms-leave-17-injured-hundreds-of-homes-damaged-in-mississippi",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/05/1000004036.jpeg",
-      "link": "https://darkhorsepressnow.com/news/2026-05-07/storms-leave-17-injured-hundreds-of-homes-damaged-in-mississippi",
-      "pub_date": "Thu, 07 May 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-05-07T00:00:00+00:00",
-      "summary": "PEARL \u2013 Mississippi officials are continuing to assess damage after severe storms moved through the state overnight, leaving at least 17 people injured, Gov. Tate Reeves said.",
-      "title": "Storms leave 17 injured, hundreds of homes damaged in Mississippi - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-05-07/suspect-in-custody-after-auto-burglaries-near-pearl-city-hall": {
       "author": "Morgan Howard",
       "content_html": "<p>PEARL \u2013 A suspect has been taken into custody after recent auto burglaries in the City Hall area, according to the Pearl Police Department.</p><p>Police said the burglaries happened around May 5 and May 6.</p><p>Anyone who believes they may be missing property or may have been a victim during that time is asked to contact the Pearl Police Department\u2019s Criminal Investigations Division.</p><p>Police said investigators were able to take the suspect into custody within 24 hours.</p><p>The department also thanked community members who provided video footage and reported suspicious activity, saying their assistance helped bring the case to a quick resolution.</p>",
@@ -264,6 +253,17 @@
       "summary": "RANKIN COUNTY \u2013 Authorities are trying to identify the parents of two young children who were found abandoned Sunday evening in the Castlewoods subdivision, according to the Rankin County Sheriff\u2019s Department.",
       "title": "Two girls under 5 found abandoned in Rankin County neighborhood; deputies searching for parents - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-05-11/forrest-county-man-pleads-guilty-in-unemployment-fraud-case": {
+      "author": "Therese Apel",
+      "content_html": "<p>JACKSON \u2014 State Auditor Shad White announced Monday that a man has pleaded guilty to one count of fraudulent statements and representations connected to unemployment benefits fraud.</p><p>According to the State Auditor\u2019s Office, Benjamin Coleman submitted fraudulent weekly certification sheets in order to obtain unemployment funds from the Mississippi Department of Employment Security.</p><p>\u201cMy office will continue to drop the hammer on criminals who can be identified and recover as much misspent taxpayer dollars as possible,\u201d White said in a statement.</p><p>Coleman was sentenced in Forrest County Circuit Court to three years in the Pre-Trial Diversion Program. He was also ordered to pay $2,824 in restitution and $175 in fines.</p><p>The State Auditor\u2019s Office encourages anyone who suspects fraud involving public funds to report it through the Office of the State Auditor website or by calling 1-800-321-1275 during normal business hours.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-05-11/forrest-county-man-pleads-guilty-in-unemployment-fraud-case",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/05/Coleman-booking-photo-e1778526990205.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-05-11/forrest-county-man-pleads-guilty-in-unemployment-fraud-case",
+      "pub_date": "Mon, 11 May 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-05-11T00:00:00+00:00",
+      "summary": "JACKSON \u2014 State Auditor Shad White announced Monday that a man has pleaded guilty to one count of fraudulent statements and representations connected to unemployment benefits fraud.",
+      "title": "Forrest County man pleads guilty in unemployment fraud case - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-05-11/genuine-ms-farmers-market-to-open-may-16-at-rankin-county-co-op": {
       "author": "Therese Apel",
       "content_html": "<p>BRANDON \u2014 The Genuine MS Farmers Market at the Rankin County Co-op is scheduled to open Saturday, May 16, with state agriculture officials and local vendors celebrating the start of the growing season.</p><p>Andy Gipson, commissioner of the Mississippi Department of Agriculture and Commerce, will officially open the market with a ribbon-cutting ceremony at 9 a.m. The market itself will begin operating at 8 a.m.</p><p>Gipson said all products sold at the market will be grown, raised or processed in Mississippi.</p><p>\u201cIt\u2019s the beginning of the growing season, and 100 percent of the products available to shoppers will be Mississippi-grown and raised,\u201d Gipson said in a statement.</p><p>The seasonal market will operate every Saturday from 8 a.m. to noon through October 2026.</p><p>Officials said the market will feature local vendors selling fresh produce, meat products, honey, specialty foods, plants and other Genuine Mississippi products. A pop-up location of the Genuine MS Retail Store will also be available on-site.</p><p>Participating vendors include Two Dog Farm, Pennington Farm Honey, Paul\u2019s Plants, New Ground Nursery, Red River Trading Co., Amason Farms, Cooper Farms and Vineyard LLC, DNA BBQ, Great Southern Blueberries, Nature\u2019s Crest LLC, Beason Family Farm and Buckin\u2019 RR\u2019s Farms LLC.</p><p>The market is located at 2861 U.S. 80 in Brandon.</p>",
@@ -441,8 +441,9 @@
       "title": "Suspect arrested after bank robbery at Jackson Chase Bank - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-05-11T19:10:59.755752+00:00",
+  "last_run_utc": "2026-05-11T19:54:59.874156+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-05-11/forrest-county-man-pleads-guilty-in-unemployment-fraud-case",
     "https://darkhorsepressnow.com/news/2026-05-11/vicksburg-business-owner-offers-5000-reward-after-zero-turn-mowers-stolen",
     "https://darkhorsepressnow.com/news/2026-05-11/man-arrested-after-pop-up-party-on-monroe-road-in-forrest-county",
     "https://darkhorsepressnow.com/news/2026-05-11/health-department-urges-caution-during-storm-recovery",
