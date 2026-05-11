@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-05-07/brookhaven-animal-hospital-offers-free-temporary-boarding-for-pets-after-tornado": {
-      "author": "Morgan Howard",
-      "content_html": "<p>BROOKHAVEN \u2013 Brookhaven Animal Hospital is offering free temporary boarding for pets after a tornado impacted the community.</p><p>The animal hospital said residents who were affected by the storm and need a safe place for their pets can drop them off while they deal with storm recovery.</p><p>The service is being offered at no cost for a couple of days, according to Brookhaven Animal Hospital.</p><p>The hospital, located at 1210 U.S. 51 in Brookhaven, is open from 7:30 a.m. to 5:30 p.m. Monday through Friday and from 9 a.m. to noon Saturday.</p><p>Brookhaven Animal Hospital said it cannot board aggressive pets.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-05-07/brookhaven-animal-hospital-offers-free-temporary-boarding-for-pets-after-tornado",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/05/694205688_1551579563638866_3442419323579516009_n.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-05-07/brookhaven-animal-hospital-offers-free-temporary-boarding-for-pets-after-tornado",
-      "pub_date": "Thu, 07 May 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-05-07T00:00:00+00:00",
-      "summary": "BROOKHAVEN \u2013 Brookhaven Animal Hospital is offering free temporary boarding for pets after a tornado impacted the community.",
-      "title": "Brookhaven Animal Hospital offers free temporary boarding for pets after tornado - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-05-07/lucedale-man-charged-with-aggravated-assault-after-shooting-in-george-county": {
       "author": "Morgan Howard",
       "content_html": "<p>LUCEDALE \u2013 A Lucedale man has been charged with aggravated assault after a shooting in George County, according to the George County Sheriff\u2019s Office.</p><p>Deputies responded at about 8:51 p.m. May 5 to a report of a man who had been shot in the 100 block of High Hopes Lane.</p><p>When deputies arrived, they secured the scene and began an investigation.</p><p>Investigators with the George County Criminal Investigations Division identified Mason D. McCarty, 29, of Lucedale, as the suspect in the shooting. A warrant was later issued for his arrest.</p><p>McCarty was located and taken into custody without incident May 6, according to the sheriff\u2019s office. He was formally charged with aggravated assault.</p><p>McCarty is being held at the George County Regional Correctional Facility, where he is awaiting his initial appearance before a George County Justice Court judge.</p><p>Sheriff Mitchell Mixon said violence has no place in the community and praised patrol deputies and investigators for quickly identifying and apprehending the suspect.</p><p>The sheriff\u2019s office said the case remains under investigation and no additional information will be released at this time.</p><p>McCarty is presumed innocent unless and until proven guilty in court.</p>",
@@ -363,6 +352,17 @@
       "summary": "JACKSON \u2013 Responding to growing demand in Mississippi\u2019s automotive sector, Meridian Community College is launching a new automotive technology program made possible through support from AccelerateMS.",
       "title": "Meridian Community College expands workforce training with automotive technology program - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-05-11/meridian-police-investigate-fatal-shooting-early-sunday-morning": {
+      "author": "Cash Matlock",
+      "content_html": "<p>MERIDIAN \u2014 The Meridian Police Department is investigating a fatal shooting that occurred early Sunday morning in the 800 block of 45th Avenue.</p><p>Police said officers were already patrolling an event in the area at approximately 1:30 a.m. when an altercation reportedly occurred inside a local business.</p><p>According to investigators, security personnel removed an individual from the business following the disturbance.</p><p>Investigators said the altercation then escalated in the parking lot of the Council of Organizations building, where one person, identified as Zaqwavion Carlisle, was shot.</p><p>Carlisle was transported to a local hospital, where he later died.</p><p>The Meridian Police Department Criminal Investigations Division continues to investigate the incident. Additional information will be released as it becomes available.</p><p>Police are asking anyone who may have video recordings of the incident or information related to the case to contact investigators at 601-485-1893 or 769-298-5111. Individuals also may contact Crime Stoppers anonymously or email information and footage to [email protected]</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-05-11/meridian-police-investigate-fatal-shooting-early-sunday-morning",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/05/meridian.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-05-11/meridian-police-investigate-fatal-shooting-early-sunday-morning",
+      "pub_date": "Mon, 11 May 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-05-11T00:00:00+00:00",
+      "summary": "MERIDIAN \u2014 The Meridian Police Department is investigating a fatal shooting that occurred early Sunday morning in the 800 block of 45th Avenue.",
+      "title": "Meridian Police investigate fatal shooting early Sunday morning - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-05-11/mississippi-officials-to-host-annual-fallen-officers-candlelight-vigil-in-jackson": {
       "author": "Therese Apel",
       "content_html": "<p>JACKSON \u2014 Attorney General Lynn Fitch, the Mississippi Sheriffs\u2019 Association and the Mississippi Association of Chiefs of Police will host the 16th annual Fallen Officers Candlelight Vigil on Tuesday in observance of National Police Week.</p><p>The ceremony is scheduled for 6 p.m. May 12 at the Mississippi Fallen Officers Memorial, located between the Mississippi Supreme Court and the Walter Sillers Building near High Street in Jackson.</p><p>Officials said the annual vigil honors Mississippi law enforcement officers who lost their lives in the line of duty.</p><p>Scheduled speakers include Fitch; Sean Tindell, commissioner of the Mississippi Department of Public Safety; William \u201cBilly\u201d Seal of the Long Beach Police Department; and Randy Tucker of the Madison County Sheriff\u2019s Department.</p>",
@@ -441,8 +441,9 @@
       "title": "Suspect arrested after bank robbery at Jackson Chase Bank - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-05-11T16:37:55.518491+00:00",
+  "last_run_utc": "2026-05-11T17:31:14.958778+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-05-11/meridian-police-investigate-fatal-shooting-early-sunday-morning",
     "https://darkhorsepressnow.com/news/2026-05-11/ms-insurance-department-homeowners-should-prepare-now-for-wildfire-risk-review-coverage",
     "https://darkhorsepressnow.com/news/2026-05-11/lincoln-county-tornado-survivors-in-need-of-hygiene-products-food-cleaning-supplies",
     "https://darkhorsepressnow.com/news/2026-05-11/meridian-community-college-expands-workforce-training-with-automotive-technology-program",
