@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-05-06/fema-warns-mississippi-disaster-survivors-of-assistance-scam": {
-      "author": "Morgan Howard",
-      "content_html": "<p>JACKSON \u2013 The Federal Emergency Management Agency is warning Mississippi disaster survivors about scammers asking for money to complete disaster assistance applications.</p><p>FEMA said scammers are targeting survivors by requesting a $150 payment to complete an application for assistance.</p><p>The agency said it does not charge anyone to apply for disaster assistance. FEMA is urging residents not to send money or share personal information with anyone claiming payment is required.</p><p>Officials said FEMA staff always carry official photo identification, and residents should confirm they are speaking with an agency employee before providing any information.</p><p>FEMA said it works with the Department of Homeland Security and the U.S. Department of Justice to protect disaster assistance and investigate fraud.</p><p>Anyone who suspects fraud can call the Disaster Fraud Hotline at 866-720-5721 or visit fema.gov/disaster-fraud.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-05-06/fema-warns-mississippi-disaster-survivors-of-assistance-scam",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2024/03/Screenshot-2024-03-11-10.42.50-AM.png",
-      "link": "https://darkhorsepressnow.com/news/2026-05-06/fema-warns-mississippi-disaster-survivors-of-assistance-scam",
-      "pub_date": "Wed, 06 May 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-05-06T00:00:00+00:00",
-      "summary": "JACKSON \u2013 The Federal Emergency Management Agency is warning Mississippi disaster survivors about scammers asking for money to complete disaster assistance applications.",
-      "title": "FEMA warns Mississippi disaster survivors of assistance scam - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-05-06/jackson-public-schools-apologizes-for-unintentional-facebook-post": {
       "author": "Morgan Howard",
       "content_html": "<p>JACKSON \u2013 Jackson Public Schools apologized Tuesday after content was unintentionally posted on the district\u2019s official Facebook page.</p><p>District officials said the post was removed immediately after the error was identified.</p><p>JPS said appropriate steps are being taken to make sure content intended for the district\u2019s official platform is managed separately from personal platforms.</p><p>The district said it cares about broader societal issues and their impact on scholars and communities, but does not take a public stance on political matters.</p><p>Jackson Public Schools said it remains a nonpartisan organization.</p><p>The district apologized to scholars, families, staff and the broader community for what it called a misrepresentation and for any concern it may have caused.</p>",
@@ -418,6 +407,17 @@
       "summary": "RANKIN COUNTY \u2013 Authorities are trying to identify the parents of two young children who were found abandoned Sunday evening in the Castlewoods subdivision, according to the Rankin County Sheriff\u2019s Department.",
       "title": "Two girls under 5 found abandoned in Rankin County neighborhood; deputies searching for parents - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-05-11/mississippi-officials-to-host-annual-fallen-officers-candlelight-vigil-in-jackson": {
+      "author": "Therese Apel",
+      "content_html": "<p>JACKSON \u2014 Attorney General Lynn Fitch, the Mississippi Sheriffs\u2019 Association and the Mississippi Association of Chiefs of Police will host the 16th annual Fallen Officers Candlelight Vigil on Tuesday in observance of National Police Week.</p><p>The ceremony is scheduled for 6 p.m. May 12 at the Mississippi Fallen Officers Memorial, located between the Mississippi Supreme Court and the Walter Sillers Building near High Street in Jackson.</p><p>Officials said the annual vigil honors Mississippi law enforcement officers who lost their lives in the line of duty.</p><p>Scheduled speakers include Fitch; Sean Tindell, commissioner of the Mississippi Department of Public Safety; William \u201cBilly\u201d Seal of the Long Beach Police Department; and Randy Tucker of the Madison County Sheriff\u2019s Department.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-05-11/mississippi-officials-to-host-annual-fallen-officers-candlelight-vigil-in-jackson",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/05/wall2.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-05-11/mississippi-officials-to-host-annual-fallen-officers-candlelight-vigil-in-jackson",
+      "pub_date": "Mon, 11 May 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-05-11T00:00:00+00:00",
+      "summary": "JACKSON \u2014 Attorney General Lynn Fitch, the Mississippi Sheriffs\u2019 Association and the Mississippi Association of Chiefs of Police will host the 16th annual Fallen Officers Candlelight Vigil on Tuesday in observance of National Police Week.",
+      "title": "Mississippi officials to host annual Fallen Officers Candlelight Vigil in Jackson - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/top-story/2026-05-09/suspect-arrested-after-bank-robbery-at-jackson-chase-bank": {
       "author": "Therese Apel",
       "content_html": "<p>JACKSON \u2014 One person was taken into custody Saturday after a bank robbery at a Chase Bank branch in Jackson, authorities said.</p><p>According to Capitol Police, officers responded to the robbery around 10:04 a.m. at the Chase Bank located on I-55 Frontage Road.</p><p>Officials said one suspect was apprehended following the incident.</p><p>Because bank robbery investigations fall under federal jurisdiction, the Federal Bureau of Investigation has taken over the case, authorities said.</p><p>No additional information about the suspect or circumstances surrounding the robbery was immediately released.</p>",
@@ -441,8 +441,9 @@
       "title": "Storm in Lincoln County reportedly levels mobile home park, damage being assessed - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-05-11T13:18:51.619474+00:00",
+  "last_run_utc": "2026-05-11T14:20:14.077888+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-05-11/mississippi-officials-to-host-annual-fallen-officers-candlelight-vigil-in-jackson",
     "https://darkhorsepressnow.com/news/2026-05-10/two-girls-under-5-found-abandoned-in-rankin-county-neighborhood-deputies-searching-for-parents",
     "https://darkhorsepressnow.com/news/2026-05-10/prentiss-man-killed-in-jefferson-davis-county-crash",
     "https://darkhorsepressnow.com/news/2026-05-10/jackson-man-arrested-after-fatal-shooting-on-sunset-drive",
