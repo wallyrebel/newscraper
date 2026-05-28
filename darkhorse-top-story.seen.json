@@ -1,16 +1,5 @@
 {
   "items": {
-    "https://darkhorsepressnow.com/news/2026-05-26/mema-opens-disaster-service-centers-today-for-winter-storm-fern-victims": {
-      "author": "Therese Apel",
-      "content_html": "<p>STATEWIDE \u2014 Mississippi Emergency Management Agency disaster service centers opened Tuesday across 13 counties for residents affected by Winter Storm Fern, giving storm victims a little over two weeks to apply for federal assistance before the June 10 deadline.</p><p>The centers, which opened today in Alcorn, Benton, Carroll, Coahoma, Lafayette, Leflore, Marshall, Montgomery, Panola, Pontotoc, Tallahatchie, Tishomingo and Yazoo counties, are staffed to help residents apply for FEMA assistance or answer questions about the process. Centers will operate Monday through Friday from 8 a.m. to 6 p.m. and Saturdays from 8 a.m. to 2 p.m., and will be closed on Sundays.</p><p>Residents do not have to visit a center in person to apply. Applications can be submitted online at DisasterAssistance.gov, by calling 1-800-621-FEMA (3362), or through the FEMA mobile app.</p><p>Federal funding is available to affected individuals across 36 Mississippi counties and the Mississippi Band of Choctaw Indians under disaster declaration DR-4899. Assistance may include grants for temporary housing and home repairs, low-cost loans to cover uninsured property losses, and other recovery programs for individuals and business owners.</p><p>MEMA noted that receiving disaster assistance will not affect recipients\u2019 Social Security, Medicare or Medicaid benefits.</p><p>The application deadline is June 10.</p>",
-      "guid": "https://darkhorsepressnow.com/news/2026-05-26/mema-opens-disaster-service-centers-today-for-winter-storm-fern-victims",
-      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/01/New-Product-Alert.jpg",
-      "link": "https://darkhorsepressnow.com/news/2026-05-26/mema-opens-disaster-service-centers-today-for-winter-storm-fern-victims",
-      "pub_date": "Tue, 26 May 2026 00:00:00 +0000",
-      "pub_dt_iso": "2026-05-26T00:00:00+00:00",
-      "summary": "STATEWIDE \u2014 Mississippi Emergency Management Agency disaster service centers opened Tuesday across 13 counties for residents affected by Winter Storm Fern, giving storm victims a little over two weeks to apply for federal assistance before the June 10 deadline.",
-      "title": "MEMA opens disaster service centers today for Winter Storm Fern victims - Darkhorse Press"
-    },
     "https://darkhorsepressnow.com/news/2026-05-26/missing-in-mississippi-lottie-elaine-myers-franklin-county": {
       "author": "Therese Apel",
       "content_html": "<p>FRANKLIN COUNTY \u2014 Authorities are still searching for a Pike County woman who disappeared in Franklin County in October 2024 after leaving her home in Summit.</p><p>Lottie \u201cElaine\u201d Myers, 73, was last seen around 1:47 p.m. on Monday, Oct. 28, 2024, in the 2000 block of Willis Cotton Road in Summit.</p><p>According to investigators, Myers was driving south in a silver 2015 Jeep Cherokee bearing Mississippi license plate PJ1 091. Her vehicle was later found abandoned on McCall Creek Road in Franklin County.</p><p>Authorities believe Myers was later seen walking along McCall Creek Road in an unknown direction.</p><p>The Mississippi Bureau of Investigation issued a Silver Alert for Myers on Oct. 29, 2024, noting that she suffers from Alzheimer\u2019s disease, which impairs her judgment.</p><p>Myers is described as a white female with brown hair and brown eyes. She is approximately 5 feet 5 inches to 5 feet 6 inches tall and weighs between 150 and 170 pounds. She was last seen wearing faded knee-length blue jean shorts and a gray T-shirt.</p><p>Multiple agencies have searched the McCall Creek Road area since Myers disappeared, but she has not been found.</p><p>Anyone with information about Myers\u2019 whereabouts is asked to contact the Pike County Sheriff\u2019s Department at (601) 782-2323.</p>",
@@ -374,6 +363,17 @@
       "summary": "By Jatavian Walker Jackson State University",
       "title": "Jackson State offers numerous summer camps for year-long learning and fun - Darkhorse Press"
     },
+    "https://darkhorsepressnow.com/news/2026-05-28/natchez-man-arrested-on-alabama-fugitive-warrant": {
+      "author": "Morgan Howard",
+      "content_html": "<p>ADAMS COUNTY \u2013 A Natchez man was arrested Thursday on a fugitive warrant out of Alabama, according to the Adams County Sheriff\u2019s Office.</p><p>Deputies arrested 33-year-old John Brandon Sanders, of Natchez, on May 28 after responding to a residence on Kingston Road.</p><p>According to the incident report, deputies received information about an NCIC hit connected to Sanders. After confirming the warrant with Baldwin County, Alabama, authorities, Sanders was taken into custody without incident.</p><p>He was transported to the Adams County Sheriff\u2019s Office for booking.</p><p>Authorities said the Baldwin County warrant is for a probation revocation connected to an original charge of first-degree rape. Court documents indicate the warrant carries no bond and is listed for extradition within several southeastern states, including Mississippi and Alabama.</p><p>Sanders is being held pending extradition proceedings.</p><p>All defendants are presumed innocent until proven guilty.</p>",
+      "guid": "https://darkhorsepressnow.com/news/2026-05-28/natchez-man-arrested-on-alabama-fugitive-warrant",
+      "image_url": "https://darkhorsepressnow.com/wp-content/uploads/2026/05/710755317_856110530879836_2737019683102851293_n.jpg",
+      "link": "https://darkhorsepressnow.com/news/2026-05-28/natchez-man-arrested-on-alabama-fugitive-warrant",
+      "pub_date": "Thu, 28 May 2026 00:00:00 +0000",
+      "pub_dt_iso": "2026-05-28T00:00:00+00:00",
+      "summary": "ADAMS COUNTY \u2013 A Natchez man was arrested Thursday on a fugitive warrant out of Alabama, according to the Adams County Sheriff\u2019s Office.",
+      "title": "Natchez man arrested on Alabama fugitive warrant - Darkhorse Press"
+    },
     "https://darkhorsepressnow.com/news/2026-05-28/pearl-police-seek-help-identifying-person-in-ulta-beauty-theft-investigations": {
       "author": "Morgan Howard",
       "content_html": "<p>PEARL \u2013 The Pearl Police Department is asking for the public\u2019s help identifying a person in connection with two theft investigations at Ulta Beauty.</p><p>According to the department, investigators with the Criminal Investigations Division are working to identify the individual pictured in connection with the separate cases.</p><p>Anyone who recognizes the person or has information that could help investigators is asked to contact the Pearl Police Department at 601-939-7000.</p>",
@@ -441,8 +441,9 @@
       "title": "Vicksburg police announce parent meeting, sign-up day for street ball season - Darkhorse Press"
     }
   },
-  "last_run_utc": "2026-05-28T22:21:04.945249+00:00",
+  "last_run_utc": "2026-05-28T22:58:45.773023+00:00",
   "seen_urls": [
+    "https://darkhorsepressnow.com/news/2026-05-28/natchez-man-arrested-on-alabama-fugitive-warrant",
     "https://darkhorsepressnow.com/news/2026-05-28/two-arrested-after-stolen-truck-trailers-lead-to-multiple-pursuits-across-mississippi-alabama",
     "https://darkhorsepressnow.com/news/2026-05-28/florida-men-sentenced-in-madison-burn-boot-camp-burglary-spree",
     "https://darkhorsepressnow.com/news/2026-05-28/tunica-humane-society-issues-warning-about-leaving-children-and-pets-in-vehicles",
